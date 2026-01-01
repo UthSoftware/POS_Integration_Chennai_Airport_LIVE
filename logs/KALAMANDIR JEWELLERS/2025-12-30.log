@@ -1,0 +1,6 @@
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:34:41.743Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-30T16:34:41.745Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-30T16:34:42.178Z"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:35:00.094Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-30T16:35:00.097Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-30T16:35:00.255Z"}

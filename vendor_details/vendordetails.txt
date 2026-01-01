@@ -1,0 +1,4 @@
+vendor:KALAMANDIR JEWELLERS
+outletname:DOMESTIC 1
+outletid:
+Terminal:TERMINAL 1

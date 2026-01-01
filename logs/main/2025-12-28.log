@@ -1,0 +1,47 @@
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T16:25:36.418Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T16:25:36.683Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T16:25:36.685Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T16:25:42.449Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T16:25:42.451Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T16:30:00.032Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-28T16:32:50.429Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T16:32:59.433Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T16:32:59.687Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T16:32:59.688Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T16:33:04.736Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T16:33:04.738Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-28T16:34:40.975Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T16:43:13.077Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T16:43:13.436Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T16:43:13.437Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T16:43:19.026Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T16:43:19.028Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T16:45:00.060Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-28T16:45:18.962Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T16:50:08.990Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T16:50:09.262Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T16:50:09.264Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T16:50:10.506Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T16:50:10.509Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T16:55:00.049Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-28T16:56:19.457Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T17:12:17.880Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T17:12:18.127Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T17:12:18.129Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T17:12:20.223Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T17:12:20.227Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T17:15:00.058Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T17:20:00.050Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T17:25:00.042Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-28T17:28:42.397Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T17:28:59.586Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T17:29:00.086Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T17:29:00.091Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T17:29:01.902Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T17:29:01.905Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-28T17:30:00.058Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-28T17:30:33.457Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2025-12-28T17:30:33.732Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-28T17:30:33.734Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2025-12-28T17:30:35.040Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-28T17:30:35.043Z"}

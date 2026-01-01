@@ -1,0 +1,99 @@
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:37:09.047Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:37:09.049Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:45:31.400Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:45:31.402Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:50:00.256Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:50:00.257Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:52:55.396Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:52:55.398Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.544Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.547Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.550Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.552Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.553Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.555Z","transaction_id":"#GI0015595550"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.557Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.558Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.560Z","transaction_id":"#GI0015594420"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.561Z","transaction_id":"#GI0015593109"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.562Z","transaction_id":"#GI0015592908"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.564Z","transaction_id":"#GI0015591591"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.565Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.567Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.569Z","transaction_id":"#GI0015590581"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.571Z","transaction_id":"#GI0015590476"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:52:56.572Z","transaction_id":"#GI0015590304"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:55:00.244Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:55:00.245Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.362Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.364Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.366Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.370Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.371Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.373Z","transaction_id":"#GI0015595550"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.374Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.375Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.376Z","transaction_id":"#GI0015594420"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.377Z","transaction_id":"#GI0015593109"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.378Z","transaction_id":"#GI0015592908"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.379Z","transaction_id":"#GI0015591591"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.381Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.382Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.383Z","transaction_id":"#GI0015590581"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.385Z","transaction_id":"#GI0015590476"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:55:01.386Z","transaction_id":"#GI0015590304"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:58:50.993Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T16:58:50.995Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.491Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.493Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.494Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.496Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.497Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.498Z","transaction_id":"#GI0015595550"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.499Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.500Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.501Z","transaction_id":"#GI0015594420"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.502Z","transaction_id":"#GI0015593109"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.503Z","transaction_id":"#GI0015592908"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.504Z","transaction_id":"#GI0015591591"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.505Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.506Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.507Z","transaction_id":"#GI0015590581"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.508Z","transaction_id":"#GI0015590476"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T16:58:52.509Z","transaction_id":"#GI0015590304"}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.533Z","transaction_id":"#GI0015595992","values":["883ec5d4-2e56-40b8-ac75-51b416e15192","#GI0015595992",9098581770402,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 16:59:08",null,["KPD01","PM0363"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.550Z","transaction_id":"#GI0015595939","values":["8da90709-0274-499f-90ca-64c145c4ab61","#GI0015595939",9098543595682,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 16:53:09",null,["GDLER0287","GDLBR042"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.563Z","transaction_id":"#GI0015595550","values":["d0c193be-f8c3-4537-8f33-be3444762731","#GI0015595550",9098262184098,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 16:05:34",null,["KER042","KBR071"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.570Z","transaction_id":"#GI0015594420","values":["3e7ea21b-a0a6-487c-bbd2-2dc38c8200ac","#GI0015594420",9097648603298,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 14:09:53",null,["GDLMN05"],[null],[null],[null],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.583Z","transaction_id":"#GI0015593109","values":["10e349e6-76c4-4e2a-bd1d-35f59c95698d","#GI0015593109",9097086730402,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 11:59:49",null,["ER0474","PD0339"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.592Z","transaction_id":"#GI0015592908","values":["d6517149-235d-41af-8886-4d9d63ebac9b","#GI0015592908",9097004646562,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 11:36:31",null,["PD005","ER0582"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.599Z","transaction_id":"#GI0015591591","values":["e558d881-ad2d-4077-b85f-eb7f8cbc761b","#GI0015591591",9096415248546,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 08:37:54",null,["GDLR0438"],[null],[null],[null],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.606Z","transaction_id":"#GI0015591521","values":["acf1d687-1092-45fc-8a61-1ee882720ace","#GI0015591521",9096371142818,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 08:25:22",null,["CA057","CA056"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.618Z","transaction_id":"#GI0015590581","values":["6d07d07e-25cc-4402-af7b-587176ac1770","#GI0015590581",9095673446562,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 05:32:59",null,["R054","PER036"],[null,null],[null,null],[null,null],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":3,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.626Z","transaction_id":"#GI0015590476","values":["78eeda89-9129-4bc2-befa-9b551de297b1","#GI0015590476",9095505510562,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 05:01:11",null,["ER0462","ER0600","PER013"],[null,null,null],[null,null,null],[null,null,null],[1,1,1],[null,null,null],[null,null,null],[null,null,null],[null,null,null],[0,0,0],[0,0,0],[0,0,0],null,null,"SALE",[0,0,0],[null,null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-30T16:58:52.635Z","transaction_id":"#GI0015590304","values":["f215f688-a304-4667-ab69-9788c335f14a","#GI0015590304",9095117734050,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-11-30 03:19:52",null,["ER01966"],[null],[null],[null],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T17:00:00.239Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T17:00:00.240Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.298Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.300Z","transaction_id":"#GI0015595992"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.301Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.305Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.306Z","transaction_id":"#GI0015595939"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.307Z","transaction_id":"#GI0015595550"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.309Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.310Z","transaction_id":"#GI0015594420"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.311Z","transaction_id":"#GI0015594420"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.311Z","transaction_id":"#GI0015593109"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.313Z","transaction_id":"#GI0015592908"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.314Z","transaction_id":"#GI0015591591"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.315Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.316Z","transaction_id":"#GI0015591521"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.317Z","transaction_id":"#GI0015590581"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.318Z","transaction_id":"#GI0015590476"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":0,"timestamp":"2025-12-30T17:00:01.319Z","transaction_id":"#GI0015590304"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T17:01:55.520Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T17:01:55.522Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T17:04:30.280Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T17:04:30.283Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T17:05:00.058Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-30T17:05:00.060Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}

@@ -1,0 +1,446 @@
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:26:34.025Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:26:34.027Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6819","error":"Request failed with status code 400","level":"error","message":"Data fetch failed","timestamp":"2025-12-31T08:26:34.346Z"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:30:00.289Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:30:00.290Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6819","error":"Request failed with status code 400","level":"error","message":"Data fetch failed","timestamp":"2025-12-31T08:30:00.426Z"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:32:09.697Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6819","error":"params is not defined","level":"error","message":"Data fetch failed","timestamp":"2025-12-31T08:32:09.699Z"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:32:36.681Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:32:36.683Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:35:00.228Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:35:00.229Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:40:00.335Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:40:00.336Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:53:26.153Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:53:26.163Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.627Z","transaction_id":"#GI0015752064","values":["285b8c87-32bb-4606-8bb1-09ff514249a7","#GI0015752064",9219566764194,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-31 06:05:31",null,["ID040"],["Silver Ekadant Idol"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.642Z","transaction_id":"#GI0015751466","values":["68570a1c-6fc2-4b6e-99c0-7e7256dee429","#GI0015751466",9219050832034,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-31 02:08:30",null,["ER03026"],["Rose Gold Glittering Earrings"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.650Z","transaction_id":"#GI0015748539","values":["64aa3b59-18ad-4bb0-bee2-03b7aea99e1a","#GI0015748539",9216958398626,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 12:26:41",null,["PD01335","PM0334"],["Rose Gold Deer Heart Necklace","Red Bauble Box"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.662Z","transaction_id":"#GI0015746681","values":["21bd37fd-2d5f-4afd-a830-396c1bbe42f4","#GI0015746681",9216381092002,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 07:35:20",null,["PM0334","PD002"],["Red Bauble Box","Silver Pearl Pendant with Link Chain"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":3,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.669Z","transaction_id":"#GI0015746250","values":["030fee0a-9a8c-4360-9053-b05f36ce7f40","#GI0015746250",9216157483170,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 05:59:23",null,["PD0184","ER0621","PD02608"],["Silver Zircon Angel Pendant with Link Chain","Silver Love Like A Butterfly Studs","Silver Anjaneya Pendant With Box Chain For Him"],[null,null,null],["Jewellery","Jewellery","Jewellery"],[1,1,1],[null,null,null],[null,null,null],[null,null,null],[null,null,null],[0,0,0],[0,0,0],[0,0,0],null,null,"SALE",[0,0,0],[null,null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.678Z","transaction_id":"#GI0015745944","values":["ab9b19df-110a-45cd-b662-8c4172f9c2a7","#GI0015745944",9215845302434,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 03:56:11",null,["R01975_20","PM0334"],["Silver Rope Ring for Him","Red Bauble Box"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.689Z","transaction_id":"#GI0015745941","values":["2dad51a7-8ca9-4da8-9095-34027022eddd","#GI0015745941",9215837634722,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 03:52:16",null,["BR0381","ER0582"],["Silver Pink Leaf Bracelet","Silver Flowery Snowflake Studs"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.697Z","transaction_id":"#GI0015745940","values":["042a6317-a620-4dae-b4ce-a508555ade29","#GI0015745940",9215837405346,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-30 03:52:12",null,["R0112"],["Rose Gold Weave Ring"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.705Z","transaction_id":"#GI0015745734","values":["502e88ba-cc3d-474b-943a-c17c43e6c901","#GI0015745734",9215074271394,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 21:40:39",null,["ER0261"],["Silver Zircon Shining Hoop Huggies Earrings"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":7,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.714Z","transaction_id":"#GI0015743698","values":["13f990f0-4931-4a9e-8366-acafa6f28ed2","#GI0015743698",9213637787810,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 13:15:24",null,["R01748","ER02473","ER02612","R0155","PD02245","PD02276","ER02299"],["Silver Bell Mallow Ring","Rose Gold Floral Work Earrings","Rose Gold Love Square Earrings","Rose Gold Classic Shimmering Ring","Rose Gold Rani Ebony Pendant with Link Chain","Rose Gold Eve Beauty Pendant With Link Chain","Rose Gold Zircon Drizzle Drop Earrings"],[null,null,null,null,null,null,null],["Jewellery","Jewellery","Jewellery","Jewellery","Jewellery","Jewellery","Jewellery"],[1,1,1,1,1,1,1],[null,null,null,null,null,null,null],[null,null,null,null,null,null,null],[null,null,null,null,null,null,null],[null,null,null,null,null,null,null],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],null,null,"SALE",[0,0,0,0,0,0,0],[null,null,null,null,null,null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.723Z","transaction_id":"#GI0015742893","values":["3417e16a-69f2-4d47-b520-f92cb85cf346","#GI0015742893",9213404676258,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 11:32:58",null,["PD096"],["Anushka Sharma Silver Deer Heart Necklace"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.731Z","transaction_id":"#GI0015742272","values":["759ec250-de80-4682-acd4-988222310c6f","#GI0015742272",9213205217442,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 09:48:57",null,["ER0474","ER0474"],["Silver Zircon Emerald Sunshine Studs","Silver Zircon Emerald Sunshine Studs"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":2,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.739Z","transaction_id":"#GI0015741415","values":["3af69f76-7da6-4e3a-9c35-34b89aac3c80","#GI0015741415",9212716286114,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 06:50:48",null,["ER02532","BR0896"],["Silver Infinity Heart Earrings","Silver Infinity Bracelet"],[null,null],["Jewellery","Jewellery"],[1,1],[null,null],[null,null],[null,null],[null,null],[0,0],[0,0],[0,0],null,null,"SALE",[0,0],[null,null]]}
+{"item_count":1,"level":"info","message":"Inserting aggregated items","timestamp":"2025-12-31T08:53:27.746Z","transaction_id":"#GI0015741200","values":["0d06ae29-e286-43df-a788-acccc040902c","#GI0015741200",9212558180514,"VVC00046","GIVA JEWELLERY",72639545506,"DOMESTIC 1","TERMINAL 1",null,"2025-12-29 05:56:36",null,["ER02768"],["Silver Classic Shiny Drop Earrings"],[null],["Jewellery"],[1],[null],[null],[null],[null],[0],[0],[0],null,null,"SALE",[0],[null]]}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T08:55:00.364Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T08:55:00.367Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:02:59.182Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:02:59.184Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:19:05.316Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:19:05.318Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:31:20.577Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:31:20.579Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:33:30.287Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:33:30.289Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:34:32.989Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:34:32.991Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:35:00.073Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:35:00.075Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:40:00.324Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:40:00.326Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:43:30.057Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:43:30.058Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:45:00.232Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:45:00.232Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:50:00.091Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:50:00.091Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T09:55:00.194Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T09:55:00.194Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:51:50.324Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:51:50.326Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:55:00.232Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:55:00.232Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:55:21.883Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:55:21.884Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:55:53.435Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:55:53.449Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:56:09.542Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:56:09.544Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:57:26.222Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:57:26.223Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:58:59.394Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:58:59.395Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T10:59:02.588Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T10:59:02.590Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:00:00.102Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:00:00.102Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:02:30.789Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:02:30.791Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:06:50.574Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:06:50.574Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:07:17.312Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:07:17.314Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:10:00.201Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:10:00.202Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:14:18.128Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:14:18.129Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.547Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.548Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.549Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.550Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.551Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.551Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.552Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.552Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.553Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.554Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.555Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.555Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.556Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.557Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.557Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:19.558Z","transaction_id":"#GI0015745940"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:14:43.002Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:14:43.003Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.324Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.325Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.325Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.326Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.326Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.326Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.327Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.327Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.327Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.328Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.328Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.328Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.329Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.329Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.329Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:14:44.329Z","transaction_id":"#GI0015745940"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:15:15.731Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:15:15.732Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.238Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.239Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.240Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.240Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.241Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.241Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.242Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.242Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.242Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.243Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.243Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.244Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.244Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.244Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.245Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.245Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.246Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.246Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.247Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.247Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.248Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:15:17.248Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:16:16.002Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:16:16.003Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.522Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.523Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.523Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.524Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.524Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.524Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.525Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.525Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.525Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.526Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.526Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.527Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.527Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.527Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.527Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.528Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.528Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.529Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.529Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.529Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.530Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:17.530Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:16:50.995Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:16:50.996Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.386Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.387Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.387Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.388Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.388Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.389Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.389Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.390Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.390Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.391Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.391Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.391Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.392Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.392Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.392Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.393Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.393Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.393Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.393Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.394Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.394Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:16:52.394Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:17:18.018Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:17:18.019Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.362Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.363Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.364Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.365Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.365Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.366Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.366Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.367Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.367Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.368Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.368Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.369Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.369Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.370Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.370Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.371Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.371Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.372Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.373Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.373Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.374Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:17:19.375Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:18:54.916Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:18:54.917Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.267Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.269Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.269Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.270Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.271Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.271Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.272Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.272Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.273Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.273Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.274Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.274Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.275Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.275Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.276Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.276Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.277Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.278Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.279Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.279Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.280Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:18:56.280Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:19:20.919Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:19:20.920Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.207Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.208Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.209Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.209Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.210Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.210Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.210Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.211Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.211Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.212Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.212Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.213Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.213Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.213Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.214Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.214Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.215Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.215Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.216Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.217Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.217Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:19:22.218Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:19:58.926Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:19:58.927Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:20:00.022Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:20:00.023Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.381Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.382Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.383Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.384Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.384Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.385Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.385Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.386Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.386Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.387Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.387Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.388Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.388Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.389Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.390Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.391Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.391Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.392Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.393Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.393Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.394Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:00.394Z","transaction_id":"#GI0015741200"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.341Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.342Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.342Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.342Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.342Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.343Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.343Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.343Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.344Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.344Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.344Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.345Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.345Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.345Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.346Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.346Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.346Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.346Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.347Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.347Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.347Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:01.348Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:20:22.904Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:20:22.905Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.839Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.840Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.841Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.841Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.842Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.842Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.843Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.843Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.844Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.844Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.845Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.845Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.846Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.846Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.846Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.846Z","transaction_id":"#GI0015745940"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.847Z","transaction_id":"#GI0015745734"}
+{"items_count":7,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.847Z","transaction_id":"#GI0015743698"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.848Z","transaction_id":"#GI0015742893"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.848Z","transaction_id":"#GI0015742272"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.849Z","transaction_id":"#GI0015741415"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:20:24.849Z","transaction_id":"#GI0015741200"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:21:56.677Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:21:56.678Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.961Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.962Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.962Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.962Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.963Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.963Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.964Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.964Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.964Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.965Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.965Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.965Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.965Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.966Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.966Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:21:57.966Z","transaction_id":"#GI0015745940"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:22:11.763Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:22:11.764Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.071Z","transaction_id":"#GI0015753198"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.072Z","transaction_id":"#GI0015753198"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.072Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.072Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.073Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.073Z","transaction_id":"#GI0015753086"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.074Z","transaction_id":"#GI0015752064"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.074Z","transaction_id":"#GI0015751466"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.074Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.075Z","transaction_id":"#GI0015748539"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.075Z","transaction_id":"#GI0015746681"}
+{"items_count":3,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.076Z","transaction_id":"#GI0015746250"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.076Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.077Z","transaction_id":"#GI0015745944"}
+{"items_count":2,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.077Z","transaction_id":"#GI0015745941"}
+{"items_count":1,"level":"info","message":"Transaction mapped","payments_count":1,"timestamp":"2025-12-31T11:22:13.078Z","transaction_id":"#GI0015745940"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:22:51.054Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:22:51.055Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:25:00.096Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:25:00.097Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:26:36.550Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:26:36.551Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:27:36.536Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:27:36.537Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:30:00.092Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:30:00.092Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:31:11.023Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:31:11.025Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:32:32.147Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:32:32.148Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:35:00.102Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:35:00.103Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:38:16.779Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:38:16.780Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:39:09.109Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:39:09.110Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:40:00.106Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:40:00.107Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:41:27.834Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:41:27.835Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:44:00.701Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:44:00.702Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:45:00.119Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:45:00.120Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:46:22.647Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:46:22.648Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:46:33.744Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:46:33.745Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:47:52.386Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:47:52.386Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:48:36.705Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:48:36.705Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:50:00.095Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:50:00.095Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T11:50:09.131Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T11:50:09.132Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30","message":"Max transaction date retrieved","timestamp":"2025-12-31T13:44:44.189Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T13:44:44.190Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T13:45:00.067Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T13:45:00.067Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T13:50:00.118Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T13:50:00.119Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T13:55:00.119Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T13:55:00.119Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:00:00.161Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:00:00.161Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:05:00.152Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:05:00.152Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:10:00.208Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:10:00.209Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:15:00.426Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:15:00.430Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:20:00.324Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:20:00.325Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:25:00.397Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:25:00.400Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:30:00.319Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:30:00.320Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:35:00.259Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:35:00.264Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:40:00.329Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:40:00.333Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:45:00.280Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:45:00.281Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:50:00.349Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:50:00.349Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T14:55:00.295Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T14:55:00.296Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T15:00:00.249Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T15:00:00.250Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T15:05:00.228Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T15:05:00.228Z","url":"https://api.giva.co/pos/posTransactions?"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2025-12-31T18:00:00.412Z"}
+{"auth":"DISABLED","level":"info","message":"Calling API","method":"GET","timestamp":"2025-12-31T18:00:00.413Z","url":"https://api.giva.co/pos/posTransactions?"}

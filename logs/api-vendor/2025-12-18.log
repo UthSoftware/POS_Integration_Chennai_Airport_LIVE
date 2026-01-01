@@ -1,0 +1,4 @@
+{"errors":[{"location":"body","msg":"Invalid value","path":"base_format","type":"field","value":"SOAP"}],"level":"warn","message":"Validation failed","timestamp":"2025-12-18T16:37:25.912Z"}
+{"errors":[{"location":"body","msg":"Invalid value","path":"base_format","type":"field","value":"SOAP"}],"level":"warn","message":"Validation failed","timestamp":"2025-12-18T16:38:42.968Z"}
+{"errors":[{"location":"body","msg":"Invalid value","path":"base_format","type":"field","value":"SOAP"}],"level":"warn","message":"Validation failed","timestamp":"2025-12-18T16:40:36.431Z"}
+{"level":"info","message":"Vendor created","timestamp":"2025-12-18T16:42:13.293Z","vendor_id":"5836e259-a2d5-4dfb-8d7f-0336956f6818","vendor_name":"ACCESSORIES LONDON"}

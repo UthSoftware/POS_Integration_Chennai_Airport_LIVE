@@ -1,0 +1,75 @@
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T17:59:11.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T17:59:11.239Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T17:59:11.606Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:00:00.295Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:00:00.297Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:00:00.421Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:05:00.215Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:05:00.216Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:05:00.393Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:10:00.096Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:10:00.096Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:10:00.248Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:15:00.220Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:15:00.221Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:15:00.516Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:20:00.207Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:20:00.208Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:20:00.353Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:25:00.315Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:25:00.316Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:25:00.451Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:30:00.239Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:30:00.240Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:30:00.525Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:35:00.356Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:35:00.358Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:35:00.525Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:40:00.288Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:40:00.290Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:40:00.476Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:45:09.271Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:45:09.273Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:45:09.656Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:48:00.970Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:48:00.972Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:48:01.252Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:48:07.962Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:48:07.965Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:48:08.290Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T18:48:46.525Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T18:48:46.527Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T18:48:46.798Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:07:09.395Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:07:09.398Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:07:09.756Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:09:34.836Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:09:34.837Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:09:35.137Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:16:59.739Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:16:59.741Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:16:59.996Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:18:16.404Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:18:16.406Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:18:16.676Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:20:01.658Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:20:01.660Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:20:01.897Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:22:48.373Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:22:48.374Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:22:48.774Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:23:19.794Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:23:19.806Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:23:20.065Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:25:00.344Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:25:00.345Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:25:00.519Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:26:53.938Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:26:53.940Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:26:54.285Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:28:56.447Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:28:56.449Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:28:56.752Z"}
+{"level":"info","maxDate":"2025-12-26","message":"Max transaction date retrieved","timestamp":"2025-12-27T19:30:00.349Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2025-12-27T19:30:00.351Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2025-12-27T19:30:00.690Z"}

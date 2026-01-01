@@ -1,0 +1,35 @@
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T11:08:38.135Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T11:08:38.167Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T11:08:38.175Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T11:08:51.354Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T11:08:51.384Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T11:08:51.396Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T11:09:44.952Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T11:09:44.980Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T11:09:44.989Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T11:10:00.018Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T11:10:03.766Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T11:10:03.795Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T11:10:03.803Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-18T11:10:13.041Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T12:15:20.645Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T12:15:20.674Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T12:15:20.682Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T12:31:22.901Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-18T12:31:22.939Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-18T12:31:22.951Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T12:37:30.194Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":["pos_vendor_master","customer_api_configs","pos_vendor_field_mapping"],"timestamp":"2025-12-18T12:37:30.286Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2025-12-18T12:37:30.288Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T13:28:43.466Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":["pos_vendor_master","customer_api_configs","pos_vendor_field_mapping"],"timestamp":"2025-12-18T13:28:43.669Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2025-12-18T13:28:43.671Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T13:29:55.504Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":["pos_vendor_master","customer_api_configs","pos_vendor_field_mapping"],"timestamp":"2025-12-18T13:29:55.794Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2025-12-18T13:29:55.798Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T16:42:10.442Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":["pos_vendor_master","customer_api_configs","pos_vendor_field_mapping"],"timestamp":"2025-12-18T16:42:10.612Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2025-12-18T16:42:10.616Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-18T16:42:45.657Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":["customer_api_configs","pos_vendor_field_mapping"],"timestamp":"2025-12-18T16:42:46.050Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2025-12-18T16:42:46.053Z"}

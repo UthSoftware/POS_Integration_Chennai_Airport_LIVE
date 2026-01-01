@@ -1,0 +1,115 @@
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:12:01.037Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:12:01.295Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:12:01.315Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:12:01.316Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:12:02.915Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:17:40.178Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:17:40.466Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:17:40.505Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:17:40.507Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:17:41.450Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:19:28.246Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:19:28.498Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:19:28.532Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:19:28.534Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:19:29.277Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:19:45.674Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:19:45.924Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:19:45.953Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:19:45.955Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:19:46.794Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:20:00.059Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:20:00.186Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:20:00.211Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:20:00.213Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:20:01.027Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:25:00.353Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:25:00.457Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:25:00.484Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:25:00.485Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:25:01.679Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:28:24.562Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:28:24.821Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:28:24.857Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:28:24.860Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:28:25.869Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:29:33.607Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:29:33.840Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:29:33.873Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:29:33.875Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:29:34.678Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:30:00.126Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:30:00.263Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:30:00.292Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:30:00.294Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:30:01.098Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:35:00.109Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:35:00.187Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:35:00.191Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:35:00.191Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:35:00.906Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:40:00.217Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:40:00.316Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:40:00.337Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:40:00.338Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:40:01.247Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T14:45:00.101Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T14:45:00.186Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T14:45:00.194Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T14:45:00.194Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T14:45:01.159Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:44:56.440Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:44:57.191Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:44:57.215Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:44:57.216Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:44:58.666Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:45:00.039Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:45:00.069Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:45:00.076Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:45:00.076Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:45:00.917Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:45:15.449Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:45:15.650Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:45:15.668Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:45:15.669Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:45:16.587Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:50:00.149Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:50:00.242Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:50:00.259Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:50:00.260Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:50:01.255Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:51:55.348Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:51:55.568Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:51:55.584Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:51:55.585Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:51:56.469Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T15:55:00.157Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T15:55:00.241Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T15:55:00.260Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T15:55:00.261Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T15:55:01.320Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T16:07:49.377Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T16:07:49.632Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T16:07:49.661Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T16:07:49.662Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T16:07:50.949Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T16:10:00.428Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T16:10:00.534Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T16:10:00.564Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T16:10:00.565Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T16:10:01.406Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T16:15:00.249Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T16:15:00.358Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T16:15:00.385Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T16:15:00.386Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T16:15:01.345Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T16:20:00.170Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T16:20:00.291Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T16:20:00.314Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T16:20:00.315Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T16:20:01.274Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-23T16:25:00.371Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-23T16:25:00.481Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-23T16:25:00.498Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-23T16:25:00.498Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1764527400000"}
+{"level":"info","message":"API data fetched successfully","recordCount":17,"timestamp":"2025-12-23T16:25:01.413Z"}

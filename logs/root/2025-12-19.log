@@ -1,0 +1,6 @@
+{"level":"info","message":"Starting POS Integration (API + Cron)","timestamp":"2025-12-19T09:43:13.142Z"}
+{"level":"info","message":"API server started","timestamp":"2025-12-19T09:43:13.152Z"}
+{"level":"info","message":"Cron agent started","timestamp":"2025-12-19T09:43:14.471Z"}
+{"level":"info","message":"Starting POS Integration (API + Cron)","timestamp":"2025-12-19T09:43:35.976Z"}
+{"level":"info","message":"API server started","timestamp":"2025-12-19T09:43:35.987Z"}
+{"level":"info","message":"Cron agent started","timestamp":"2025-12-19T09:43:36.998Z"}

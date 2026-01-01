@@ -1,0 +1,413 @@
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:23:30.735Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:23:30.736Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:23:32.309Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:23:32.479Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:23:35.271Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:23:35.271Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:23:36.298Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:23:36.466Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:27:07.524Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:27:07.524Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:27:08.437Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:27:08.613Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:30:00.082Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:30:00.082Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:30:01.027Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:30:01.195Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:30:48.813Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:30:48.814Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:30:49.771Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:30:50.052Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:31:01.594Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:31:01.595Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:31:02.564Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:31:02.719Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:32:34.342Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:32:34.342Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:32:35.401Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:32:35.559Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:32:51.952Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:32:51.953Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:32:52.996Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:32:53.170Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:33:04.595Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:33:04.596Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:33:05.604Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:33:05.808Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:33:44.453Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:33:44.453Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:33:45.404Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:33:45.746Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:33:51.494Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:33:51.494Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:33:52.566Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:33:52.876Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:35:00.196Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:35:00.196Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:35:01.166Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:35:01.475Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:40:00.080Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:40:00.081Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:40:01.030Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:40:01.431Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:45:00.202Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:45:00.202Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:45:01.245Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:45:01.651Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:50:00.086Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:50:00.086Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:50:01.063Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:50:01.325Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T07:55:00.101Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T07:55:00.101Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T07:55:01.143Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T07:55:01.360Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:25:00.078Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:25:00.079Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:25:01.714Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:25:01.999Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:29:00.689Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:29:00.689Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:29:01.652Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:29:01.834Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:29:11.518Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:29:11.518Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:29:12.510Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:29:12.675Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:30:00.109Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:30:00.109Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:30:12.268Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:30:12.268Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:30:13.143Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:30:13.303Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:31:50.207Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:31:50.208Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:31:51.386Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:31:51.529Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:33:17.161Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:33:17.161Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:33:18.039Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:33:18.197Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:35:00.091Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:35:00.091Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:35:01.303Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:35:01.443Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:36:02.005Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:36:02.006Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:36:02.946Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:36:03.137Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:36:26.540Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:36:26.540Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:36:27.427Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:36:27.572Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:39:16.372Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:39:16.372Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:39:17.331Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:39:17.558Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:39:42.251Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:39:42.251Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:39:43.174Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:39:43.491Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:40:00.032Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:40:00.032Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:40:00.947Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:40:01.114Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:40:30.416Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:40:30.416Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:40:31.417Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:40:31.718Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:40:59.215Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:40:59.215Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:41:00.147Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:41:00.397Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:48:58.496Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:48:58.497Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:48:59.598Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:48:59.834Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T09:50:00.102Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T09:50:00.103Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T09:50:01.161Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T09:50:01.274Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:17:32.194Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:17:32.195Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:17:34.356Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:17:34.391Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:20:00.155Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:20:00.156Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:20:01.135Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:20:01.160Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:25:00.263Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:25:00.264Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:25:01.280Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:25:01.331Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:29:33.592Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:29:33.593Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:29:50.521Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:29:50.522Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:29:51.847Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:29:51.881Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:30:00.058Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:30:00.059Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:30:01.171Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:30:01.209Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:31:28.459Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:31:28.460Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:31:29.441Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:31:29.474Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:31:50.624Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:31:50.626Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:31:51.611Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:31:51.653Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:33:32.096Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:33:32.097Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:33:33.049Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:33:33.438Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T10:35:00.149Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T10:35:00.149Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T10:35:01.215Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T10:35:01.358Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:07:13.123Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:07:13.123Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:07:14.939Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:07:15.243Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:10:00.278Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:10:00.279Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:10:01.247Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:10:01.635Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:24:43.369Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:24:43.370Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:24:44.654Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:24:44.717Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:24:56.384Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:24:56.385Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:24:57.567Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:24:57.624Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:25:00.059Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:25:00.060Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:25:00.930Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:25:00.957Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:25:29.842Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:25:29.843Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:25:30.752Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:25:30.793Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:25:41.579Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:25:41.580Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:25:42.616Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:25:42.669Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:27:49.207Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:27:49.208Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:27:50.505Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:27:50.549Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:29:54.626Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:29:54.628Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:29:55.758Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:29:55.798Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:30:00.046Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:30:00.047Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:30:01.074Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:30:01.098Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:31:40.750Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:31:40.752Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:31:41.954Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:31:42.000Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:32:28.992Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:32:28.993Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:32:30.183Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:32:30.238Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:35:00.244Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:35:00.246Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:35:01.216Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:35:01.249Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:40:00.309Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:40:00.311Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:40:01.150Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:40:01.192Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:46:54.317Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:46:54.318Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:46:55.574Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:46:55.613Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:48:22.280Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:48:22.281Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:48:23.402Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:48:23.788Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:48:42.746Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:48:42.747Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:48:44.043Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:48:44.428Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:50:00.394Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:50:00.396Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:50:01.421Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:50:02.129Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:56:17.446Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:56:17.447Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:56:18.463Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:56:19.910Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T11:57:48.034Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T11:57:48.035Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T11:57:48.937Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T11:57:49.166Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:00:00.240Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:00:00.241Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:00:02.009Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:00:02.385Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:05:00.273Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:05:00.273Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:05:01.318Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:05:01.620Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:10:00.205Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:10:00.205Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:10:01.238Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:10:01.645Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:31:19.930Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:31:19.931Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:31:21.069Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:31:21.112Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:31:33.227Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:31:33.228Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:31:34.252Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:31:34.275Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:35:00.302Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:35:00.302Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:35:01.324Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:35:01.382Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:37:12.317Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:37:12.318Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:37:13.374Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:37:13.446Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:37:38.289Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:37:38.290Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:37:39.381Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:37:39.433Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:40:00.163Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:40:00.164Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:40:01.201Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:40:01.248Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:45:00.306Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:45:00.306Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:45:01.444Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:45:01.514Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:47:44.204Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:47:44.205Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:47:45.281Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:47:45.620Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:50:00.253Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:50:00.253Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:50:01.145Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:50:01.372Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:52:31.397Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:52:31.398Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T12:52:32.408Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:52:32.474Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T12:55:00.209Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T12:55:00.210Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6819","error":"timeout of 30000ms exceeded","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:55:30.246Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T12:55:30.398Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:00:00.241Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:00:00.241Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:00:03.274Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:00:03.335Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:05:00.242Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:05:00.243Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:05:01.271Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:05:01.302Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:06:42.471Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:06:42.472Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:06:43.457Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:06:43.498Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:07:41.257Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:07:41.258Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:07:42.429Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:07:42.465Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:10:00.238Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:10:00.242Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:10:01.088Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:10:01.153Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetch]ing data from API","timestamp":"2025-12-22T13:15:00.223Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:15:00.223Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:15:01.633Z"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Unknown source type: soap","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:15:01.677Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T13:43:39.278Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:43:39.279Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:43:40.357Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T13:43:40.666Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:43:40.786Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T13:45:00.076Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T13:45:00.076Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T13:45:01.062Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T13:45:01.330Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T13:45:01.491Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T14:37:11.210Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T14:37:11.211Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T14:37:13.047Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T14:37:13.396Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T14:37:13.500Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T14:40:00.080Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T14:40:00.080Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T14:40:01.025Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T14:40:01.342Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T14:40:01.616Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T14:45:00.082Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T14:45:00.082Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T14:45:01.084Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T14:45:01.503Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T14:45:01.737Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:33:57.588Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:33:57.589Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:33:59.372Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:34:00.159Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:34:00.281Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:35:11.092Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:35:11.094Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:35:12.464Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:35:13.034Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:35:13.154Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:40:00.139Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:40:00.140Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:40:01.147Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:40:01.513Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:40:01.607Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:42:08.117Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:42:08.117Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:42:09.240Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:42:09.894Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:42:10.016Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:42:22.648Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:42:22.649Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:42:23.888Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:42:24.371Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:42:24.488Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:44:12.039Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:44:12.040Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:44:13.180Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:44:13.606Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:44:13.727Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:45:12.982Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:45:12.983Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:45:14.181Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:45:14.612Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:45:14.722Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:45:54.352Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:45:54.353Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:45:55.454Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:45:55.844Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:45:56.057Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:46:06.975Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:46:06.976Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:46:07.854Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:46:08.206Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:46:08.322Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:50:00.317Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:50:00.319Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:50:01.433Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:50:01.883Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:50:02.061Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:50:12.163Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:50:12.395Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:50:12.408Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:50:12.408Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:50:13.223Z"}
+{"level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-22T16:50:23.085Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
+{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-22T16:50:23.295Z"}
+{"cac_auth_header_key":"storeid","cac_auth_header_value":"72639545506","level":"info","message":"Fetching data from API","timestamp":"2025-12-22T16:50:23.319Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"headers":{"storeid":"72639545506"},"level":"info","message":"API request details","method":"Get","timestamp":"2025-12-22T16:50:23.320Z","url":"https://api.giva.co/pos/posTransactions?from=1764527400000&to=1766130599000"}
+{"level":"info","message":"API data fetched successfully","recordCount":121,"timestamp":"2025-12-22T16:50:24.287Z"}

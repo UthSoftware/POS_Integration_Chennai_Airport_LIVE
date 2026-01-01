@@ -1,0 +1,9 @@
+{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-18T13:28:43.471Z"}
+{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-18T13:29:55.511Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","path":"/health","timestamp":"2025-12-18T13:30:07.420Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/vendors","timestamp":"2025-12-18T16:37:25.897Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/vendors","timestamp":"2025-12-18T16:38:42.958Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/vendors","timestamp":"2025-12-18T16:40:36.427Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-18T16:42:10.449Z"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/vendors","timestamp":"2025-12-18T16:42:13.243Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-18T16:42:45.665Z"}

@@ -1,0 +1,42 @@
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-17T10:44:28.995Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-17T10:44:29.161Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-17T10:44:29.186Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-17T10:44:47.556Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-17T10:44:47.632Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-17T10:44:47.653Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T10:45:00.039Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T10:50:00.042Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T10:55:00.047Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T11:00:00.043Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T11:05:00.030Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T11:10:00.044Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T11:15:00.051Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-17T11:52:06.852Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-17T13:24:46.297Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-17T13:24:46.325Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-17T13:24:46.333Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T13:25:00.025Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2025-12-17T13:26:56.469Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2025-12-17T13:26:59.386Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2025-12-17T13:26:59.419Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2025-12-17T13:26:59.428Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T13:30:00.056Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T13:35:00.017Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T13:40:00.026Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-17T13:45:00.025Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T07:15:00.033Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T07:20:00.027Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T07:25:00.016Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:05:00.047Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:10:00.041Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:15:00.044Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:20:00.035Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:25:00.040Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:30:00.013Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:35:00.044Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:40:00.038Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:45:00.013Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:50:00.045Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T10:55:00.048Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T11:00:00.024Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2025-12-18T11:05:00.039Z"}
