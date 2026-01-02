@@ -1047,3 +1047,40 @@
 {"invoice_no":9222706495650,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:45:03.379Z","transaction_id":9222706495650}
 {"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":13,"timestamp":"2026-01-02T09:45:03.415Z"}
 {"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-02T09:45:03.416Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-02T09:50:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\Abd_Workplace\\Projects\\Vidveda node\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-02T09:50:00.029Z"}
+{"level":"info","message":"Found 2 active configurations","timestamp":"2026-01-02T09:50:00.044Z"}
+{"CUSTOMERID":"VVC00004","URL":"http://connect.gozwing.com/log/v1/store-invoices","configId":"218f4c20-6fe0-463b-b0e3-8680f14589f3","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-02T09:50:00.046Z","vendor":"MACV"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE123","timestamp":"2026-01-02T09:50:00.653Z","topKeys":["success","meta","data"],"type":"object"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-02T09:50:00.654Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-02T09:50:00.679Z","transactionCount":10}
+{"invoice_no":"SIC39011/260007","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.705Z","transaction_id":"60ac3778-02d9-49d6-9109-ec91573964eb"}
+{"invoice_no":"SIC39011/260008","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.717Z","transaction_id":"0aac83b8-9b05-499e-ad54-33a31607ac93"}
+{"invoice_no":"SIC39011/260009","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.731Z","transaction_id":"650a9892-6346-44ce-bd7c-4a31262542e8"}
+{"invoice_no":"SIC39011/260010","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.745Z","transaction_id":"97ef2371-c7e2-4354-a640-a0f0938e497f"}
+{"invoice_no":"SIC39011/260011","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.759Z","transaction_id":"57e2481b-ad2e-4a15-a529-00eec4d6672e"}
+{"invoice_no":"SIC39011/260012","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.776Z","transaction_id":"4bae3e63-5648-475e-b2eb-5e2d9d59a69c"}
+{"invoice_no":"SIC39011/260013","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.793Z","transaction_id":"c398664f-494f-4a73-92d0-77aab8c2c9ef"}
+{"invoice_no":"SIC39011/260014","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.807Z","transaction_id":"3406225e-68a9-4e2c-832d-9d6902cf6127"}
+{"invoice_no":"SIC39011/260015","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.824Z","transaction_id":"b7a275cb-7053-4e4e-a742-3ea8355b9d3a"}
+{"invoice_no":"SIC39011/260016","level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:00.837Z","transaction_id":"83e5b7ed-3ce8-4469-84f1-2f4422a9dfc0"}
+{"configId":"218f4c20-6fe0-463b-b0e3-8680f14589f3","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":10,"timestamp":"2026-01-02T09:50:00.928Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-02T09:50:00.928Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"isArray":true,"level":"info","message":"RAW API RESPONSE STRUCTURE123","timestamp":"2026-01-02T09:50:03.745Z","topKeys":["0","1","2","3","4","5","6","7","8","9","10","11","12"],"type":"object"}
+{"level":"info","message":"Data fetched successfully","recordCount":13,"timestamp":"2026-01-02T09:50:03.745Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-02T09:50:03.782Z","transactionCount":13}
+{"invoice_no":9226385948834,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.809Z","transaction_id":9226385948834}
+{"invoice_no":9226150346914,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.825Z","transaction_id":9226150346914}
+{"invoice_no":9224538226850,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.852Z","transaction_id":9224538226850}
+{"invoice_no":9224293187746,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.871Z","transaction_id":9224293187746}
+{"invoice_no":9223672627362,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.887Z","transaction_id":9223672627362}
+{"invoice_no":9223654211746,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.903Z","transaction_id":9223654211746}
+{"invoice_no":9223545618594,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.919Z","transaction_id":9223545618594}
+{"invoice_no":9223474380962,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.936Z","transaction_id":9223474380962}
+{"invoice_no":9223474413730,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.951Z","transaction_id":9223474413730}
+{"invoice_no":9223474282658,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.968Z","transaction_id":9223474282658}
+{"invoice_no":9223474315426,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.983Z","transaction_id":9223474315426}
+{"invoice_no":9222706757794,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:03.997Z","transaction_id":9222706757794}
+{"invoice_no":9222706495650,"level":"info","message":"Transaction already exists, skipping","timestamp":"2026-01-02T09:50:04.011Z","transaction_id":9222706495650}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":13,"timestamp":"2026-01-02T09:50:04.046Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-02T09:50:04.047Z"}

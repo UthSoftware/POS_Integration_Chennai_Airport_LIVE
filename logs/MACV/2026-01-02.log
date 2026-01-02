@@ -122,3 +122,4 @@
 {"level":"info","maxDate":"2026-01-01T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-02T09:45:00.057Z"}
 {"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:45:00.738Z","topKeys":["success","meta","data"],"type":"object"}
 {"level":"info","maxDate":"2026-01-01T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-02T09:50:00.064Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:50:00.673Z","topKeys":["success","meta","data"],"type":"object"}
