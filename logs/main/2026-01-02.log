@@ -100,3 +100,19 @@
 {"level":"info","message":"Scheduled ingestion triggered","timestamp":"2026-01-02T09:20:00.049Z"}
 {"level":"info","message":"Scheduled ingestion triggered","timestamp":"2026-01-02T09:25:00.052Z"}
 {"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2026-01-02T09:28:10.172Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2026-01-02T09:34:59.633Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"Cron scheduler started","syncInterval":5,"timestamp":"2026-01-02T09:35:00.048Z"}
+{"level":"info","message":"Running initial ingestion","timestamp":"2026-01-02T09:35:00.050Z"}
+{"level":"info","message":"Scheduled ingestion triggered","timestamp":"2026-01-02T09:35:00.075Z"}
+{"level":"info","message":"Initial ingestion completed successfully","timestamp":"2026-01-02T09:35:03.039Z"}
+{"level":"info","message":"POS Data Collector Agent is running","timestamp":"2026-01-02T09:35:03.046Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2026-01-02T09:36:05.570Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":[],"timestamp":"2026-01-02T09:36:06.068Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2026-01-02T09:36:06.076Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2026-01-02T09:36:38.789Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":[],"timestamp":"2026-01-02T09:36:38.868Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2026-01-02T09:36:38.872Z"}
+{"cronExpression":"*/5 * * * *","level":"info","message":"POS Data Collector Agent starting","syncInterval":"5 minutes","timestamp":"2026-01-02T09:37:02.084Z"}
+{"level":"error","message":"Configuration validation failed - Cron job will NOT start","missingTables":[],"timestamp":"2026-01-02T09:37:02.180Z"}
+{"level":"info","message":"Application running in configuration mode - cron disabled","timestamp":"2026-01-02T09:37:02.185Z"}
+{"level":"info","message":"HTTP server started on port 30035","timestamp":"2026-01-02T09:37:45.048Z"}

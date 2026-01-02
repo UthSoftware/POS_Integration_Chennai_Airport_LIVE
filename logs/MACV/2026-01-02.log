@@ -115,3 +115,7 @@
 {"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:20:00.853Z","topKeys":["success","meta","data"],"type":"object"}
 {"level":"info","maxDate":"2026-01-01T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-02T09:25:00.283Z"}
 {"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:25:00.945Z","topKeys":["success","meta","data"],"type":"object"}
+{"level":"info","maxDate":"2026-01-01T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-02T09:35:00.117Z"}
+{"level":"info","maxDate":"2026-01-01T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-02T09:35:00.265Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:35:00.959Z","topKeys":["success","meta","data"],"type":"object"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-02T09:35:00.994Z","topKeys":["success","meta","data"],"type":"object"}
