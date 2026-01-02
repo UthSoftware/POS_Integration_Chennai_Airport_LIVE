@@ -1,5 +1,5 @@
 const { v4: uuidv4 } = require('uuid');
-const ConfigModel = require('../models/ConfigModel');
+const ConfigModel = require('../models/configModel');
 const DataFetcher = require('./DataFetcher');
 const FieldMapper = require('./FieldMapper');
 const DataInserter = require('./DataInserter');
@@ -18,7 +18,7 @@ class IntegrationOrchestrator {
     try {
       // Load vendor filter from vendordetails.txt
       const vendorFilter = await this.loadVendorFilter();
-      
+
       const configs = await ConfigModel.getActiveConfigs(vendorFilter);
       this.logger.info(`Found ${configs.length} active configurations`);
 
@@ -36,10 +36,10 @@ class IntegrationOrchestrator {
     try {
       const vendorFilePath = path.join(__dirname, '../../vendordetails.txt');
       const content = await fs.readFile(vendorFilePath, 'utf-8');
-      
+
       const lines = content.split('\n');
       const vendorLine = lines.find(line => line.startsWith('001|vendor:'));
-      
+
       if (vendorLine) {
         const vendorName = vendorLine.split('vendor:')[1]?.trim();
         if (vendorName) {
@@ -47,7 +47,7 @@ class IntegrationOrchestrator {
           return [vendorName];
         }
       }
-      
+
       this.logger.warn('No vendor filter found in vendordetails.txt');
       return null;
     } catch (error) {
@@ -59,7 +59,7 @@ class IntegrationOrchestrator {
   async processConfig(config) {
     const batchId = uuidv4();
     const startTime = new Date();
-    
+
     this.logger.info('Processing configuration', {
       configId: config.cac_config_id,
       vendor: config.vendor_name,
@@ -78,12 +78,12 @@ class IntegrationOrchestrator {
       const rawData = await fetcher.fetchData();
 
       this.logger.info('RAW API RESPONSE STRUCTURE123', {
-  type: typeof rawData,
-  isArray: Array.isArray(rawData),
-  topKeys: rawData && typeof rawData === 'object'
-    ? Object.keys(rawData)
-    : 'NOT_OBJECT'
-});
+        type: typeof rawData,
+        isArray: Array.isArray(rawData),
+        topKeys: rawData && typeof rawData === 'object'
+          ? Object.keys(rawData)
+          : 'NOT_OBJECT'
+      });
 
 
       if (!rawData || (Array.isArray(rawData) && rawData.length === 0)) {
@@ -91,8 +91,8 @@ class IntegrationOrchestrator {
         return;
       }
 
-      this.logger.info('Data fetched successfully', { 
-        recordCount: Array.isArray(rawData) ? rawData.length : 1 
+      this.logger.info('Data fetched successfully', {
+        recordCount: Array.isArray(rawData) ? rawData.length : 1
       });
 
       // Step 2: Get ALL field mappings for this vendor
@@ -106,16 +106,16 @@ class IntegrationOrchestrator {
         ...allMappings.raw_transaction_items,
         ...allMappings.raw_payment
       ]);
-      
+
       const transactions = await mapper.mapTransactions(rawData);
 
-      this.logger.info('Data mapped successfully', { 
-        transactionCount: transactions.length 
+      this.logger.info('Data mapped successfully', {
+        transactionCount: transactions.length
       });
 
       // Step 4: Insert data in transaction with duplicate checking
       client = await inserter.pool.connect();
-      
+
       let totalRecords = 0;
       let totalErrors = 0;
       let totalSkipped = 0;
@@ -127,7 +127,7 @@ class IntegrationOrchestrator {
           try {
             // 🔹 Check if transaction already exists
             const exists = await inserter.checkTransactionExists(client, transaction);
-            
+
             if (exists) {
               totalSkipped++;
               this.logger.info('Transaction already exists, skipping', {
@@ -139,7 +139,7 @@ class IntegrationOrchestrator {
 
             // Insert transaction
             await inserter.insertTransaction(client, transaction);
-            
+
             // Insert items if available
             if (transaction.items && transaction.items.length > 0) {
               await inserter.insertTransactionItems(client, transaction.items, transaction);
@@ -147,7 +147,7 @@ class IntegrationOrchestrator {
             // console.log('Inserted transaction', {payments: transaction.payments.length});
             // Insert payments if available
             if (transaction.payments && transaction.payments.length > 0) {
-              await inserter.insertPayments(client, transaction.payments,transaction);
+              await inserter.insertPayments(client, transaction.payments, transaction);
             }
 
             totalRecords++;
@@ -194,8 +194,8 @@ class IntegrationOrchestrator {
           first_received_at: startTime,
           last_received_at: new Date(),
           status: 'SUCCESS',
-          meta: { 
-            batchId, 
+          meta: {
+            batchId,
             configId: config.cac_config_id,
             skippedCount: totalSkipped
           }
