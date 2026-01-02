@@ -81,39 +81,39 @@ class DataInserter {
   async checkTransactionExists(client, transaction) {
     const query = `
       SELECT 1 FROM raw_transactions
-      WHERE transaction_id = $1
+      WHERE invoice_no = $1
       LIMIT 1
     `;
 
-    const result = await client.query(query, [transaction.transaction_id]);
+    const result = await client.query(query, [transaction.invoice_no]);
     return result.rows.length > 0;
   }
 
   /**
    * Check if transaction items already exist
    */
-  async checkItemsExist(client, transaction_id) {
+  async checkItemsExist(client, invoice_no) {
     const query = `
       SELECT 1 FROM raw_transaction_items
-      WHERE transaction_id = $1
+      WHERE invoice_no = $1
       LIMIT 1
     `;
 
-    const result = await client.query(query, [transaction_id]);
+    const result = await client.query(query, [invoice_no]);
     return result.rows.length > 0;
   }
 
   /**
    * Check if payments already exist
    */
-  async checkPaymentsExist(client, transaction_id) {
+  async checkPaymentsExist(client, invoice_no) {
     const query = `
       SELECT 1 FROM raw_payment
-      WHERE transaction_id = $1
+      WHERE invoice_no = $1
       LIMIT 1
     `;
 
-    const result = await client.query(query, [transaction_id]);
+    const result = await client.query(query, [invoice_no]);
     return result.rows.length > 0;
   }
 
@@ -177,7 +177,7 @@ class DataInserter {
       transaction.invoice_no
     ];
 
-    // console.log('Inserting transaction', { transaction_id: values[12]});
+    console.log('Inserting transaction', { values: values });
 
     await client.query(query, values);
   }
@@ -186,7 +186,7 @@ class DataInserter {
     if (!items || items.length === 0) return;
 
     // 🔹 Check if items already exist
-    const itemsExist = await this.checkItemsExist(client, transaction.transaction_id);
+    const itemsExist = await this.checkItemsExist(client, transaction.invoice_no);
     
     if (itemsExist) {
       this.logger.info('Transaction items already exist, skipping', {
@@ -320,11 +320,11 @@ line_tax: items.map(i =>
     await client.query(query, values);
   }
 
-  async insertPayments(client, payments) {
+  async insertPayments(client, payments,transaction) {
     if (!payments || payments.length === 0) return;
 
     // 🔹 Check if payments already exist
-    const paymentsExist = await this.checkPaymentsExist(client, payments[0].transaction_id);
+    const paymentsExist = await this.checkPaymentsExist(client, transaction.invoice_no);
     
     if (paymentsExist) {
       this.logger.info('Payments already exist, skipping', {
@@ -372,7 +372,7 @@ line_tax: items.map(i =>
         payment.shiftdate,
         payment.transtype
       ];
-console.log('Inserting payment', { payment_id: values });
+// console.log('Inserting payment', { payment_id: values });
       await client.query(query, values);
     }
   }

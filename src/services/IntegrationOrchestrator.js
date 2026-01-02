@@ -147,7 +147,7 @@ class IntegrationOrchestrator {
             // console.log('Inserted transaction', {payments: transaction.payments.length});
             // Insert payments if available
             if (transaction.payments && transaction.payments.length > 0) {
-              await inserter.insertPayments(client, transaction.payments);
+              await inserter.insertPayments(client, transaction.payments,transaction);
             }
 
             totalRecords++;
