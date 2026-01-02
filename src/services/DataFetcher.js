@@ -247,9 +247,10 @@ console.log('Auth token request headers:', body);
     }
   }*/
  async fetchFromAPI(maxDate) {
-    const { cac_api_url, cac_http_method, cac_field_mapping } = this.config;
+    const { cac_api_url, cac_http_method, cac_field_mapping,cac_xmlbody } = this.config;
 
-    if (!cac_api_url || !cac_field_mapping) {
+    // if (!cac_api_url || !cac_field_mapping) {
+    if (!cac_api_url ) {
       throw new Error('API URL or field mapping missing');
     }
 let token = null;
@@ -258,10 +259,22 @@ let token = null;
       // headers[this.config.cac_tokenhttp] = token;
     }
 
-    let headers = { ...(cac_field_mapping.headers || {}) };
-    let body = cac_field_mapping.body || null;
-let params = cac_field_mapping.params || {};
+    let body = null
+let headers = {};
+let params = {};  
+    
 
+    // console.log('API request headers before placeholder replacement:', cac_xmlbody);
+    if (cac_xmlbody) {
+        body = cac_xmlbody;
+    } 
+    else {
+     body = cac_field_mapping.body || null;
+      headers = { ...(cac_field_mapping.headers || {}) };
+      params = cac_field_mapping.params || {};
+        }
+    
+// console.log('API request body before placeholder replacement:', body);
 
     // 🔹 Replace placeholders
     const context = this.buildRuntimeContext(maxDate);

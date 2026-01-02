@@ -1,0 +1,6 @@
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-01T17:59:12.309Z"}
+{"config":"c1c98150-c3f0-4534-bcee-d66e386d181b","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-01T17:59:12.310Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-01T18:00:00.315Z"}
+{"config":"c1c98150-c3f0-4534-bcee-d66e386d181b","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-01T18:00:00.316Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-01T18:00:17.373Z"}
+{"config":"c1c98150-c3f0-4534-bcee-d66e386d181b","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-01T18:00:17.374Z"}

@@ -64,7 +64,9 @@ class IntegrationOrchestrator {
       configId: config.cac_config_id,
       vendor: config.vendor_name,
       outlet: config.cac_outlet_id,
-      sourceType: config.cac_jsonordb
+      sourceType: config.cac_jsonordb,
+      CUSTOMERID: config.cac_customer_id,
+      URL: config.cac_api_url
     });
 
     const inserter = new DataInserter(config);

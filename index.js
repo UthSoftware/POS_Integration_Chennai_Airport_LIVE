@@ -1,3 +1,23 @@
+require('dotenv').config();
+const http = require('http');
+
+const PORT = process.env.PORT || 3001;
+
+// 🔹 Start HTTP server (MANDATORY for Webuzo)
+const server = http.createServer((req, res) => {
+  if (req.url === '/health') {
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    return res.end(JSON.stringify({ status: 'ok' }));
+  }
+
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  res.end('POS Data Collector Agent is running\n');
+});
+
+server.listen(PORT, () => {
+  console.log(`🌐 Server started and listening on port ${PORT}`);
+});
+
 const cron = require('node-cron');
 const IntegrationOrchestrator = require('./src/services/IntegrationOrchestrator');
 
@@ -5,6 +25,7 @@ const ConfigValidator = require('./src/services/Configvalidator');
 const VendorDataSeeder = require('./src/services/VendorDataSeeder');
 const createLogger = require('./src/config/logger');
 require('dotenv').config();
+
 
 const logger = createLogger('main');
 const orchestrator = new IntegrationOrchestrator();
@@ -146,6 +167,7 @@ process.on('unhandledRejection', (reason, promise) => {
   logger.error('Unhandled Rejection', { reason, promise });
   console.error('❌ Unhandled Rejection:', reason);
 });
+// require('http').createServer(() => {}).listen(process.env.PORT || 3000);
 
 // Start the application
 (async () => {
