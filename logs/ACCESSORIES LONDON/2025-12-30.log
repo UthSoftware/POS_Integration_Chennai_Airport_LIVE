@@ -1,6 +1,0 @@
-{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:34:42.212Z"}
-{"fromDate":"2025-12-29","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-30T16:34:42.214Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
-{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-30T16:34:42.338Z"}
-{"level":"info","maxDate":"2025-12-29","message":"Max transaction date retrieved","timestamp":"2025-12-30T16:35:00.271Z"}
-{"fromDate":"2025-12-29","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2025-12-30T16:35:00.272Z","url":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx"}
-{"config":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2025-12-30T16:35:00.402Z"}

@@ -1,8 +1,0 @@
-{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-19T09:43:14.476Z"}
-{"level":"info","message":"API Server started on port 3000","timestamp":"2025-12-19T09:43:37.002Z"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users","timestamp":"2025-12-19T15:28:38.648Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users/create","timestamp":"2025-12-19T15:28:47.130Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users/create","timestamp":"2025-12-19T15:29:12.153Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users/create","timestamp":"2025-12-19T15:31:21.082Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users/create/","timestamp":"2025-12-19T15:31:33.694Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
-{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"POST","path":"/api/users/create","timestamp":"2025-12-19T15:31:37.154Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
