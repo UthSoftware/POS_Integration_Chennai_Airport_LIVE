@@ -20,9 +20,10 @@ class ConfigModel {
       LEFT JOIN pos_vendor_master pvm 
         ON cac.cac_customer_id = pvm.vendor_id::text
       WHERE cac.cac_is_active = true 
-        AND com.com_is_active = true
+      and com.com_is_active = true
+        
     `;
-    
+    // AND com.com_is_active = true
     const params = [];
     
     // Filter by vendor if provided
@@ -48,6 +49,7 @@ class ConfigModel {
     `;
     
     const params = [vendorId];
+   
     
     if (tableName) {
       query += ` AND pvfm_tablename = $2`;
@@ -66,7 +68,7 @@ class ConfigModel {
       WHERE pvfm_vendor_id = $1
       ORDER BY pvfm_tablename, pvfm_is_required DESC
     `;
-    
+    //  console.log('Vendor ID for field mapping:', query);
     const result = await pool.query(query, [vendorId]);
     
     // Group by table name
@@ -81,7 +83,7 @@ class ConfigModel {
         mappings[row.pvfm_tablename].push(row);
       }
     });
-    
+    // console.log('Field mappings retrieved:', mappings);
     return mappings;
   }
 }

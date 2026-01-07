@@ -1,0 +1,359 @@
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:21:00.056Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:21:00.057Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:21:00.376Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-05T12:21:00.538Z","topKeys":["success","error","data"],"type":"object"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:22:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:22:00.113Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:22:00.254Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-05T12:22:00.429Z","topKeys":["success","error","data"],"type":"object"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:23:00.099Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:23:00.100Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:23:00.216Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-05T12:23:00.351Z","topKeys":["success","error","data"],"type":"object"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:24:00.109Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:24:00.109Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:24:00.285Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-05T12:24:00.449Z","topKeys":["success","error","data"],"type":"object"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:25:00.071Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:25:00.072Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:25:00.325Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:27:00.065Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:27:00.066Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:27:00.280Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:28:00.204Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:28:00.204Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:28:00.356Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:29:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:29:00.101Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:29:00.233Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:30:00.064Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:30:00.065Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:30:00.273Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:31:00.088Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:31:00.089Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:31:00.213Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:33:00.242Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:33:00.243Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:33:00.456Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:34:00.145Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:34:00.146Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:34:00.254Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:35:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:35:00.117Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:35:00.270Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:36:00.272Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:36:00.272Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:36:00.522Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:37:00.104Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:37:00.104Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:37:00.208Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:38:00.154Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:38:00.155Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:38:00.299Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:39:00.107Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:39:00.108Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:39:00.258Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:40:00.066Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:40:00.067Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:40:00.265Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:41:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:41:00.124Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:41:00.282Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:43:00.051Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:43:00.052Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:43:00.317Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:44:00.126Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:44:00.127Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:44:00.264Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:45:00.080Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:45:00.080Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:45:00.544Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:47:00.076Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:47:00.077Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:47:00.279Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:48:00.093Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:48:00.094Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:48:00.226Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:49:00.099Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:49:00.100Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:49:00.253Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:50:00.084Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:50:00.085Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:50:00.281Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T12:51:00.094Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T12:51:00.095Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T12:51:00.364Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:04:00.122Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:04:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:04:01.300Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:05:00.380Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:05:00.381Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:05:00.549Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:06:00.291Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:06:00.292Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:06:00.451Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:07:00.102Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:07:00.105Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:07:00.419Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:08:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:08:00.234Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:08:00.386Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:09:00.278Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:09:00.278Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:09:00.438Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:15:00.330Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:15:00.331Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:15:00.625Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:16:00.199Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:16:00.199Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:16:00.360Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:17:00.346Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:17:00.348Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:17:00.504Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:18:00.265Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:18:00.267Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:18:00.584Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:19:00.218Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:19:00.219Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:19:00.346Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"Request failed with status code 502","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T13:19:05.441Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:20:00.328Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:20:00.329Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:20:00.468Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:21:00.347Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:21:00.349Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:21:00.597Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:33:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:33:00.250Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:33:00.524Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:34:00.195Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:34:00.196Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"getaddrinfo ENOTFOUND kmjl.seaerpnxt.app","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T13:34:11.285Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:35:00.393Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:35:00.394Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"getaddrinfo ENOTFOUND kmjl.seaerpnxt.app","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T13:35:00.407Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:36:00.188Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:36:00.189Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:36:00.383Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:37:00.277Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:37:00.278Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:37:00.451Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:38:00.308Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:38:00.309Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:38:00.481Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:39:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:39:00.238Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:39:00.411Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:40:00.268Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:40:00.269Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:40:00.397Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:41:00.187Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:41:00.188Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:41:00.288Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:42:00.247Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:42:00.248Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:42:00.397Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:43:00.238Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:43:00.239Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:43:00.420Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:44:00.382Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:44:00.383Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:44:00.576Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:48:00.252Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:48:00.253Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:48:00.601Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:49:00.353Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:49:00.354Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:49:00.577Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:50:00.261Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:50:00.262Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:50:00.440Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:51:00.253Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:51:00.253Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:51:00.417Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:52:00.272Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:52:00.273Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:52:00.447Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T13:53:00.324Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T13:53:00.326Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T13:53:00.497Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:01:00.096Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:01:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:01:00.435Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:02:00.335Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:02:00.336Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:02:00.476Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:12:00.346Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:12:00.349Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:12:00.711Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:13:00.379Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:13:00.380Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:13:00.500Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:16:00.260Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:16:00.262Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:16:00.579Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:22:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:22:00.101Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:22:00.471Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:23:00.524Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:23:00.527Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:23:00.739Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:24:00.304Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:24:00.305Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:24:00.453Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T14:25:00.263Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T14:25:00.264Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T14:25:00.454Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:20:00.091Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:20:00.094Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:20:00.495Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:21:00.262Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:21:00.263Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:21:00.421Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:22:00.235Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:22:00.235Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:22:00.434Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:23:00.185Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:23:00.186Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:23:00.361Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:24:00.191Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:24:00.192Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:24:00.374Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:25:00.252Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:25:00.253Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:25:00.399Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:26:00.182Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:26:00.183Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:26:00.346Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:27:00.335Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:27:00.337Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:27:00.508Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:28:00.216Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:28:00.216Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:28:00.412Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:29:00.322Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:29:00.323Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:29:00.530Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:30:00.214Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:30:00.215Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:30:00.383Z"}
+{"level":"info","maxDate":"2026-01-04","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:31:00.241Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:31:00.243Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:31:00.392Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:33:00.336Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:33:00.351Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:33:00.725Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:34:00.221Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:34:00.222Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:34:00.383Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:35:00.293Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:35:00.294Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:35:00.593Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:36:00.257Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:36:00.258Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:36:00.384Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:37:00.348Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:37:00.349Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:37:00.511Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:38:00.076Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:38:00.078Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:38:00.386Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:40:00.211Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:40:00.213Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:40:00.510Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:41:00.215Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:41:00.216Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:41:00.346Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:42:00.212Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:42:00.214Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:42:00.475Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:43:00.206Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:43:00.207Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:43:00.369Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:44:00.274Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:44:00.275Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:44:00.698Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:45:00.304Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:45:00.305Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:45:00.466Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:46:00.298Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:46:00.299Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:46:00.492Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:48:00.099Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:48:00.102Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:48:00.450Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:49:00.421Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:49:00.424Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:49:00.584Z"}
+{"level":"info","maxDate":"2025-12-30T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-05T17:50:00.341Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T17:50:00.344Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T17:50:00.864Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:14:00.327Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:14:00.330Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:14:00.841Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:15:00.097Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:15:00.100Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:15:00.430Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:17:00.250Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:17:00.252Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:17:00.549Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:18:00.107Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:18:00.109Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:18:00.443Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:19:00.398Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:19:00.400Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:19:00.733Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:20:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:20:00.246Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:20:00.402Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:21:00.356Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:21:00.358Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:21:00.539Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:22:00.284Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:22:00.286Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:22:00.465Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:23:00.299Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:23:00.300Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:23:00.468Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:26:00.275Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:26:00.277Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"dateFormat is not defined","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:26:00.280Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:27:00.335Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:27:00.336Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"dateFormat is not defined","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:27:00.337Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:28:00.355Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:28:00.356Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"dateFormat is not defined","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:28:00.359Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:29:00.435Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:29:00.437Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"dateFormat is not defined","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:29:00.440Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:30:00.346Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:30:00.348Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"dateFormat is not defined","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:30:00.351Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:31:00.468Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:31:00.475Z"}
+{"config":"46a5b516-c484-4ca6-99e6-89f8ae23971a","error":"getaddrinfo ENOTFOUND kmjl.seaerpnxt.app","level":"error","message":"Data fetch failed","timestamp":"2026-01-05T18:31:00.695Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:32:00.252Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:32:00.253Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:32:00.700Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:34:00.252Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:34:00.254Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:34:00.603Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:35:00.207Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:35:00.209Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:35:00.370Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:36:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:36:00.237Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:36:00.404Z"}
+{"level":"info","maxDate":"2025-12-31","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:37:00.199Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:37:00.200Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:37:00.403Z"}
+{"level":"info","maxDate":"31/12/2025","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:38:00.178Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:38:00.184Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:38:00.667Z"}
+{"level":"info","maxDate":"31/12/2025","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:39:00.297Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:39:00.298Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:39:00.452Z"}
+{"level":"info","maxDate":"31/12/2025","message":"Max transaction date retrieved","timestamp":"2026-01-05T18:40:00.164Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-05T18:40:00.165Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-05T18:40:00.318Z"}

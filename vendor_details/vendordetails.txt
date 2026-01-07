@@ -1,4 +1,4 @@
-vendor:KALAMANDIR JEWELLERS
-outletname:DOMESTIC 1
+vendor:DC BOOKS
+outletname:DOMESTIC 2
 outletid:
-Terminal:TERMINAL 1
+Terminal:TERMINAL 2

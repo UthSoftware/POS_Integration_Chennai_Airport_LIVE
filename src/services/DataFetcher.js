@@ -4,6 +4,7 @@ const mysql = require('mysql2/promise');
 const oracledb = require('oracledb');
 const createLogger = require('../config/logger');
 const xml2js = require('xml2js');
+const {Pool } = require('pg');
 const pool = require('../config/database');
 
 class DataFetcher {
@@ -12,12 +13,41 @@ class DataFetcher {
     this.logger = createLogger(config.vendor_name || 'unknown');
   }
 
+  /* ================= DATE FORMATTER ================= */
+  formatDate(date, format) {
+    if (!date) return null;
+
+    const d = new Date(date);
+
+    const dd = String(d.getDate()).padStart(2, '0');
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const yyyy = d.getFullYear();
+    const yy = String(yyyy).slice(-2);
+
+    const monthNames = [
+      'JAN','FEB','MAR','APR','MAY','JUN',
+      'JUL','AUG','SEP','OCT','NOV','DEC'
+    ];
+    const mmm = monthNames[d.getMonth()];
+
+    switch (format) {
+      case 'DD-MMM-YY':
+        return `${dd}-${mmm}-${yy}`;     // 10-DEC-25
+      case 'DD/MM/YYYY':
+        return `${dd}/${mm}/${yyyy}`;    // 10/12/2025
+      case 'YYYY-MM-DD':
+      default:
+        return `${yyyy}-${mm}-${dd}`;    // 2025-12-10
+    }
+  }
+  
   async fetchData() {
     const sourceType = this.config.cac_jsonordb?.toLowerCase();
     
     try {
       // 🔹 STEP 1: Get max transaction date from database
-      const maxDate = await this.getMaxTransactionDate();
+      console.log('Fetching max transaction date for config:', this.config.dateformat);
+      const maxDate = await this.getMaxTransactionDate(this.config.dateformat || 'YYYY-MM-DD');
       this.logger.info('Max transaction date retrieved', { maxDate });
 
       if (sourceType === 'json' || sourceType === 'api') {
@@ -100,7 +130,7 @@ console.log('Auth token request headers:', body);
   /**
    * Get the maximum transaction_date from raw_transactions for this configuration
    */
-  async getMaxTransactionDate() {
+  async getMaxTransactionDate(dateFormat = 'YYYY-MM-DD') {
     try {
       const query = `
         SELECT MAX(transaction_date) as max_date
@@ -120,14 +150,26 @@ console.log('Auth token request headers:', body);
 
       const result = await pool.query(query, values);
       
-      if (result.rows[0]?.max_date) {
-        return result.rows[0].max_date;
-      }
+      // if (result.rows[0]?.max_date) {
+        // return result.rows[0].max_date;
+      // }
 
       // If no data exists, return yesterday as default
-      const yesterday = new Date();
-      yesterday.setDate(yesterday.getDate() - 1);
-      return yesterday.toISOString().slice(0, 10);
+      // const yesterday = new Date();
+      // yesterday.setDate(yesterday.getDate() - 1);
+      // return yesterday.toISOString().slice(0, 10);
+
+      let date;
+
+    if (result.rows[0]?.max_date) {
+      date = result.rows[0].max_date;
+    } else {
+      // Default → yesterday
+      date = new Date();
+      date.setDate(date.getDate() - 1);
+    }
+console.log('Max transaction date from DB:', dateFormat);
+    return this.formatDate(date, dateFormat);
 
     } catch (error) {
       this.logger.error('Failed to get max transaction date', { error: error.message });
@@ -138,114 +180,7 @@ console.log('Auth token request headers:', body);
     }
   }
 
-  /*async fetchFromAPI(maxDate) {
-    const { cac_api_url, cac_http_method, cac_field_mapping } = this.config;
-
-    if (!cac_api_url) {
-      throw new Error('API URL is missing');
-    }
-
-    if (!cac_field_mapping?.headers) {
-      throw new Error('Headers not found in cac_field_mapping');
-    }
-
-    // 🔹 Resolve dynamic dates using maxDate
-    const resolveDynamicDates = (headers, maxDate) => {
-      const resolved = { ...headers };
-
-      const today = new Date();
-      const toDate = today.toISOString().slice(0, 10); // YYYY-MM-DD
-
-      // Use maxDate as fromDate
-      const fromDateStr = maxDate;
-
-      if (resolved.datefrom === '{{FROM_DATE}}' || !resolved.datefrom) {
-        resolved.datefrom = fromDateStr;
-      }
-
-      if (resolved.dateto === '{{TO_DATE}}' || !resolved.dateto) {
-        resolved.dateto = toDate;
-      }
-
-      return resolved;
-    };
-
-    // 🔹 Prepare headers - remove problematic headers
-    let headers = resolveDynamicDates(cac_field_mapping.headers, maxDate);
-    
-    // Remove headers that can cause issues with some APIs
-    delete headers['User-Agent'];
-    delete headers['Accept'];
-    delete headers['Connection'];
-
-    this.logger.info('Fetching data from API', {
-      url: cac_api_url,
-      method: cac_http_method || 'GET',
-      dateRange: `${headers.datefrom} to ${headers.dateto}`,
-      headers: Object.keys(headers) // DO NOT log values for security
-    });
-
-    let allData = [];
-    let currentPage = Number(headers.currentpage) || 1;
-    let totalPages = 1;
-
-    try {
-      do {
-        headers.currentpage = String(currentPage);
-
-        const response = await axios({
-          method: cac_http_method || 'GET',
-          url: cac_api_url,
-          headers,
-          timeout: 30000
-        });
-
-        const payload = response.data;
-
-        // Expected API format:
-        // { meta: { pagination: { totalPages } }, data: [...] }
-        const pageData = payload?.data ?? payload;
-
-        if (Array.isArray(pageData)) {
-          allData.push(...pageData);
-        } else if (pageData) {
-          allData.push(pageData);
-        }
-
-        // ✅ FIXED: Correct pagination path
-        totalPages = Number(payload?.meta?.pagination?.totalPages) || 1;
-        
-        this.logger.info('Page fetched successfully', {
-          currentPage,
-          totalPages,
-          recordsInPage: Array.isArray(pageData) ? pageData.length : 1
-        });
-
-        currentPage++;
-
-      } while (currentPage <= totalPages);
-
-      this.logger.info('API fetch completed successfully', {
-        totalRecords: allData.length,
-        totalPages: totalPages,
-        dateRange: `${headers.datefrom} to ${headers.dateto}`
-      });
-
-      return allData;
-
-    } catch (error) {
-      // ✅ IMPROVED: Better error logging
-      this.logger.error('API fetch failed', {
-        message: error.message,
-        status: error.response?.status,
-        statusText: error.response?.statusText,
-        responseData: error.response?.data,
-        url: cac_api_url,
-        page: currentPage
-      });
-      throw error;
-    }
-  }*/
+  
  async fetchFromAPI(maxDate) {
     const { cac_api_url, cac_http_method, cac_field_mapping,cac_xmlbody } = this.config;
 
@@ -278,6 +213,7 @@ let params = {};
 
     // 🔹 Replace placeholders
     const context = this.buildRuntimeContext(maxDate);
+    console.log('Runtime context for API call:', context);
     if (token) {
   context.Authorization = `${token}`;
 }
@@ -290,7 +226,7 @@ let params = {};
 
     // 🔹 Token logic (ONLY if configured)
    
-
+console.log('API request headers:', body);
    /* this.logger.info('Calling API', {
       url: cac_api_url,
       method: cac_http_method || 'POST',
@@ -301,7 +237,7 @@ let params = {};
     });*/
 
     
-
+// console.log('API request body after placeholder replacement:', body);
 
     const response = await axios({
       method: cac_http_method || 'POST',
@@ -312,7 +248,11 @@ let params = {};
       timeout: 30000
     });
 
-    // console.log('API response status:', response.data);
+    console.log(
+  'API response status:',
+  JSON.stringify(response.data, null, 2)
+);
+
     return response.data;
   }
 
@@ -333,11 +273,13 @@ let params = {};
 
      const context = {
     FROM_DATE: maxDate,
-    TO_DATE: today.toISOString().slice(0, 10),
-    TRANS_DATE: today.toISOString().slice(0, 10)
-      .split('-')
-      .reverse()
-      .join('/'),
+    TO_DATE: this.formatDate(today, this.config.dateformat || 'YYYY-MM-DD'),
+    TRANS_DATE: this.formatDate(today, this.config.dateformat || 'YYYY-MM-DD'),
+    // TRANS_DATE: today.toISOString().slice(0, 10)
+      // .split('-')
+      // .reverse()
+      // .join('/'),
+      
     LOCATION_CODE: this.config.cac_outlet_id
   };
 
@@ -396,34 +338,56 @@ splitTransactionDateTime(timestamp) {
 
 
   async fetchFromXMLAPI(maxDate) {
-    const { cac_api_url, cac_http_method, cac_auth_type, cac_auth_header_key, cac_auth_header_value } = this.config;
+    const { cac_api_url, cac_http_method, cac_auth_type, cac_auth_header_key,cac_xmlbody } = this.config;
     
     this.logger.info('Fetching XML/SOAP data from API', { 
       url: cac_api_url,
       fromDate: maxDate 
     });
 
-    const headers = {
-      'Content-Type': 'text/xml'
-    };
+    // const headers = {
+      // 'Content-Type': 'text/xml'
+    // };
+
     
-    if (cac_auth_header_key && cac_auth_header_value) {
-      headers[cac_auth_header_key] = cac_auth_header_value;
-    }
+    let body = null
+let headers = {};
+let params = {};  
+    
+     // console.log('API request headers before placeholder replacement:', cac_xmlbody);
+    if (cac_xmlbody) {
+        body = cac_xmlbody;
+    } 
+  
+    // 🔹 Replace placeholders
+    const context = this.buildRuntimeContext(maxDate);  
+      headers = this.replacePlaceholders(headers, context);
+    
+
+     params  = this.replacePlaceholders(params, context);
+    if (body) body = this.replacePlaceholders(body, context);
+
+   
+// console.log('API request headers:', body);
+   
 
     const response = await axios({
       method: cac_http_method || 'POST',
       url: cac_api_url,
       headers,
+      params,
+      data: body,
+      
       timeout: 30000,
       responseType: 'text'
     });
-
+// console.log('Parsed XML/SOAP response:', JSON.stringify(response.data, null, 2));
     // Parse XML to JSON
     const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
     const result = await parser.parseStringPromise(response.data);
 
     this.logger.info('XML/SOAP data fetched and parsed successfully');
+    // console.log('Parsed XML/SOAP response:', JSON.stringify(result, null, 2));
     return result;
   }
 
@@ -443,24 +407,27 @@ splitTransactionDateTime(timestamp) {
         return await this.fetchFromMySQL(maxDate);
       case 'oracle':
         return await this.fetchFromOracle(maxDate);
+      case 'pgsql':
+        return await this.fetchFromPostgres(maxDate);  
       default:
         throw new Error(`Unsupported database type: ${dbType}`);
     }
   }
 
   detectDatabaseType() {
-    const port = this.config.cac_db_port;
-    if (port === 1433) return 'mssql';
-    if (port === 3306) return 'mysql';
-    if (port === 1521) return 'oracle';
-    
+    const dbtype = this.config.cac_dbtype;
+    if (dbtype === 'mssql') return 'mssql';
+    if (dbtype === 'mysql') return 'mysql';
+    if (dbtype === 'oracle') return 'oracle';
+    if (dbtype === 'pgsql') return 'pgsql';
+
     // Fallback to vendor name or default
-    const vendor = this.config.cac_pos_vendor?.toLowerCase();
-    if (vendor?.includes('sql')) return 'mssql';
-    if (vendor?.includes('mysql')) return 'mysql';
-    if (vendor?.includes('oracle')) return 'oracle';
+    // const vendor = this.config.cac_pos_vendor?.toLowerCase();
+    // if (vendor?.includes('sql')) return 'mssql';
+    // if (vendor?.includes('mysql')) return 'mysql';
+    // if (vendor?.includes('oracle')) return 'oracle';
     
-    return 'mssql'; // Default
+    // return 'mssql'; // Default
   }
 
   async fetchFromMSSQL(maxDate) {
@@ -513,6 +480,26 @@ splitTransactionDateTime(timestamp) {
 
     return result.rows;
   }
+
+  async fetchFromPostgres(maxDate) {
+  const pool = new Pool({
+    user: this.config.cac_db_username,
+    password: this.config.cac_db_password,
+    host: this.config.cac_db_host,
+    port: this.config.cac_db_port,
+    database: this.config.cac_db_name
+  });
+// console.log('Postgres connection config:', {
+    // user: this.config.cac_db_username,
+    // host: this.config.cac_db_host,
+  // });
+  const query = this.config.cac_sql_text;
+  const result = await pool.query(query);
+// console.log('Postgres query result:', result.rows);
+  await pool.end(); // close pool (optional if global)
+
+  return result.rows;
+}
 
   buildDatabaseQuery(maxDate) {
     // Build query based on field mapping

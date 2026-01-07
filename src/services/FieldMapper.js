@@ -22,16 +22,14 @@ class FieldMapper {
 
      // 🔥 Get transaction row root dynamically
   const txMappings = this.getMappings('raw_transactions');
+  // console.log(
+  // 'Transaction Row Root:',
+  // txMappings.map(m => m.pvfm_row_root_json_path)
+// );
   const rowRoot = txMappings[0]?.pvfm_row_root_json_path||null;
 
-this.logger.info('RAW API RESPONSE STRUCTURE', {
-  type: typeof rawData,
-  isArray: Array.isArray(rawData),
-  topKeys: rawData && typeof rawData === 'object'
-    ? Object.keys(rawData)
-    : 'NOT_OBJECT'
-});
 
+console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
 
   let records;
   if (rowRoot) {
@@ -40,8 +38,6 @@ this.logger.info('RAW API RESPONSE STRUCTURE', {
     // If no row root → rawData itself is transaction list
     records = rawData;
   }
-
-  
 
 
   if (!records) {
@@ -109,6 +105,9 @@ this.logger.info('RAW API RESPONSE STRUCTURE', {
 
     for (const m of mappings) {
       const value = this.applyMapping(record, m);
+
+
+
       if (value !== undefined && value !== null) tx[m.pvfm_source_field] = value;
     }
 // console.log('Mapped transaction', { transaction_id: tx.transaction_id, mapped_fields: tx });
@@ -223,6 +222,7 @@ let rows;
     return this.fieldMappings.filter(m => m.pvfm_tablename === tableName);
   }
 
+
    /* ---- Deepest array becomes row root ---- */
   getArrayRoot(mappings) {
     let deepestPath = null;
@@ -314,12 +314,21 @@ let rows;
   let value;
 
   
+  // 🔹 CASE: Combined date|time fields (DB or JSON flat record)
+  if (
+    mapping.pvfm_json_path &&
+    mapping.pvfm_json_path.includes('|')
+  ) {
+    return this.buildTimestamp(record, mapping);
+  }
+  
   if (['api','json','xml','soap'].includes(this.sourceType)) {
        // ITEM / PAYMENT TABLES
     if (
       mapping.pvfm_tablename !== 'raw_transactions' &&
       mapping.pvfm_row_root_json_path
     ) {
+
       // 1️⃣ Try direct field first
       value = record?.[mapping.pvfm_json_path];
 
@@ -333,6 +342,7 @@ let rows;
 
     // TRANSACTION HEADER
     } else {
+      
       value = mapping.pvfm_json_path
         ? this.extractByJsonPath(record, mapping.pvfm_json_path)
         : undefined;
@@ -347,6 +357,66 @@ let rows;
     value = this.applyTransformation(value, mapping.pvfm_transform_rule);
   }
 // console.log('Applied mapping ', { mapping, value });
+  return value;
+}
+
+/**
+ * Build timestamp from separate date & time fields
+ * Supports:
+ *  - Date: YYYYMMDD, YYYY-MM-DD
+ *  - Time: HHMMSS, HH:mm:ss, HH:mm:ss.micro
+ *
+ * Output:
+ *  - YYYY-MM-DD HH:mm:ss
+ */
+buildTimestamp(record, mapping) {
+  const [dateKey, timeKey] = mapping.pvfm_json_path.split('|');
+
+  const dt = record?.[dateKey];
+  const tm = record?.[timeKey];
+
+  if (!dt || !tm) return null;
+
+  let datePart;
+  let timePart;
+
+  // -----------------------------
+  // DATE FORMAT HANDLING
+  // -----------------------------
+  if (/^\d{8}$/.test(dt)) {
+    // YYYYMMDD
+    datePart = `${dt.slice(0, 4)}-${dt.slice(4, 6)}-${dt.slice(6, 8)}`;
+  } else if (/^\d{4}-\d{2}-\d{2}$/.test(dt)) {
+    // YYYY-MM-DD
+    datePart = dt;
+  } else {
+    this.logger.warn(`Invalid date format: ${dt}`);
+    return null;
+  }
+
+  // -----------------------------
+  // TIME FORMAT HANDLING
+  // -----------------------------
+  if (/^\d{6}$/.test(tm)) {
+    // HHMMSS
+    timePart = `${tm.slice(0, 2)}:${tm.slice(2, 4)}:${tm.slice(4, 6)}`;
+  } else if (/^\d{2}:\d{2}:\d{2}/.test(tm)) {
+    // HH:mm:ss or HH:mm:ss.micro
+    timePart = tm.slice(0, 8);
+  } else {
+    this.logger.warn(`Invalid time format: ${tm}`);
+    return null;
+  }
+
+  let value = `${datePart} ${timePart}`;
+
+  // -----------------------------
+  // TRANSFORMATION RULE
+  // -----------------------------
+  if (mapping.pvfm_transform_rule) {
+    value = this.applyTransformation(value, mapping.pvfm_transform_rule);
+  }
+
   return value;
 }
 

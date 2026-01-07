@@ -2,6 +2,7 @@ const { v4: uuidv4 } = require('uuid');
 const ConfigModel = require('../models/ConfigModel');
 const DataFetcher = require('./DataFetcher');
 const FieldMapper = require('./FieldMapper');
+const dbfieldMApper = require('./DbTransactionMapper');
 const DataInserter = require('./DataInserter');
 const createLogger = require('../config/logger');
 const fs = require('fs').promises;
@@ -77,13 +78,13 @@ class IntegrationOrchestrator {
       const fetcher = new DataFetcher(config);
       const rawData = await fetcher.fetchData();
 
-      this.logger.info('RAW API RESPONSE STRUCTURE123', {
-  type: typeof rawData,
-  isArray: Array.isArray(rawData),
-  topKeys: rawData && typeof rawData === 'object'
-    ? Object.keys(rawData)
-    : 'NOT_OBJECT'
-});
+      // this.logger.info('RAW API RESPONSE STRUCTURE123', {
+  // type: typeof rawData,
+  // isArray: Array.isArray(rawData),
+  // topKeys: rawData && typeof rawData === 'object'
+    // ? Object.keys(rawData)
+    // : 'NOT_OBJECT'
+// });
 
 
       if (!rawData || (Array.isArray(rawData) && rawData.length === 0)) {
@@ -96,22 +97,43 @@ class IntegrationOrchestrator {
       });
 
       // Step 2: Get ALL field mappings for this vendor
-      const allMappings = await ConfigModel.getAllFieldMappings(config.vendor_id);
+      console.log('Fetching field mappings for vendor ID:', config.cac_customer_id);
+      const allMappings = await ConfigModel.getAllFieldMappings(config.cac_customer_id.trim());
 
       // console.log('Total field mappings retrieved:', config.vendor_id);
 
       // Step 3: Map data
-      const mapper = new FieldMapper(config, [
+
+let transactions = [];
+
+      if (config.cac_jsonordb?.toLowerCase() === 'db') {
+
+        // DB Mapping
+      const dbMapper = new dbfieldMApper(config, [
         ...allMappings.raw_transactions,
         ...allMappings.raw_transaction_items,
         ...allMappings.raw_payment
       ]);
-      
-      const transactions = await mapper.mapTransactions(rawData);
+       transactions = await dbMapper.mapTransactions(rawData);
+
+      this.logger.info('DB Data mapped successfully', { 
+        transactionCount: transactions.length 
+      });
+
+         
+    } else {
+       const mapper = new FieldMapper(config, [
+        ...allMappings.raw_transactions,
+        ...allMappings.raw_transaction_items,
+        ...allMappings.raw_payment
+      ]);
+       
+       transactions = await mapper.mapTransactions(rawData);
 
       this.logger.info('Data mapped successfully', { 
         transactionCount: transactions.length 
       });
+    }
 
       // Step 4: Insert data in transaction with duplicate checking
       client = await inserter.pool.connect();
@@ -130,10 +152,10 @@ class IntegrationOrchestrator {
             
             if (exists) {
               totalSkipped++;
-              this.logger.info('Transaction already exists, skipping', {
-                transaction_id: transaction.transaction_id,
-                invoice_no: transaction.invoice_no
-              });
+              // this.logger.info('Transaction already exists, skipping', {
+                // transaction_id: transaction.transaction_id,
+                // invoice_no: transaction.invoice_no
+              // });
               continue;
             }
 

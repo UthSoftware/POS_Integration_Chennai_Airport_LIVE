@@ -35,7 +35,7 @@ server.listen(PORT, () => {
 // ===================================================================
 
 // ================= CRON CONFIG =================
-const syncInterval = process.env.DEFAULT_SYNC_INTERVAL || 5;
+const syncInterval = process.env.DEFAULT_SYNC_INTERVAL || 1;
 const cronExpression = `*/${syncInterval} * * * *`;
 
 // Startup

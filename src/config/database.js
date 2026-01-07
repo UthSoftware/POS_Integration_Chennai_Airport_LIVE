@@ -2,11 +2,11 @@ const { Pool } = require('pg');
 require('dotenv').config();
 
 const pool = new Pool({
-  host: 'pgsql1.uthsoftware.com',
+  host: 'localhost',
   port: 5432,//process.env.DB_PORT,
   database: 'VIDVEDAA_INTEG',//process.env.DB_NAME,
   user: 'postgres',//process.env.DB_USER,
-  password: 'JfV3nsvG@2iLkrW',//process.env.DB_PASSWORD,
+  password: 'masterkey',//process.env.DB_PASSWORD,
   max: 20,
   idleTimeoutMillis: 30000,
   connectionTimeoutMillis: 2000,
