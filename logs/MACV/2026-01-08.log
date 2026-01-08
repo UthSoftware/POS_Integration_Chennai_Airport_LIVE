@@ -77,3 +77,4 @@
 {"level":"info","maxDate":"2026-01-07T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-08T05:40:05.069Z"}
 {"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-08T05:40:05.410Z","topKeys":["success","meta","data"],"type":"object"}
 {"level":"info","maxDate":"2026-01-06T18:30:00.000Z","message":"Max transaction date retrieved","timestamp":"2026-01-08T05:40:07.277Z"}
+{"isArray":false,"level":"info","message":"RAW API RESPONSE STRUCTURE","timestamp":"2026-01-08T05:40:07.627Z","topKeys":["success","meta","data"],"type":"object"}
