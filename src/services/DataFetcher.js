@@ -54,8 +54,8 @@ class DataFetcher {
         return await this.fetchFromAPI(maxDate);
       } else if (sourceType === 'xml' || sourceType === 'soap') {
         return await this.fetchFromXMLAPI(maxDate);
-      } else if (sourceType === 'db' || sourceType === 'database') {
-        return await this.fetchFromDatabase(maxDate);
+      // } else if (sourceType === 'db' || sourceType === 'database') {
+        // return await this.fetchFromDatabase(maxDate);
       } else {
         throw new Error(`Unknown source type: ${sourceType}`);
       }
