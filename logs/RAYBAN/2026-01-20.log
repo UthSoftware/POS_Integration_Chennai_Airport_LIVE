@@ -1,0 +1,6 @@
+{"level":"info","maxDate":"2026-01-18","message":"Max transaction date retrieved","timestamp":"2026-01-20T16:52:00.316Z"}
+{"fromDate":"2026-01-18","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-01-20T16:52:00.319Z","url":"http://myitworld.biz:8082/fapi/apps/bafrest.php/POS_DATA_INTERFACE/REST?hiInstanceId=2"}
+{"config":"c1c98150-c3f0-4534-bcee-d66e386d181b","error":"getaddrinfo ENOTFOUND myitworld.biz","level":"error","message":"Data fetch failed","timestamp":"2026-01-20T16:52:00.395Z"}
+{"level":"info","maxDate":"2026-01-18","message":"Max transaction date retrieved","timestamp":"2026-01-20T16:53:00.362Z"}
+{"fromDate":"2026-01-18","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-01-20T16:53:00.364Z","url":"http://myitworld.biz:8082/fapi/apps/bafrest.php/POS_DATA_INTERFACE/REST?hiInstanceId=2"}
+{"config":"c1c98150-c3f0-4534-bcee-d66e386d181b","error":"getaddrinfo ENOTFOUND myitworld.biz","level":"error","message":"Data fetch failed","timestamp":"2026-01-20T16:53:00.375Z"}

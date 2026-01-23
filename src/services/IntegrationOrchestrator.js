@@ -7,6 +7,7 @@ const DataInserter = require('./DataInserter');
 const createLogger = require('../config/logger');
 const fs = require('fs').promises;
 const path = require('path');
+const { raw } = require('mysql2');
 
 class IntegrationOrchestrator {
   constructor() {
@@ -97,7 +98,7 @@ class IntegrationOrchestrator {
       });
 
       // Step 2: Get ALL field mappings for this vendor
-      console.log('Fetching field mappings for vendor ID:', config.cac_customer_id);
+      // console.log('Fetching field mappings for vendor ID:', config.cac_customer_id);
       const allMappings = await ConfigModel.getAllFieldMappings(config.cac_customer_id.trim());
 
       // console.log('Total field mappings retrieved:', config.vendor_id);
@@ -105,8 +106,9 @@ class IntegrationOrchestrator {
       // Step 3: Map data
 
 let transactions = [];
+// console.log('Source type for mapping:', config.cac_apidbmapping);
 
-      if (config.cac_jsonordb?.toLowerCase() === 'db') {
+      if (config.cac_apidbmapping?.toLowerCase() === 'db') {
 
         // DB Mapping
       const dbMapper = new dbfieldMApper(config, [
@@ -114,6 +116,7 @@ let transactions = [];
         ...allMappings.raw_transaction_items,
         ...allMappings.raw_payment
       ]);
+      // console.log('Using DB field mapper for transactions',rawData);
        transactions = await dbMapper.mapTransactions(rawData);
 
       this.logger.info('DB Data mapped successfully', { 
@@ -128,7 +131,7 @@ let transactions = [];
         ...allMappings.raw_payment
       ]);
       
-      const transactions = await mapper.mapTransactions(rawData);
+       transactions = await mapper.mapTransactions(rawData);
 
       this.logger.info('Data mapped successfully', {
         transactionCount: transactions.length
@@ -143,10 +146,11 @@ let transactions = [];
       let totalSkipped = 0;
 
       await client.query('BEGIN');
-
+//  console.log('Checking transaction exists', 1);
       try {
         for (const transaction of transactions) {
           try {
+          //  console.log('Checking transaction exists', transaction.invoice_no);
             // 🔹 Check if transaction already exists
             const exists = await inserter.checkTransactionExists(client, transaction);
 
@@ -158,7 +162,7 @@ let transactions = [];
               // });
               continue;
             }
-
+// console.log('Inserted transaction', {payments: transaction.payments.length});
             // Insert transaction
             await inserter.insertTransaction(client, transaction);
 
@@ -166,7 +170,7 @@ let transactions = [];
             if (transaction.items && transaction.items.length > 0) {
               await inserter.insertTransactionItems(client, transaction.items, transaction);
             }
-            // console.log('Inserted transaction', {payments: transaction.payments.length});
+            
             // Insert payments if available
             if (transaction.payments && transaction.payments.length > 0) {
               await inserter.insertPayments(client, transaction.payments, transaction);

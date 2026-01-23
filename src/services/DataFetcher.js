@@ -40,19 +40,249 @@ class DataFetcher {
         return `${yyyy}-${mm}-${dd}`;    // 2025-12-10
     }
   }
-  
+
+async  getAllSegments(fromDate, toDate) {
+  const [
+    transactionSegment,
+    itemSegment,
+    paymentSegment
+  ] = await Promise.all([
+    this.callSoapMethod('TransactionSegment', fromDate, toDate),
+    this.callSoapMethod('ItemSegment', fromDate, toDate),
+    this.callSoapMethod('PaymentSegment', fromDate, toDate)
+  ]);
+
+   return this.groupByReceiptNoFromSoap({
+    transactionSegment,
+    itemSegment,
+    paymentSegment
+  });
+}
+
+
+/* =========================
+   SOAP CALLER
+========================= */
+async callSoapMethod(methodName, fromDate, toDate) {
+  try {
+    const soapEnvelope = this.buildSoapEnvelope(methodName, fromDate, toDate);
+
+    const response = await axios.post(
+      this.config.cac_api_url,
+      soapEnvelope,
+      {
+        headers: {
+          'Content-Type': 'text/xml; charset=utf-8',
+          'SOAPAction': this.config.cac_soap_action || ''
+        },
+        timeout: this.config.cac_soap_timeout || 30000,
+        responseType: 'text'
+      }
+    );
+
+    // Optional logging
+    if (this.config.cac_log_soap) {
+      const fs = require('fs');
+      fs.appendFileSync(
+        'logs/soap.log',
+        `===== ${methodName} =====\n${response.data}\n\n`
+      );
+    }
+
+    // Parse SOAP XML → JSON
+    const parser = new xml2js.Parser({ explicitArray: false });
+    const parsed = await parser.parseStringPromise(response.data);
+// console.log('Parsed SOAP response for method', methodName, JSON.stringify(parsed, null, 2));
+
+
+    return parsed;
+
+  } catch (error) {
+    throw new Error(`[SOAP:${methodName}] ${error.response?.data || error.message}`);
+  }
+}
+
+ groupByReceiptNoFromSoap(data) {
+  const { transactions, items, payments } =
+    this.extractArraysFromSoapResponse(data);
+
+  const grouped = {};
+
+  // 🔹 Transactions (base)
+  for (const tx of transactions) {
+    const receipt = tx.RECEIPT_NO;
+    if (!receipt) continue;
+
+    grouped[receipt] = {
+      receipt_no: receipt,
+      transaction: tx,
+      items: [],
+      payments: []
+    };
+  }
+
+  // 🔹 Items
+  for (const item of items) {
+    const receipt = item.RECEIPT_NO;
+    if (!receipt) continue;
+
+    if (!grouped[receipt]) {
+      grouped[receipt] = {
+        receipt_no: receipt,
+        transaction: null,
+        items: [],
+        payments: []
+      };
+    }
+
+    grouped[receipt].items.push(item);
+  }
+
+  // 🔹 Payments
+  for (const pay of payments) {
+    const receipt = pay.RECEIPT_NO;
+    if (!receipt) continue;
+
+    if (!grouped[receipt]) {
+      grouped[receipt] = {
+        receipt_no: receipt,
+        transaction: null,
+        items: [],
+        payments: []
+      };
+    }
+
+    grouped[receipt].payments.push(pay);
+  }
+// console.log('Grouped SOAP data by receipt no:', Object.values(grouped));
+  return Object.values(grouped);
+}
+
+
+ extractArraysFromSoapResponse(data) {
+  const transactions =
+    data?.transactionSegment
+      ?.['soap:Envelope']
+      ?.['soap:Body']
+      ?.GetResponseAsDataSetResponse
+      ?.GetResponseAsDataSetResult
+      ?.['diffgr:diffgram']
+      ?.eShopaidTransactionSegment
+      ?.TransactionSegment || [];
+
+  const items =
+    data?.itemSegment
+      ?.['soap:Envelope']
+      ?.['soap:Body']
+      ?.GetResponseAsDataSetResponse
+      ?.GetResponseAsDataSetResult
+      ?.['diffgr:diffgram']
+      ?.eShopaidItemSegment
+      ?.ItemSegment || [];
+
+  const payments =
+    data?.paymentSegment
+      ?.['soap:Envelope']
+      ?.['soap:Body']
+      ?.GetResponseAsDataSetResponse
+      ?.GetResponseAsDataSetResult
+      ?.['diffgr:diffgram']
+      ?.NewDataSet
+      ?.Table || [];
+
+  return {
+    transactions: Array.isArray(transactions) ? transactions : [transactions],
+    items: Array.isArray(items) ? items : [items],
+    payments: Array.isArray(payments) ? payments : [payments]
+  };
+}
+
+buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+  xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:esh="http://eshopaid.in">
+
+  <soapenv:Header>
+    <esh:eShopaidSoapHeader>
+      <esh:UserName>${this.config.cac_db_username}</esh:UserName>
+      <esh:Password>${this.config.cac_db_password}</esh:Password>
+      <esh:MethodName>${methodName}</esh:MethodName>
+      <esh:FromDate>${fromDate}</esh:FromDate>
+      <esh:ToDate>${toDate}</esh:ToDate>
+      <esh:OptionalData>${optionalData}</esh:OptionalData>
+    </esh:eShopaidSoapHeader>
+  </soapenv:Header>
+
+  <soapenv:Body>
+    <esh:GetResponseAsDataSet />
+  </soapenv:Body>
+
+</soapenv:Envelope>`;
+}
+
+
+  async fetchThreeApisInLoop(maxDate) {
+  if (!Array.isArray(this.config.cac_multiple_apis)) {
+    throw new Error('cac_multiple_apis must be an array');
+  }
+
+  const combinedResponse = {
+    success: true,
+    fromDate: maxDate,
+    toDate: this.buildRuntimeContext(maxDate).TO_DATE,
+    data: {},
+    errors: []
+  };
+
+  for (const apiConfig of this.config.cac_multiple_apis) {
+    try {
+      // 🔹 Create isolated fetcher per API
+      const fetcher = new DataFetcher({
+        ...this.config,
+        ...apiConfig
+      });
+
+      const response = await fetcher.fetchFromAPI(maxDate);
+
+      combinedResponse.data[apiConfig.api_name] = response;
+    } catch (error) {
+      this.logger.error('API fetch failed', {
+        api: apiConfig.api_name,
+        error: error.message
+      });
+
+      combinedResponse.errors.push({
+        api: apiConfig.api_name,
+        error: error.message
+      });
+    }
+  }
+
+  return combinedResponse;
+}
+
+
+
+
+
   async fetchData() {
     const sourceType = this.config.cac_jsonordb?.toLowerCase();
     
     try {
       // 🔹 STEP 1: Get max transaction date from database
-      console.log('Fetching max transaction date for config:', this.config.dateformat);
+      // console.log('Fetching max transaction date for config:', this.config.dateformat);
       const maxDate = await this.getMaxTransactionDate(this.config.dateformat || 'YYYY-MM-DD');
-      this.logger.info('Max transaction date retrieved', { maxDate });
+      // this.logger.info('Max transaction date retrieved', { maxDate });
+
 
       if (sourceType === 'json' || sourceType === 'api') {
         return await this.fetchFromAPI(maxDate);
-      } else if (sourceType === 'xml' || sourceType === 'soap') {
+      } else if (sourceType === 'soap') {
+        // return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
+        return await this.getAllSegments('2025-12-01', this.buildRuntimeContext(maxDate).TO_DATE);
+      }
+      else if (sourceType === 'xml' ) {
         return await this.fetchFromXMLAPI(maxDate);
       // } else if (sourceType === 'db' || sourceType === 'database') {
         // return await this.fetchFromDatabase(maxDate);
@@ -83,17 +313,40 @@ class DataFetcher {
     this.logger.info('Fetching auth token');
 
     // const mapping = this.config.cac_authtokenfieldmapping;
+const bodyType = (this.config.cac_authtoken_body_type || 'json').toLowerCase();
+
+let data;
 
      let headers = { ...(this.config.cac_authtokenfieldmapping.headers || {}) };
-    let body = this.config.cac_authtokenfieldmapping.body || null;
+    let rawBody = this.config.cac_authtokenfieldmapping.body || null;
 let params = this.config.cac_authtokenfieldmapping.params || {};
-console.log('Auth token request headers:', body);
+
+
+if (bodyType === 'x-www-form-urlencoded') {
+    headers['Content-Type'] = 'application/x-www-form-urlencoded';
+
+    const form = new URLSearchParams();
+    Object.entries(rawBody).forEach(([k, v]) => {
+      if (v !== undefined && v !== null) {
+        form.append(k, v);
+      }
+    });
+
+    data = form.toString();
+  } 
+  else {
+    // DEFAULT → JSON
+    headers['Content-Type'] = 'application/json';
+    data = rawBody;
+  }
+  
+console.log('Auth token request headers:', rawBody);
 
     // 🔹 Replace placeholders
     const context = this.buildRuntimeContext(maxDate);
     headers = this.replacePlaceholders(headers, context);
      params  = this.replacePlaceholders(params, context);
-    if (body) body = this.replacePlaceholders(body, context);
+    if (rawBody) rawBody = this.replacePlaceholders(rawBody, context);
 
 
 // console.log('Auth token request params:', params);
@@ -103,7 +356,7 @@ console.log('Auth token request headers:', body);
       url: this.config.cac_authtokenurl,
       headers,
       params,
-      data: body,
+      data: data,
       timeout: 20000
     });
 
@@ -213,7 +466,7 @@ let params = {};
 
     // 🔹 Replace placeholders
     const context = this.buildRuntimeContext(maxDate);
-    console.log('Runtime context for API call:', context);
+    // console.log('Runtime context for API call:', context);
     if (token) {
   context.Authorization = `${token}`;
 }
@@ -226,7 +479,7 @@ let params = {};
 
     // 🔹 Token logic (ONLY if configured)
    
-console.log('API request headers:', body);
+// console.log('API request headers:', body);
    /* this.logger.info('Calling API', {
       url: cac_api_url,
       method: cac_http_method || 'POST',
@@ -248,10 +501,10 @@ console.log('API request headers:', body);
       timeout: 30000
     });
 
-    console.log(
-  'API response status:',
-  JSON.stringify(response.data, null, 2)
-);
+    // console.log(
+  // 'API response status:',
+  // JSON.stringify(response.data, null, 2)
+// );
 
     return response.data;
   }
@@ -345,16 +598,14 @@ splitTransactionDateTime(timestamp) {
       fromDate: maxDate 
     });
 
-    // const headers = {
-      // 'Content-Type': 'text/xml'
-    // };
+    
 
     
     let body = null
 let headers = {};
 let params = {};  
     
-     // console.log('API request headers before placeholder replacement:', cac_xmlbody);
+    
     if (cac_xmlbody) {
         body = cac_xmlbody;
     } 
@@ -368,7 +619,7 @@ let params = {};
     if (body) body = this.replacePlaceholders(body, context);
 
    
-// console.log('API request headers:', body);
+
    
 
     const response = await axios({

@@ -4,12 +4,25 @@ class DbTransactionMapper {
   constructor(config, fieldMappings) {
     this.config = config;
     this.fieldMappings = fieldMappings;
-    this.sourceType = config.cac_jsonordb?.toLowerCase() || 'db';
+    this.sourceType = config.cac_apidbmapping?.toLowerCase() || 'db';
   }
 
   /* ========================= PUBLIC ========================== */
   mapTransactions(dbRows) {
-    if (!Array.isArray(dbRows) || !dbRows.length) return [];
+    
+    let rows = dbRows;
+
+  if (!Array.isArray(rows)) {
+    if (dbRows?.AllData && Array.isArray(dbRows.AllData)) {
+      rows = dbRows.AllData;
+    } else {
+      console.error('❌ Invalid DB response shape', dbRows);
+      return [];
+    }
+  }
+
+  // console.log('Mapping DB transactions, total rows:', rows.length);
+  if (!rows.length) return [];
 
   const invoiceMapping = this.getInvoiceMapping();
   if (!invoiceMapping) {
@@ -19,7 +32,7 @@ class DbTransactionMapper {
   // 🔹 Group rows using mapping (DB / JSON safe)
   const grouped = {};
 
-  for (const row of dbRows) {
+  for (const row of rows) {
     const invoiceNo = this.applyMapping(row, invoiceMapping);
 
     if (!invoiceNo) continue;
@@ -77,7 +90,7 @@ class DbTransactionMapper {
         tx[m.pvfm_source_field] = value; // canonical assignment
       }
     }
-
+// console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
     return tx;
   }
 

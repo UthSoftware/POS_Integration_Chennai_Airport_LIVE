@@ -79,6 +79,7 @@ class DataInserter {
    * Check if a transaction already exists in the database
    */
   async checkTransactionExists(client, transaction) {
+    
     const query = `
       SELECT 1 FROM raw_transactions
       WHERE invoice_no = $1
@@ -86,6 +87,7 @@ class DataInserter {
     `;
 
     const result = await client.query(query, [transaction.invoice_no]);
+    // console.log('Check transaction exists', { invoice_no: transaction.invoice_no, exists: result.rows.length > 0 });
     return result.rows.length > 0;
   }
 
@@ -177,7 +179,7 @@ class DataInserter {
       transaction.invoice_no
     ];
 
-    console.log('Inserting transaction', { values: values });
+    // console.log('Inserting transaction', { values: values });
 
     await client.query(query, values);
   }

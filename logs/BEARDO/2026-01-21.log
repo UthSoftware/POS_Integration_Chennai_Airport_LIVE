@@ -1,0 +1,1101 @@
+{"level":"info","maxDate":"2026-01-21","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:25:00.249Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:25:00.250Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:25:00.777Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:33:00.293Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:33:00.295Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:33:00.702Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:36:00.079Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:36:00.081Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:36:00.776Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:37:00.387Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:37:00.388Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:37:00.721Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:38:00.104Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:38:00.107Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:38:00.617Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:39:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:39:00.121Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:39:00.686Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:40:00.103Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:40:00.106Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:40:00.731Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:41:00.280Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:41:00.281Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:41:00.563Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:42:00.281Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:42:00.282Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:42:01.908Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:43:00.283Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:43:00.284Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:43:00.664Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:44:00.274Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:44:00.276Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:44:00.942Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:45:00.095Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:45:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:45:00.551Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:46:00.287Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:46:00.288Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:46:00.611Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:47:00.440Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:47:00.442Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:47:01.244Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:48:00.439Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:48:00.441Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:48:00.906Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:49:00.377Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:49:00.378Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:49:00.780Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:50:00.375Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:50:00.376Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:50:00.696Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:51:00.277Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:51:00.278Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:51:00.596Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:52:00.255Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:52:00.255Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:52:00.771Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:53:00.318Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:53:00.319Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:53:01.411Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:54:00.354Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:54:00.355Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:54:01.188Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:55:00.295Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:55:00.296Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:55:00.559Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:56:00.344Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:56:00.346Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:56:00.656Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:57:00.260Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:57:00.261Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:57:00.796Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:58:00.234Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:58:00.234Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:58:01.584Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T06:59:00.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T06:59:00.218Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T06:59:02.109Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:00:00.256Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:00:00.257Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:00:00.577Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:01:00.253Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:01:00.254Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:01:00.693Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:02:00.265Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:02:00.266Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:02:02.204Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:03:00.213Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:03:00.214Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:03:01.140Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:04:00.245Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:04:00.245Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:04:00.594Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:05:00.241Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:05:00.242Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:05:02.040Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:06:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:06:00.249Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:06:01.213Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:07:00.246Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:07:00.246Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:07:00.787Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:08:00.257Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:08:00.258Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:08:01.962Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:09:00.243Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:09:00.244Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:09:00.586Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:10:00.330Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:10:00.331Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:10:00.850Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:11:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:11:00.245Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:11:01.228Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:12:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:12:00.234Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:12:00.462Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:13:00.272Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:13:00.273Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:13:00.750Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:14:00.272Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:14:00.272Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:14:00.293Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:15:00.304Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:15:00.305Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:15:00.743Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:16:00.337Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:16:00.338Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:16:00.718Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:17:00.240Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:17:00.241Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:17:01.516Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:18:00.251Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:18:00.251Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:18:01.819Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:19:00.234Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:19:00.235Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:19:01.573Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:20:00.333Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:20:00.334Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:20:00.694Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:21:00.275Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:21:00.275Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:21:00.963Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:22:00.363Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:22:00.365Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:22:00.692Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:23:00.242Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:23:00.243Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:23:01.316Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:24:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:24:00.249Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:24:00.909Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:25:00.266Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:25:00.266Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:25:00.582Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:26:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:26:00.225Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:26:00.653Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:27:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:27:00.229Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:27:00.545Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:28:00.255Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:28:00.256Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:28:00.693Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:29:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:29:00.238Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:29:00.628Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:30:00.215Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:30:00.216Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T07:30:00.755Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:31:00.232Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:31:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:31:00.240Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:32:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:32:00.228Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:32:00.243Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:33:00.251Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:33:00.252Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:33:00.258Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:34:00.211Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:34:00.212Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:34:00.218Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:35:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:35:00.229Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:35:00.233Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:36:00.242Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:36:00.242Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:36:00.247Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:37:00.245Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:37:00.246Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:37:00.251Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:38:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:38:00.229Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:38:00.243Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:39:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:39:00.245Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:39:00.251Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:40:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:40:00.237Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:40:00.243Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:41:00.187Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:41:00.188Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:41:00.193Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:42:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:42:00.225Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:42:00.231Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:43:00.232Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:43:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:43:00.238Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:44:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:44:00.226Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:44:00.232Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:45:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:45:00.228Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:45:00.232Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:46:00.235Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:46:00.236Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:46:00.240Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:47:00.246Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:47:00.246Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:47:00.252Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:48:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:48:00.245Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:48:00.250Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:49:00.232Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:49:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:49:00.237Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:50:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:50:00.249Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:50:00.255Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:51:00.232Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:51:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:51:00.237Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:52:00.226Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:52:00.226Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:52:00.231Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:53:00.231Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:53:00.232Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:53:00.236Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:54:00.243Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:54:00.243Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:54:00.250Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:55:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:55:00.234Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:55:00.238Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:56:00.238Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:56:00.238Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:56:00.244Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:57:00.239Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:57:00.239Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:57:00.243Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:58:00.362Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:58:00.363Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:58:00.369Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T07:59:00.306Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T07:59:00.307Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T07:59:00.311Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:00:00.256Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:00:00.256Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T08:00:00.262Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:01:00.239Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:01:00.240Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"timeout of 20000ms exceeded","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T08:01:20.252Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:02:00.297Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:02:00.297Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:02:00.907Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:03:00.108Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:03:00.109Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:03:01.711Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:04:00.097Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:04:00.097Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:04:01.770Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:05:00.105Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:05:00.105Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:05:01.113Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:06:00.106Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:06:00.107Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:06:01.195Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:07:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:07:00.099Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:07:00.813Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:08:00.100Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:08:00.101Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:08:01.405Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:09:00.109Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:09:00.109Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:09:00.870Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:10:00.108Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:10:00.108Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:10:01.081Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:11:00.083Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:11:00.084Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:11:00.411Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:12:00.221Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:12:00.221Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:12:00.488Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:13:00.121Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:13:00.121Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:13:00.343Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:14:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:14:00.113Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:14:00.713Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:15:00.114Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:15:00.114Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:15:00.389Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:16:00.129Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:16:00.129Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:16:00.559Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:17:00.136Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:17:00.136Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:17:00.969Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:18:00.090Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:18:00.090Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:18:01.709Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:19:00.138Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:19:00.138Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:19:00.538Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:20:00.110Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:20:00.110Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:20:00.393Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:21:00.221Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:21:00.222Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:21:00.575Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:22:00.076Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:22:00.076Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:22:00.428Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:23:00.093Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:23:00.093Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:23:00.494Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:24:00.097Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:24:00.097Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:24:00.491Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:25:00.115Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:25:00.116Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:25:00.369Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:26:00.094Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:26:00.094Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:26:00.767Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:27:00.116Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:27:00.116Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:27:00.583Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:28:00.108Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:28:00.108Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:28:00.788Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:29:00.104Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:29:00.104Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:29:03.036Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:30:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:30:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:30:00.597Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:31:00.102Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:31:00.102Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:31:00.452Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:32:00.120Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:32:00.121Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:32:01.281Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:33:00.123Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:33:00.123Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:33:00.755Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:34:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:34:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:34:00.393Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:35:00.159Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:35:00.160Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:35:01.356Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:36:00.120Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:36:00.120Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:36:00.558Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:37:00.116Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:37:00.117Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:37:00.589Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:38:00.114Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:38:00.114Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:38:02.041Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:39:00.155Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:39:00.155Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:39:00.455Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:40:00.107Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:40:00.107Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:40:00.533Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:41:00.242Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:41:00.242Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:41:03.524Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:42:00.149Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:42:00.149Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"timeout of 20000ms exceeded","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T08:42:20.163Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:43:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:43:00.102Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:43:00.718Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:44:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:44:00.244Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:44:01.155Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:45:00.110Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:45:00.110Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:45:00.332Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:46:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:46:00.101Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:46:00.839Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:47:00.132Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:47:00.132Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:47:02.370Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:48:00.133Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:48:00.133Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:48:00.866Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:49:00.128Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:49:00.128Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:49:00.793Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:50:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:50:00.124Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:50:00.711Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:51:00.116Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:51:00.116Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:51:02.275Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:52:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:52:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:52:00.523Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:53:00.095Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:53:00.096Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:53:01.864Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:54:00.111Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:54:00.111Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:54:00.464Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:55:00.145Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:55:00.145Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:55:01.054Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:56:00.121Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:56:00.121Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:56:02.075Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:57:00.120Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:57:00.121Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:57:00.431Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:58:00.131Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:58:00.132Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:58:00.782Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T08:59:00.224Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T08:59:00.224Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T08:59:01.712Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:00:00.139Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:00:00.139Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T09:00:00.550Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:01:00.105Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:01:00.106Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:01:00.109Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:02:00.089Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:02:00.089Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:02:00.091Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:03:00.135Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:03:00.136Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:03:00.139Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:04:00.122Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:04:00.123Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:04:00.125Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:05:00.123Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:05:00.123Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:05:00.126Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:06:00.100Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:06:00.100Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:06:00.102Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:07:00.243Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:07:00.243Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:07:00.246Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:08:00.129Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:08:00.129Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:08:00.131Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:09:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:09:00.117Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:09:00.120Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:10:00.121Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:10:00.121Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:10:00.123Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:11:00.138Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:11:00.138Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:11:00.140Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:12:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:12:00.113Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:12:00.115Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:13:00.136Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:13:00.137Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:13:00.139Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:14:00.131Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:14:00.132Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:14:00.134Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:15:00.283Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:15:00.283Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:15:00.285Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:16:00.111Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:16:00.112Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:16:00.114Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:17:00.125Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:17:00.125Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:17:00.127Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:18:00.125Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:18:00.125Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:18:00.127Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:19:00.253Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:19:00.253Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:19:00.256Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:20:00.111Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:20:00.112Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:20:00.113Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:21:00.103Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:21:00.104Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:21:00.106Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:22:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:22:00.101Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:22:00.103Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:23:00.119Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:23:00.120Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:23:00.122Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:24:00.275Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:24:00.276Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:24:00.278Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:25:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:25:00.117Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:25:00.119Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:26:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:26:00.113Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:26:00.116Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:27:00.100Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:27:00.100Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:27:00.103Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:28:00.107Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:28:00.108Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:28:00.110Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:29:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:29:00.124Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:29:00.126Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:30:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:30:00.113Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:30:00.115Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:31:00.112Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:31:00.112Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:31:00.114Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:32:00.126Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:32:00.126Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:32:00.128Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:33:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:33:00.113Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:33:00.116Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:34:00.112Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:34:00.112Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:34:00.114Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:35:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:35:00.101Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:35:00.103Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:36:00.102Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:36:00.103Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:36:00.104Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:37:00.110Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:37:00.111Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:37:00.113Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:38:00.119Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:38:00.119Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:38:00.122Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:39:00.129Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:39:00.129Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:39:00.131Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:40:00.099Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:40:00.099Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:40:00.101Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:41:00.240Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:41:00.241Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:41:00.247Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:42:00.229Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:42:00.229Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:42:00.233Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:43:00.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:43:00.217Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:43:00.222Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:44:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:44:00.228Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:44:00.232Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:45:00.322Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:45:00.323Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:45:00.327Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:46:00.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:46:00.218Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:46:00.222Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:47:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:47:00.238Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:47:00.242Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:48:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:48:00.245Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:48:00.250Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:49:00.216Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:49:00.217Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:49:00.222Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:50:00.305Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:50:00.306Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:50:00.311Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:51:00.241Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:51:00.241Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:51:00.246Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:52:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:52:00.234Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:52:00.241Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:53:00.240Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:53:00.241Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:53:00.245Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:54:00.319Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:54:00.320Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:54:00.324Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:55:00.234Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:55:00.234Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:55:00.239Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:56:00.215Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:56:00.216Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:56:00.220Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:57:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:57:00.226Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:57:00.230Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:58:00.202Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:58:00.202Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:58:00.207Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T09:59:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T09:59:00.225Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T09:59:00.230Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:00:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:00:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:00:00.238Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:01:00.247Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:01:00.247Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:01:00.252Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:02:00.327Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:02:00.328Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:02:00.333Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:03:00.278Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:03:00.279Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:03:00.286Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:04:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:04:00.237Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:04:00.242Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:05:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:05:00.228Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:05:00.232Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:06:00.291Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:06:00.292Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:06:00.298Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:07:00.232Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:07:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:07:00.237Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:08:00.210Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:08:00.210Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:08:00.214Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:09:00.225Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:09:00.226Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:09:00.230Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:10:00.222Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:10:00.223Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:10:00.227Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:11:00.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:11:00.217Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:11:00.222Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:12:00.230Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:12:00.230Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:12:00.234Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:13:00.259Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:13:00.259Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:13:00.263Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:14:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:14:00.229Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:14:00.233Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:15:00.334Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:15:00.335Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:15:00.339Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:16:00.328Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:16:00.329Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:16:00.333Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:17:00.226Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:17:00.226Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:17:00.230Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:18:00.212Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:18:00.213Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:18:00.217Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:19:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:19:00.233Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:19:00.239Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:20:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:20:00.102Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:20:00.103Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:21:00.235Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:21:00.236Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:21:00.237Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:22:00.102Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:22:00.103Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:22:00.105Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:23:00.109Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:23:00.109Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:23:00.111Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:24:00.099Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:24:00.099Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:24:00.101Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:25:00.125Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:25:00.125Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:25:00.127Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:26:00.136Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:26:00.137Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:26:00.139Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:27:00.136Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:27:00.136Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:27:00.138Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:28:00.118Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:28:00.118Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:28:00.120Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:29:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:29:00.117Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:29:00.119Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:30:00.236Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:30:00.237Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:30:00.240Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:31:00.091Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:31:00.092Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:31:00.094Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:32:00.129Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:32:00.130Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:32:00.132Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:33:00.120Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:33:00.120Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:33:00.123Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:34:00.126Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:34:00.127Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:34:00.129Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:35:00.128Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:35:00.128Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:35:00.130Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:36:00.127Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:36:00.127Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:36:00.129Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:37:00.131Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:37:00.132Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:37:00.134Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:38:00.105Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:38:00.106Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:38:00.108Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:39:00.210Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:39:00.211Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:39:00.215Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:40:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:40:00.229Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T10:40:00.233Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:41:00.402Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:41:00.403Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:41:00.718Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:42:00.254Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:42:00.255Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:42:00.523Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:43:00.238Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:43:00.239Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:43:00.500Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:44:00.368Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:44:00.369Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:44:01.049Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:45:00.243Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:45:00.244Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:45:02.197Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:46:00.296Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:46:00.297Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:46:00.731Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:47:00.349Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:47:00.350Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:47:00.620Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:48:00.241Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:48:00.242Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:48:00.489Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:49:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:49:00.238Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:49:00.646Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:50:00.338Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:50:00.339Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:50:00.660Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:51:00.234Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:51:00.234Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:51:00.571Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:52:00.274Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:52:00.274Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:52:00.601Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:53:00.197Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:53:00.198Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:53:00.459Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:54:00.220Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:54:00.221Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:54:00.520Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:55:00.200Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:55:00.201Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:55:00.479Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:56:00.233Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:56:00.233Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:56:00.510Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:57:00.387Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:57:00.388Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:57:00.875Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:58:00.436Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:58:00.438Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:58:00.755Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T10:59:00.302Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T10:59:00.303Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T10:59:00.558Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:00:00.311Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:00:00.312Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:00:00.606Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:01:00.322Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:01:00.322Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:01:00.550Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:02:00.312Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:02:00.312Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:02:00.592Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:03:00.230Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:03:00.230Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:03:00.535Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:04:00.332Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:04:00.332Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:04:00.625Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:05:00.315Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:05:00.315Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:05:00.632Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:06:00.306Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:06:00.306Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:06:00.652Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:07:00.452Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:07:00.453Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:07:00.714Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:08:00.279Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:08:00.280Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:08:00.624Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:09:00.266Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:09:00.267Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:09:00.609Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:10:00.388Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:10:00.389Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:10:00.755Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:11:00.222Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:11:00.222Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:11:00.477Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:12:00.292Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:12:00.292Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:12:00.594Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:13:00.260Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:13:00.260Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:13:00.566Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:14:00.191Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:14:00.192Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:14:00.485Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:15:00.228Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:15:00.228Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:15:00.961Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:16:00.254Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:16:00.255Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:16:00.495Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:17:00.303Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:17:00.304Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:17:00.553Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:18:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:18:00.248Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:18:00.533Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:19:00.244Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:19:00.244Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:19:00.536Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:20:00.321Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:20:00.322Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:20:00.829Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:21:00.239Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:21:00.240Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:21:00.532Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:22:00.257Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:22:00.258Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:22:00.607Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:23:00.285Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:23:00.286Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:23:00.606Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:24:00.312Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:24:00.312Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:24:00.649Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:25:00.377Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:25:00.377Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:25:00.627Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:26:00.322Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:26:00.325Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:26:01.917Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:27:00.309Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:27:00.310Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:27:01.837Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:28:00.258Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:28:00.258Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:28:00.709Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:29:00.048Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:29:00.049Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:29:00.561Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:30:00.295Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:30:00.298Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:30:01.235Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:32:00.316Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:32:00.318Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:32:01.598Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:33:00.367Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:33:00.368Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:33:00.726Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:34:00.316Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:34:00.317Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:34:00.786Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:35:00.259Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:35:00.260Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:35:00.629Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:36:00.355Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:36:00.357Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:36:01.436Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:37:00.376Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:37:00.377Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:37:00.880Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:38:00.305Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:38:00.305Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:38:01.188Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:39:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:39:00.227Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:39:00.926Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:40:00.247Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:40:00.248Z"}
+{"config":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-21T11:40:00.260Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T11:41:00.272Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T11:41:00.272Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T11:41:00.742Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:40:00.274Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:40:00.277Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:40:00.835Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:41:00.314Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:41:00.314Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:41:00.688Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:42:00.209Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:42:00.210Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:42:00.612Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:43:00.127Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:43:00.130Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:43:00.606Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:44:00.090Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:44:00.090Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:44:00.810Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:45:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:45:00.114Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:45:00.852Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:46:00.132Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:46:00.132Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:46:00.691Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:47:00.136Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:47:00.137Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:47:00.774Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:48:00.142Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:48:00.143Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:48:01.062Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:49:00.116Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:49:00.117Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:49:00.457Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:50:00.102Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:50:00.102Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:50:00.577Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:51:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:51:00.117Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:51:00.646Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:52:00.139Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:52:00.140Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:52:00.400Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:53:00.101Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:53:00.101Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:53:00.358Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:54:00.131Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:54:00.131Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:54:00.388Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:55:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:55:00.099Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:55:00.676Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:56:00.105Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:56:00.105Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:56:00.383Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:57:00.119Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:57:00.120Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:57:00.405Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:58:00.219Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:58:00.220Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:58:00.483Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T13:59:00.095Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T13:59:00.096Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T13:59:00.412Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:00:00.095Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:00:00.095Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:00:00.640Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:01:00.119Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:01:00.119Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:01:00.362Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:02:00.091Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:02:00.092Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:02:00.890Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:03:00.109Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:03:00.110Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:03:00.355Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:04:00.122Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:04:00.123Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:04:00.364Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:05:00.108Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:05:00.108Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:05:00.909Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:06:00.106Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:06:00.107Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:06:00.354Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:07:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:07:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:07:00.944Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:08:00.222Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:08:00.222Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:08:00.484Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:09:00.120Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:09:00.120Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:09:00.724Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:10:00.132Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:10:00.132Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:10:01.335Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:11:00.119Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:11:00.120Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:11:00.418Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:12:00.097Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:12:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:12:00.890Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:13:00.148Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:13:00.148Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:13:01.154Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:14:00.128Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:14:00.129Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:14:00.656Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:15:00.117Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:15:00.118Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:15:02.437Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:16:00.111Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:16:00.111Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:16:01.360Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:17:00.114Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:17:00.114Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:17:00.413Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:18:00.125Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:18:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:18:00.382Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:19:00.123Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:19:00.124Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:19:00.553Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:20:00.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:20:00.217Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:20:00.858Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:21:00.245Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:21:00.245Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:21:00.543Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:22:00.124Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:22:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:22:00.552Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:23:00.128Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:23:00.128Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:23:00.382Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:24:00.109Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:24:00.109Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:24:00.503Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:25:00.234Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:25:00.235Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:25:00.817Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:26:00.118Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:26:00.119Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:26:00.724Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:27:00.104Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:27:00.104Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:27:00.550Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:28:00.130Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:28:00.130Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:28:00.429Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:29:00.269Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:29:00.274Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:29:00.869Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:30:00.227Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:30:00.227Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:30:00.864Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:31:00.115Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:31:00.115Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:31:00.506Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:32:00.115Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:32:00.116Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:32:00.405Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:33:00.113Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:33:00.113Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:33:00.548Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:34:00.134Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:34:00.134Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:34:00.460Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:35:00.125Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:35:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:35:00.556Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:36:00.129Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:36:00.129Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:36:00.730Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:37:00.098Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:37:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:37:00.446Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:55:00.237Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:55:00.238Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:55:01.019Z"}
+{"level":"info","maxDate":"2026-01-20","message":"Max transaction date retrieved","timestamp":"2026-01-21T14:56:00.045Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-21T14:56:00.046Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-21T14:56:00.459Z"}

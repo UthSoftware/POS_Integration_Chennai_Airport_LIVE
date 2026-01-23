@@ -1,6 +1,14 @@
 const { v4: uuidv4 } = require('uuid');
 const createLogger = require('../config/logger');
 const xml2js = require('xml2js');
+const dayjs = require('dayjs');
+const customParseFormat = require('dayjs/plugin/customParseFormat');
+const utc = require('dayjs/plugin/utc');
+const timezone = require('dayjs/plugin/timezone');
+
+dayjs.extend(customParseFormat);
+dayjs.extend(utc);
+dayjs.extend(timezone);
 
 class FieldMapper {
   constructor(config, fieldMappings) {
@@ -9,6 +17,22 @@ class FieldMapper {
     this.logger = createLogger(config.vendor_name || 'FieldMapper');
     this.sourceType = config.cac_jsonordb?.toLowerCase();
   }
+
+parseApiDateTime(dateTimeStr) {
+    if (!dateTimeStr) return null;
+
+    // Handles "01/01/2026 03:08:08 PM" (DD/MM/YYYY hh:mm:ss A)
+    const dt = dayjs(dateTimeStr, 'DD/MM/YYYY hh:mm:ss A', true);
+
+    if (!dt.isValid()) {
+      this.logger.warn('Invalid API datetime', { dateTimeStr });
+      return null;
+    }
+
+    // Convert to IST timezone explicitly (same as your DB)
+    return dt.tz('Asia/Kolkata').toDate(); // JS Date object
+  }
+
 
   /* ========================= PUBLIC ========================== */
   async mapTransactions(rawData) {
@@ -29,7 +53,7 @@ class FieldMapper {
   const rowRoot = txMappings[0]?.pvfm_row_root_json_path||null;
 
 
-console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
+// console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
 
   let records;
   if (rowRoot) {
@@ -91,8 +115,11 @@ console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
       outlet_name: this.config.cac_outlet_id,
       terminal: this.config.com_terminal,
       gate: this.config.com_gate,
-      received_at: null,
+      // received_at: dayjs().tz('Asia/Kolkata').format('YYYY-MM-DD HH:mm:ss'),
       transaction_time: null,
+      received_at:null,
+      // transaction_time: dayjs().tz('Asia/Kolkata').format('YYYY-MM-DD HH:mm:ss'),
+      
       transaction_type: 'SALE',
       gross_amount: 0,
       discount_amount: 0,
@@ -342,10 +369,16 @@ let rows;
 
     // TRANSACTION HEADER
     } else {
+
+      if (mapping.pvfm_tablename === 'raw_transactions' && !mapping.pvfm_row_root_json_path) {
+        // console.log('Mapping transaction field without row root', mapping.pvfm_json_path)
+    value = record?.[mapping.pvfm_json_path];
+      } else {
       
       value = mapping.pvfm_json_path
         ? this.extractByJsonPath(record, mapping.pvfm_json_path)
         : undefined;
+      }
     }
   } else {
     value = mapping.pvfm_source_field
@@ -447,6 +480,9 @@ console.log('Applied mapping 1 ', { mapping, value });
       if (rule.includes('parseFloat')) return parseFloat(value);
       if (rule.includes('parseInt')) return parseInt(value);
       if (rule.includes('toISOString')) return new Date(value).toISOString();
+      // 🔹 Handle parseDateTime dynamically
+    if (rule.includes('parseDateTime')) return this.parseApiDateTime(value);
+
       return value;
     } catch (err) {
       this.logger.warn('Transformation failed', { rule, value, error: err.message });
