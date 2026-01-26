@@ -349,7 +349,7 @@ let rows;
     return this.buildTimestamp(record, mapping);
   }
   
-  if (['api','json','xml','soap'].includes(this.sourceType)) {
+  if (['api','json','xml','soap','multiapi'].includes(this.sourceType)) {
        // ITEM / PAYMENT TABLES
     if (
       mapping.pvfm_tablename !== 'raw_transactions' &&

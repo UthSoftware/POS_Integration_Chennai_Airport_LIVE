@@ -1,0 +1,24 @@
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-25T15:58:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-25T15:58:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-25T15:58:00.241Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-25T15:58:00.247Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-25T15:58:01.790Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-25T15:58:01.817Z","transactionCount":39}
+{"configId":"2b588546-7eeb-4861-8d76-f0c2ccf60cb6","errors":0,"level":"info","message":"Configuration processed successfully","records":28,"skipped":11,"timestamp":"2026-01-25T15:58:02.503Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-25T15:58:02.504Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-25T16:10:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-25T16:10:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-25T16:10:00.235Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018/api/App","configId":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-25T16:10:00.237Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":267,"timestamp":"2026-01-25T16:10:04.010Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-25T16:10:04.524Z","transactionCount":267}
+{"configId":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":267,"timestamp":"2026-01-25T16:10:04.966Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-25T16:10:04.967Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-25T16:12:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-25T16:12:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-25T16:12:00.059Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018/api/App","configId":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-25T16:12:00.063Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":267,"timestamp":"2026-01-25T16:12:01.183Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-25T16:12:01.212Z","transactionCount":267}
+{"configId":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":267,"timestamp":"2026-01-25T16:12:01.584Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-25T16:12:01.585Z"}

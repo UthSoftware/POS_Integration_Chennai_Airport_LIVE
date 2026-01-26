@@ -1,0 +1,14 @@
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 405","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:16:05.874Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 405","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:20:00.493Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"axios.POST is not a function","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:21:00.168Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:22:00.428Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:25:00.620Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:26:00.890Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:31:00.452Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:38:00.455Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:41:00.476Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:42:00.309Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:43:00.659Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:44:00.354Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:45:00.418Z"}
+{"config":"e1f22de0-a259-433e-ab42-dd5fb462a0d2","error":"Request failed with status code 500","level":"error","message":"Data fetch failed","timestamp":"2026-01-24T13:46:00.536Z"}

@@ -35,6 +35,8 @@ class DataFetcher {
         return `${dd}-${mmm}-${yy}`;     // 10-DEC-25
       case 'DD/MM/YYYY':
         return `${dd}/${mm}/${yyyy}`;    // 10/12/2025
+      case 'YYYY-DD-MM'  :
+        return `${yyyy}-${dd}-${mm}`;    // 2025-10-12
       case 'YYYY-MM-DD':
       default:
         return `${yyyy}-${mm}-${dd}`;    // 2025-12-10
@@ -262,7 +264,102 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
   return combinedResponse;
 }
 
+  async getCombinedDetails(Fromdate, Todate) {
+    const baseUrl = 'http://198.38.89.30:9018/api/App';
+      console.log('Fetching multi-API data', { Fromdate, Todate });
 
+  const results = {
+    items: [],
+    payments: [],
+    transactions: []
+  };
+
+  try {
+    const res = await axios.get(`${baseUrl}/ItemdetailsGet`, {
+      params: { Fromdate, Todate }
+    });
+    results.items = res.data;
+    // console.log('ItemdetailsGet OK:', res.data.length);
+  } catch (err) {
+    console.error('❌ ItemdetailsGet failed', err.response?.data || err.message);
+  }
+
+  try {
+    const res = await axios.get(`${baseUrl}/PaymentdetailsGet`, {
+      params: { Fromdate, Todate }
+    });
+    results.payments = res.data;
+    // console.log('PaymentdetailsGet OK:', res.data.length);
+  } catch (err) {
+    console.error('❌ PaymentdetailsGet failed', err.response?.data || err.message);
+  }
+
+  try {
+    const res = await axios.get(`${baseUrl}/TransactiondetailsGet`, {
+      params: { Fromdate, Todate }
+    });
+    results.transactions = res.data;
+    // console.log('TransactiondetailsGet OK:', res.data.length);
+  } catch (err) {
+    console.error('❌ TransactiondetailsGet failed', err.response?.data || err.message);
+  }
+
+  return this.groupByReceiptmultiapi(
+    results.items,
+    results.payments,
+    results.transactions
+  );
+}
+
+
+ groupByReceiptmultiapi(items, payments, transactions) {
+  const grouped = {};
+
+  // Transactions (1 per receipt usually)
+  transactions.forEach(txn => {
+    const rcpt = txn.RCPT_NUM;
+    if (!grouped[rcpt]) {
+      grouped[rcpt] = {
+        RCPT_NUM: rcpt,
+        transaction: null,
+        items: [],
+        payments: []
+      };
+    }
+    grouped[rcpt].transaction = txn;
+  });
+
+  // Items (many per receipt)
+  items.forEach(item => {
+    const rcpt = item.RCPT_NUM;
+    if (!grouped[rcpt]) {
+      grouped[rcpt] = {
+        RCPT_NUM: rcpt,
+        transaction: null,
+        items: [],
+        payments: []
+      };
+    }
+    grouped[rcpt].items.push(item);
+  });
+
+  // Payments (many per receipt)
+  payments.forEach(pay => {
+    const rcpt = pay.RCPT_NUM;
+    if (!grouped[rcpt]) {
+      grouped[rcpt] = {
+        RCPT_NUM: rcpt,
+        transaction: null,
+        items: [],
+        payments: []
+      };
+    }
+    grouped[rcpt].payments.push(pay);
+  });
+
+  console.log('Grouped multi-API data by receipt no:', Object.values(grouped));
+  return Object.values(grouped);
+}
 
 
 
@@ -278,7 +375,13 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
 
       if (sourceType === 'json' || sourceType === 'api') {
         return await this.fetchFromAPI(maxDate);
-      } else if (sourceType === 'soap') {
+
+
+      }else if (sourceType == 'multiapi'){//KADASAM CUSTOMER..
+      //  return await this.getCombinedDetails(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
+     return await this.getCombinedDetails('2025-01-12', this.buildRuntimeContext(maxDate).TO_DATE);
+    } 
+      else if (sourceType === 'soap') {
         // return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
         return await this.getAllSegments('2025-12-01', this.buildRuntimeContext(maxDate).TO_DATE);
       }

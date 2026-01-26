@@ -179,7 +179,7 @@ class DataInserter {
       transaction.invoice_no
     ];
 
-    // console.log('Inserting transaction', { values: values });
+    console.log('Inserting transaction', { values: values });
 
     await client.query(query, values);
   }
