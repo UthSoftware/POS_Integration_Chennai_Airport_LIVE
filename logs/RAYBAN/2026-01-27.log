@@ -1,0 +1,2 @@
+{"fromDate":"2026-01-26","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-01-27T10:43:13.411Z","url":"http://myitworld.biz:8082/fapi/apps/bafrest.php/POS_DATA_INTERFACE/REST?hiInstanceId=2"}
+{"level":"info","message":"XML/SOAP data fetched and parsed successfully","timestamp":"2026-01-27T10:43:14.228Z"}

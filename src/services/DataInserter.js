@@ -82,11 +82,11 @@ class DataInserter {
     
     const query = `
       SELECT 1 FROM raw_transactions
-      WHERE invoice_no = $1
+      WHERE invoice_no = $1 and brand_name=$2 AND outlet_name=$3
       LIMIT 1
     `;
 
-    const result = await client.query(query, [transaction.invoice_no]);
+    const result = await client.query(query, [transaction.invoice_no, transaction.brand_name, transaction.outlet_name]);
     // console.log('Check transaction exists', { invoice_no: transaction.invoice_no, exists: result.rows.length > 0 });
     return result.rows.length > 0;
   }
@@ -94,28 +94,28 @@ class DataInserter {
   /**
    * Check if transaction items already exist
    */
-  async checkItemsExist(client, invoice_no) {
+  async checkItemsExist(client, invoice_no, brand_name, outlet_name) {
     const query = `
       SELECT 1 FROM raw_transaction_items
-      WHERE invoice_no = $1
+      WHERE invoice_no = $1 and brand_name=$2 AND outlet_name=$3
       LIMIT 1
     `;
 
-    const result = await client.query(query, [invoice_no]);
+    const result = await client.query(query, [invoice_no, brand_name, outlet_name]);
     return result.rows.length > 0;
   }
 
   /**
    * Check if payments already exist
    */
-  async checkPaymentsExist(client, invoice_no) {
+  async checkPaymentsExist(client, invoice_no, brand_name, outlet_name) {
     const query = `
       SELECT 1 FROM raw_payment
-      WHERE invoice_no = $1
+      WHERE invoice_no = $1 and brand_name=$2 AND outlet_name=$3
       LIMIT 1
     `;
 
-    const result = await client.query(query, [invoice_no]);
+    const result = await client.query(query, [invoice_no, brand_name, outlet_name]);
     return result.rows.length > 0;
   }
 
@@ -188,7 +188,7 @@ class DataInserter {
     if (!items || items.length === 0) return;
 
     // 🔹 Check if items already exist
-    const itemsExist = await this.checkItemsExist(client, transaction.invoice_no);
+    const itemsExist = await this.checkItemsExist(client, transaction.invoice_no,transaction.brand_name,transaction.outlet_name);
     
     if (itemsExist) {
       this.logger.info('Transaction items already exist, skipping', {
@@ -326,7 +326,7 @@ line_tax: items.map(i =>
     if (!payments || payments.length === 0) return;
 
     // 🔹 Check if payments already exist
-    const paymentsExist = await this.checkPaymentsExist(client, transaction.invoice_no);
+    const paymentsExist = await this.checkPaymentsExist(client, transaction.invoice_no,transaction.brand_name,transaction.outlet_name);
     
     if (paymentsExist) {
       this.logger.info('Payments already exist, skipping', {

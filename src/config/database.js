@@ -4,7 +4,7 @@ require('dotenv').config();
 const pool = new Pool({
   host: 'localhost',
   port: 5432,//process.env.DB_PORT,
-  database: 'VIDVEDAA_INTEGSERVER',//process.env.DB_NAME,
+  database: 'vidnew2701',//process.env.DB_NAME,
   user: 'postgres',//process.env.DB_USER,
   password: 'masterkey',//process.env.DB_PASSWORD,
   max: 20,

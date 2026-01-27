@@ -265,7 +265,9 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
 }
 
   async getCombinedDetails(Fromdate, Todate) {
-    const baseUrl = 'http://198.38.89.30:9018/api/App';
+    const baseUrl = this.cac_api_url;
+    
+    // 'http://198.38.89.30:9018/api/App';
       console.log('Fetching multi-API data', { Fromdate, Todate });
 
   const results = {
@@ -281,7 +283,7 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
     results.items = res.data;
     // console.log('ItemdetailsGet OK:', res.data.length);
   } catch (err) {
-    console.error('❌ ItemdetailsGet failed', err.response?.data || err.message);
+    this.logger.error('❌ ItemdetailsGet failed', err.response?.data || err.message);
   }
 
   try {
@@ -291,7 +293,7 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
     results.payments = res.data;
     // console.log('PaymentdetailsGet OK:', res.data.length);
   } catch (err) {
-    console.error('❌ PaymentdetailsGet failed', err.response?.data || err.message);
+    this.logger.error('❌ PaymentdetailsGet failed', err.response?.data || err.message);
   }
 
   try {
@@ -301,7 +303,7 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
     results.transactions = res.data;
     // console.log('TransactiondetailsGet OK:', res.data.length);
   } catch (err) {
-    console.error('❌ TransactiondetailsGet failed', err.response?.data || err.message);
+    this.logger.error('❌ TransactiondetailsGet failed', err.response?.data || err.message);
   }
 
   return this.groupByReceiptmultiapi(
@@ -383,7 +385,7 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
     } 
       else if (sourceType === 'soap') {
         // return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
-        return await this.getAllSegments('2025-12-01', this.buildRuntimeContext(maxDate).TO_DATE);
+        return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
       }
       else if (sourceType === 'xml' ) {
         return await this.fetchFromXMLAPI(maxDate);
@@ -593,7 +595,7 @@ let params = {};
     });*/
 
     
-// console.log('API request body after placeholder replacement:', body);
+console.log('API request body after placeholder replacement:', body);
 
     const response = await axios({
       method: cac_http_method || 'POST',
@@ -604,10 +606,10 @@ let params = {};
       timeout: 30000
     });
 
-    // console.log(
-  // 'API response status:',
-  // JSON.stringify(response.data, null, 2)
-// );
+    console.log(
+  'API response status:',
+  JSON.stringify(response.data, null, 2)
+);
 
     return response.data;
   }
