@@ -265,10 +265,12 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
 }
 
   async getCombinedDetails(Fromdate, Todate) {
-    const baseUrl = this.cac_api_url;
-    
+    const { cac_api_url} = this.config;
+    const baseUrl = cac_api_url;
+    this.logger.error('Fetching multi-API data', {baseUrl});
+    // console.log('Fetching multi-API data', cac_api_url);
     // 'http://198.38.89.30:9018/api/App';
-      console.log('Fetching multi-API data', { Fromdate, Todate });
+      // console.log('Fetching multi-API data', { Fromdate, Todate });
 
   const results = {
     items: [],
@@ -359,7 +361,7 @@ buildSoapEnvelope(methodName, fromDate, toDate, optionalData = '') {
     grouped[rcpt].payments.push(pay);
   });
 
-  console.log('Grouped multi-API data by receipt no:', Object.values(grouped));
+  // console.log('Grouped multi-API data by receipt no:', Object.values(grouped));
   return Object.values(grouped);
 }
 
@@ -595,7 +597,7 @@ let params = {};
     });*/
 
     
-console.log('API request body after placeholder replacement:', body);
+// console.log('API request body after placeholder replacement:', body);
 
     const response = await axios({
       method: cac_http_method || 'POST',

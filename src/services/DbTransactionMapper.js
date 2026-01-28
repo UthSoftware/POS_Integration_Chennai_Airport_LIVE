@@ -90,7 +90,7 @@ class DbTransactionMapper {
         tx[m.pvfm_source_field] = value; // canonical assignment
       }
     }
-// console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
+console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
     return tx;
   }
 
@@ -203,13 +203,40 @@ class DbTransactionMapper {
 
   /* ========================= DATE ========================== */
   buildTimestamp(date, time) {
+    // if (!date || !time) return null;
+    // return new Date(`${date}T${time}`);
     if (!date || !time) return null;
-    return new Date(`${date}T${time}`);
+
+  // Handle DD/MM/YYYY
+  const [day, month, year] = date.split('/').map(Number);
+
+  // Handle HH:MM:SS AM/PM
+  const [timePart, meridian] = time.split(' ');
+  let [hours, minutes, seconds] = timePart.split(':').map(Number);
+
+  if (meridian === 'PM' && hours !== 12) hours += 12;
+  if (meridian === 'AM' && hours === 12) hours = 0;
+
+  // ✅ Return ISO-safe value
+  return new Date(
+    year,
+    month - 1,
+    day,
+    hours,
+    minutes,
+    seconds
+  ).toISOString();
   }
 
   /* ========================= TRANSFORM ========================== */
   applyTransformation(value, rule) {
     try {
+ if (rule.includes('normalizeVendorDate'))
+      return this.normalizeVendorDate(value);
+
+      if (rule.includes('normalizeVendorDateTime'))
+      return this.normalizeVendorDateTime(value);
+
       if (rule.includes('toUpperCase')) return String(value).toUpperCase();
       if (rule.includes('toLowerCase')) return String(value).toLowerCase();
       if (rule.includes('parseFloat')) return parseFloat(value);
@@ -220,6 +247,43 @@ class DbTransactionMapper {
       return value;
     }
   }
+
+normalizeVendorDateTime(value) {
+  if (!value || typeof value !== 'string') return value;
+
+  // Match: DD/MM/YYYY HH:MM:SS AM|PM
+  const match = value.match(
+    /^(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2}):(\d{2}) (AM|PM)$/i
+  );
+
+  if (!match) return value; // not a datetime
+
+  let [, day, month, year, hh, mm, ss, meridian] = match;
+
+  hh = parseInt(hh, 10);
+  if (meridian.toUpperCase() === 'PM' && hh !== 12) hh += 12;
+  if (meridian.toUpperCase() === 'AM' && hh === 12) hh = 0;
+
+  return new Date(
+    year,
+    month - 1,
+    day,
+    hh,
+    mm,
+    ss
+  ).toISOString();
+}
+
+normalizeVendorDate(value) {
+  if (!value || typeof value !== 'string') return value;
+
+  // Match DD/MM/YYYY
+  const match = value.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+  if (!match) return value;
+
+  const [, day, month, year] = match;
+  return `${year}-${month}-${day}`; // ISO date
+}
 
   /* ========================= JSON PATH ========================== */
   extractByJsonPath(obj, path) {

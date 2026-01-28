@@ -238,3 +238,413 @@
 {"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T13:52:04.172Z"}
 {"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T13:53:00.210Z"}
 {"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T13:53:00.596Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:11:00.240Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:11:00.569Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:12:00.227Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:12:01.061Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:13:00.098Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:13:00.520Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:14:00.104Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:14:00.561Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:15:00.096Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:15:00.367Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:16:00.073Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:16:00.589Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:19:00.129Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:19:03.517Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:20:00.111Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:20:00.798Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:21:00.096Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:21:00.364Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:23:00.110Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:23:00.665Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:24:00.166Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:24:00.441Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:25:00.107Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:25:00.655Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:26:00.125Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:26:00.592Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:27:00.116Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:27:00.505Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:28:00.094Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:28:00.555Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:29:00.291Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:29:00.867Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:30:00.279Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:30:00.584Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:31:00.410Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:31:00.883Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:32:00.108Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:32:00.812Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:33:00.370Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:33:01.016Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:34:00.329Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:34:01.095Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:35:00.371Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:35:00.764Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:36:00.382Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:36:00.801Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:37:00.228Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:37:01.039Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:38:00.138Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-27T14:38:00.347Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:39:00.307Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"getaddrinfo ENOTFOUND api.massistcrm.com","level":"error","message":"Data fetch failed","timestamp":"2026-01-27T14:39:00.319Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T14:48:00.132Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T14:48:00.692Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T15:46:00.130Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T15:46:00.850Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T15:47:00.371Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T15:47:00.624Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T15:48:00.362Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T15:48:00.656Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T16:12:00.297Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T16:12:00.667Z"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:02.900Z","transaction_id":"baa4dbff-9dfe-47e6-aea7-fceb79636197"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:02.911Z","transaction_id":"baa4dbff-9dfe-47e6-aea7-fceb79636197"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:02.927Z","transaction_id":"6661dc35-a733-4d81-b9b6-66b0c867bc33"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:02.937Z","transaction_id":"6661dc35-a733-4d81-b9b6-66b0c867bc33"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:02.944Z","transaction_id":"e490f861-d970-4b76-a61f-aa8111963c77"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:02.954Z","transaction_id":"e490f861-d970-4b76-a61f-aa8111963c77"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:02.961Z","transaction_id":"6f87610a-d41b-4fc2-a5c6-478120370f8b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:02.969Z","transaction_id":"6f87610a-d41b-4fc2-a5c6-478120370f8b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:02.976Z","transaction_id":"e89d8766-ae06-4905-afed-e1b941d90774"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:02.989Z","transaction_id":"e89d8766-ae06-4905-afed-e1b941d90774"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.002Z","transaction_id":"31106b36-adcf-4929-abd1-6c45266e406a"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.020Z","transaction_id":"31106b36-adcf-4929-abd1-6c45266e406a"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.035Z","transaction_id":"0e19baaf-77bb-4c62-941d-2f0aec6c940e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.051Z","transaction_id":"0e19baaf-77bb-4c62-941d-2f0aec6c940e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.065Z","transaction_id":"dade135c-f694-435d-a9f0-487e369e1782"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.083Z","transaction_id":"dade135c-f694-435d-a9f0-487e369e1782"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.096Z","transaction_id":"a9caa63d-d9bf-4e9e-9624-7e33f3ca111d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.113Z","transaction_id":"a9caa63d-d9bf-4e9e-9624-7e33f3ca111d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.128Z","transaction_id":"62d5c5fd-0ce0-4241-884d-2706f6147f55"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.146Z","transaction_id":"62d5c5fd-0ce0-4241-884d-2706f6147f55"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.157Z","transaction_id":"f06efc51-4efb-4f00-ae1e-b2c1140a0d9b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.175Z","transaction_id":"f06efc51-4efb-4f00-ae1e-b2c1140a0d9b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.186Z","transaction_id":"eb43e9c9-b600-4fdb-8468-5dc1c6a10bc5"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.204Z","transaction_id":"eb43e9c9-b600-4fdb-8468-5dc1c6a10bc5"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.217Z","transaction_id":"6a7f42e9-0e9f-4b4f-9b81-eecf2b2bbc78"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.236Z","transaction_id":"6a7f42e9-0e9f-4b4f-9b81-eecf2b2bbc78"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.253Z","transaction_id":"7117427c-c9bb-478e-9585-24558f01ee5d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.270Z","transaction_id":"7117427c-c9bb-478e-9585-24558f01ee5d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.283Z","transaction_id":"a739e14a-972f-46e0-b7c7-e2d9967bde08"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.301Z","transaction_id":"a739e14a-972f-46e0-b7c7-e2d9967bde08"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.314Z","transaction_id":"9cecae51-5d5e-4e89-b062-d38857c550df"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.334Z","transaction_id":"9cecae51-5d5e-4e89-b062-d38857c550df"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.345Z","transaction_id":"13a96ca9-c9ca-4d9f-bbb1-911492ce9462"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.360Z","transaction_id":"13a96ca9-c9ca-4d9f-bbb1-911492ce9462"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.376Z","transaction_id":"b417e431-3e50-4108-9408-fa0338e943f8"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.392Z","transaction_id":"b417e431-3e50-4108-9408-fa0338e943f8"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.405Z","transaction_id":"1b2c2e53-0898-4ef8-9d7a-2a53734c821e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.425Z","transaction_id":"1b2c2e53-0898-4ef8-9d7a-2a53734c821e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.438Z","transaction_id":"433ab78d-7078-41b7-adaf-0f277c556798"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.457Z","transaction_id":"433ab78d-7078-41b7-adaf-0f277c556798"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.471Z","transaction_id":"e57240af-45e5-4c8c-8092-34b2d0229478"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.487Z","transaction_id":"e57240af-45e5-4c8c-8092-34b2d0229478"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.502Z","transaction_id":"7725d9e1-77ed-4685-82ce-294e84cc00e1"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.518Z","transaction_id":"7725d9e1-77ed-4685-82ce-294e84cc00e1"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.531Z","transaction_id":"9aabf048-a16f-4997-8345-6cb787251747"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.548Z","transaction_id":"9aabf048-a16f-4997-8345-6cb787251747"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.559Z","transaction_id":"466dcdc6-c70f-4a1b-a0c1-e8a4f2525d9e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.579Z","transaction_id":"466dcdc6-c70f-4a1b-a0c1-e8a4f2525d9e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.591Z","transaction_id":"dde24e3c-7945-4715-9a96-9576d5848fb9"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.606Z","transaction_id":"dde24e3c-7945-4715-9a96-9576d5848fb9"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.619Z","transaction_id":"a8e9721c-e6a9-4b07-b444-8bd2e8a31926"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.635Z","transaction_id":"a8e9721c-e6a9-4b07-b444-8bd2e8a31926"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.647Z","transaction_id":"9637154a-b4c3-43e5-a779-da72633d06ba"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.663Z","transaction_id":"9637154a-b4c3-43e5-a779-da72633d06ba"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.674Z","transaction_id":"e47df287-6dc8-4f4a-971e-9e5e1ca425f2"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.692Z","transaction_id":"e47df287-6dc8-4f4a-971e-9e5e1ca425f2"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.706Z","transaction_id":"c3ef2c7a-d951-4975-8ab6-8037a507723c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.723Z","transaction_id":"c3ef2c7a-d951-4975-8ab6-8037a507723c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.735Z","transaction_id":"0aa09a2f-7814-48ce-9626-263f9c77d8ea"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.750Z","transaction_id":"0aa09a2f-7814-48ce-9626-263f9c77d8ea"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.764Z","transaction_id":"9e8fbf94-5de4-4585-b189-74add65f5ca9"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.785Z","transaction_id":"9e8fbf94-5de4-4585-b189-74add65f5ca9"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.800Z","transaction_id":"da6ba754-e0f7-4ba2-97a9-2cde5f7a7748"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.817Z","transaction_id":"da6ba754-e0f7-4ba2-97a9-2cde5f7a7748"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.830Z","transaction_id":"6fdccdcf-79de-4d44-bd21-2ecf9a35125b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.847Z","transaction_id":"6fdccdcf-79de-4d44-bd21-2ecf9a35125b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.858Z","transaction_id":"8a42fc64-7c00-4bb4-8a7a-f2816282efa4"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.874Z","transaction_id":"8a42fc64-7c00-4bb4-8a7a-f2816282efa4"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.887Z","transaction_id":"6447a6fd-bd68-4c1a-9ddf-24d1866c855e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.903Z","transaction_id":"6447a6fd-bd68-4c1a-9ddf-24d1866c855e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.917Z","transaction_id":"1855e627-cd94-4663-a35c-3a14537a2a6d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.941Z","transaction_id":"1855e627-cd94-4663-a35c-3a14537a2a6d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.957Z","transaction_id":"fa9b0dcc-4694-4ac2-adb4-19900eb5fa35"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:03.976Z","transaction_id":"fa9b0dcc-4694-4ac2-adb4-19900eb5fa35"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:03.988Z","transaction_id":"2f593b9c-05cc-435a-af8a-8fdfc4047030"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.005Z","transaction_id":"2f593b9c-05cc-435a-af8a-8fdfc4047030"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.018Z","transaction_id":"1b5f17f2-c2fe-4d39-ac21-b602dec2f132"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.036Z","transaction_id":"1b5f17f2-c2fe-4d39-ac21-b602dec2f132"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.051Z","transaction_id":"c429c327-b2e1-4555-aa67-f649316eaee4"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.067Z","transaction_id":"c429c327-b2e1-4555-aa67-f649316eaee4"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.082Z","transaction_id":"6023ae5b-39c6-45ec-b3fa-dc3cabbba3cb"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.103Z","transaction_id":"6023ae5b-39c6-45ec-b3fa-dc3cabbba3cb"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.125Z","transaction_id":"284d179f-4722-4e17-881a-bfb32d428550"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.144Z","transaction_id":"284d179f-4722-4e17-881a-bfb32d428550"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.159Z","transaction_id":"3a634207-61d8-4f13-b0c6-89a46eb96eb9"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.172Z","transaction_id":"3a634207-61d8-4f13-b0c6-89a46eb96eb9"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.181Z","transaction_id":"e8d7a633-748b-4c7d-98e4-799c73596201"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.192Z","transaction_id":"e8d7a633-748b-4c7d-98e4-799c73596201"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.200Z","transaction_id":"15d5a3a1-4a38-4944-8cae-3e762b8b5029"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.214Z","transaction_id":"15d5a3a1-4a38-4944-8cae-3e762b8b5029"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.221Z","transaction_id":"8a6c83b7-8a93-4609-9165-5d2d3d10dae8"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.235Z","transaction_id":"8a6c83b7-8a93-4609-9165-5d2d3d10dae8"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.243Z","transaction_id":"1b54ae53-51c2-4312-a86c-9cfdf383709a"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.253Z","transaction_id":"1b54ae53-51c2-4312-a86c-9cfdf383709a"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.261Z","transaction_id":"aa4e4058-eba1-4217-9043-20f5a7947de1"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.274Z","transaction_id":"aa4e4058-eba1-4217-9043-20f5a7947de1"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.283Z","transaction_id":"b6b79d64-26e4-4911-995d-167b06604fce"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.297Z","transaction_id":"b6b79d64-26e4-4911-995d-167b06604fce"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.305Z","transaction_id":"8ef5395e-d2ca-4285-9dd0-3a3da49f1197"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.317Z","transaction_id":"8ef5395e-d2ca-4285-9dd0-3a3da49f1197"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.324Z","transaction_id":"9967e531-a927-4165-ad5e-b51ddb717bce"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.334Z","transaction_id":"9967e531-a927-4165-ad5e-b51ddb717bce"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.340Z","transaction_id":"073f6c42-2950-4900-b41e-3e00a68c31eb"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.351Z","transaction_id":"073f6c42-2950-4900-b41e-3e00a68c31eb"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.358Z","transaction_id":"26c5d883-4957-4caf-9476-21747a343f3c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.368Z","transaction_id":"26c5d883-4957-4caf-9476-21747a343f3c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.375Z","transaction_id":"b8d59802-3050-4600-8922-b655d49751a1"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.386Z","transaction_id":"b8d59802-3050-4600-8922-b655d49751a1"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.394Z","transaction_id":"9611f478-f2ce-4060-adfb-3cd2c329559b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.403Z","transaction_id":"9611f478-f2ce-4060-adfb-3cd2c329559b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.412Z","transaction_id":"8d9bae74-62cf-4468-bb81-1b82b6b9baff"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.421Z","transaction_id":"8d9bae74-62cf-4468-bb81-1b82b6b9baff"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.429Z","transaction_id":"ff54358f-363f-4c95-95b7-5acc4a067aa5"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.440Z","transaction_id":"ff54358f-363f-4c95-95b7-5acc4a067aa5"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.452Z","transaction_id":"9cc2bae8-82f8-4db2-842c-33cff2b1d8c7"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.471Z","transaction_id":"9cc2bae8-82f8-4db2-842c-33cff2b1d8c7"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.485Z","transaction_id":"015ecff4-ff9d-4f26-a4ce-91492f62956e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.499Z","transaction_id":"015ecff4-ff9d-4f26-a4ce-91492f62956e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.516Z","transaction_id":"12fe19b3-6d3d-4ec7-b19c-a32bf6276c69"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.537Z","transaction_id":"12fe19b3-6d3d-4ec7-b19c-a32bf6276c69"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.552Z","transaction_id":"805658ed-ef2d-42e4-aaff-450ea3cc9f10"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.577Z","transaction_id":"805658ed-ef2d-42e4-aaff-450ea3cc9f10"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.590Z","transaction_id":"23c63896-8572-4c64-aa2c-9ed227e383bf"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.608Z","transaction_id":"23c63896-8572-4c64-aa2c-9ed227e383bf"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.619Z","transaction_id":"ec30d234-5b0c-4d30-be7c-ca2134b8a262"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.637Z","transaction_id":"ec30d234-5b0c-4d30-be7c-ca2134b8a262"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.649Z","transaction_id":"b145f746-17f7-4e41-9135-cfbc0feacee2"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.665Z","transaction_id":"b145f746-17f7-4e41-9135-cfbc0feacee2"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.678Z","transaction_id":"80a6933d-9877-4ba2-bb10-a9bc4b1fdb4b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.699Z","transaction_id":"80a6933d-9877-4ba2-bb10-a9bc4b1fdb4b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.710Z","transaction_id":"1434473f-c111-4948-9dac-223ee5902d46"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.729Z","transaction_id":"1434473f-c111-4948-9dac-223ee5902d46"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.740Z","transaction_id":"1bd9c830-18fd-4dd3-a8c2-20aa1f080eda"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.756Z","transaction_id":"1bd9c830-18fd-4dd3-a8c2-20aa1f080eda"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.770Z","transaction_id":"6f8dca8b-ce36-46df-b78a-f52d0784db7a"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.788Z","transaction_id":"6f8dca8b-ce36-46df-b78a-f52d0784db7a"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.801Z","transaction_id":"45d0f182-fd59-4397-b352-4b5e20d5b8c2"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.819Z","transaction_id":"45d0f182-fd59-4397-b352-4b5e20d5b8c2"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.830Z","transaction_id":"d84eb5d2-7b5d-4513-87e7-d7b9cd2aaee8"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.852Z","transaction_id":"d84eb5d2-7b5d-4513-87e7-d7b9cd2aaee8"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.864Z","transaction_id":"8bc6069b-adda-403a-9521-f5448604c1c3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.883Z","transaction_id":"8bc6069b-adda-403a-9521-f5448604c1c3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.895Z","transaction_id":"7ef69bdf-89ce-44a7-a7ef-822b3a7e5c51"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.919Z","transaction_id":"7ef69bdf-89ce-44a7-a7ef-822b3a7e5c51"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.932Z","transaction_id":"aaad4e39-ff22-4d07-9a07-3cfb78cb829c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.952Z","transaction_id":"aaad4e39-ff22-4d07-9a07-3cfb78cb829c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:04.972Z","transaction_id":"bc1c8fa3-74b9-4169-8b99-0107b0d4ae6b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:04.991Z","transaction_id":"bc1c8fa3-74b9-4169-8b99-0107b0d4ae6b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.004Z","transaction_id":"36175835-6e75-4af6-81f4-9e90f7a9b4a3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.022Z","transaction_id":"36175835-6e75-4af6-81f4-9e90f7a9b4a3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.034Z","transaction_id":"e8ed7576-a4bc-4c97-b266-2c1482b82a2e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.051Z","transaction_id":"e8ed7576-a4bc-4c97-b266-2c1482b82a2e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.064Z","transaction_id":"71ff0a93-2161-46ee-9a96-8a90198d5d99"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.080Z","transaction_id":"71ff0a93-2161-46ee-9a96-8a90198d5d99"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.090Z","transaction_id":"ab9a501b-9e40-4b4e-aa6b-58d3055d50a3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.108Z","transaction_id":"ab9a501b-9e40-4b4e-aa6b-58d3055d50a3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.119Z","transaction_id":"93d73625-16ec-4190-9621-a31d28e00b2c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.138Z","transaction_id":"93d73625-16ec-4190-9621-a31d28e00b2c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.151Z","transaction_id":"266c3bf5-091e-4b9b-bd49-1fc4bcf3bf23"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.168Z","transaction_id":"266c3bf5-091e-4b9b-bd49-1fc4bcf3bf23"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.180Z","transaction_id":"0bfaf0db-86d8-4822-926c-8aaeb25838d6"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.197Z","transaction_id":"0bfaf0db-86d8-4822-926c-8aaeb25838d6"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.209Z","transaction_id":"2eba9df7-77e9-4878-acfb-792ce1112503"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.226Z","transaction_id":"2eba9df7-77e9-4878-acfb-792ce1112503"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.238Z","transaction_id":"ef70c9e8-efdc-4bd7-a162-8a2d3bb2c874"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.255Z","transaction_id":"ef70c9e8-efdc-4bd7-a162-8a2d3bb2c874"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.268Z","transaction_id":"a138a26a-dcbf-4856-8201-bd5c4ab2fe70"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.284Z","transaction_id":"a138a26a-dcbf-4856-8201-bd5c4ab2fe70"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.298Z","transaction_id":"183963c0-a8b1-4943-8c74-c62d763e0291"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.316Z","transaction_id":"183963c0-a8b1-4943-8c74-c62d763e0291"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.327Z","transaction_id":"dfffb6b5-ce04-4a44-9400-81a986520f6e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.350Z","transaction_id":"dfffb6b5-ce04-4a44-9400-81a986520f6e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.363Z","transaction_id":"9d0285cd-5a34-42eb-ad5a-82cb0a57c582"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.383Z","transaction_id":"9d0285cd-5a34-42eb-ad5a-82cb0a57c582"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.394Z","transaction_id":"51b85fbf-61e3-423e-b200-da14aa6a3725"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.411Z","transaction_id":"51b85fbf-61e3-423e-b200-da14aa6a3725"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.423Z","transaction_id":"80b431e7-3f56-49e8-b384-fa6d3dee50c5"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.440Z","transaction_id":"80b431e7-3f56-49e8-b384-fa6d3dee50c5"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.452Z","transaction_id":"5df527bb-0a63-48f9-bfa7-bcc60ff8351d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.469Z","transaction_id":"5df527bb-0a63-48f9-bfa7-bcc60ff8351d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.481Z","transaction_id":"b41d83f6-c59f-44c0-9172-b45ff445c227"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.502Z","transaction_id":"b41d83f6-c59f-44c0-9172-b45ff445c227"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.515Z","transaction_id":"ffac3433-0919-4ac2-bb17-c5174405551d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.533Z","transaction_id":"ffac3433-0919-4ac2-bb17-c5174405551d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.545Z","transaction_id":"ab6f0704-b188-4d41-9b46-5aab6419cd18"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.560Z","transaction_id":"ab6f0704-b188-4d41-9b46-5aab6419cd18"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.573Z","transaction_id":"c08e88b8-da2a-4957-a78d-cff4c6f044a5"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.590Z","transaction_id":"c08e88b8-da2a-4957-a78d-cff4c6f044a5"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.603Z","transaction_id":"2fb243bb-ca0b-41cf-bc6d-959756b14182"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.624Z","transaction_id":"2fb243bb-ca0b-41cf-bc6d-959756b14182"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.638Z","transaction_id":"a4108b66-dae2-4f18-b803-f1c2ce42167d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.653Z","transaction_id":"a4108b66-dae2-4f18-b803-f1c2ce42167d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.666Z","transaction_id":"ac782408-3759-494a-80c0-fe0311c8eced"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.682Z","transaction_id":"ac782408-3759-494a-80c0-fe0311c8eced"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.694Z","transaction_id":"3427f3f1-cae7-4fd5-832c-f1b5c247a6f6"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.711Z","transaction_id":"3427f3f1-cae7-4fd5-832c-f1b5c247a6f6"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.721Z","transaction_id":"2ba76e57-3698-47ce-ab27-552492683e23"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.737Z","transaction_id":"2ba76e57-3698-47ce-ab27-552492683e23"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.762Z","transaction_id":"8feb1a0d-317f-4779-8df5-82aa90960232"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.782Z","transaction_id":"8feb1a0d-317f-4779-8df5-82aa90960232"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.793Z","transaction_id":"0fb74fbe-c339-4731-8ff7-57540bdbc7a7"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.811Z","transaction_id":"0fb74fbe-c339-4731-8ff7-57540bdbc7a7"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.821Z","transaction_id":"5e8888a2-4518-4ade-aacc-3dd2896a7959"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.838Z","transaction_id":"5e8888a2-4518-4ade-aacc-3dd2896a7959"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.850Z","transaction_id":"cf73829d-b053-41d0-aa92-fef3a3f4aa8f"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.867Z","transaction_id":"cf73829d-b053-41d0-aa92-fef3a3f4aa8f"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.878Z","transaction_id":"8ceac735-2852-47df-a161-12688c56834d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.893Z","transaction_id":"8ceac735-2852-47df-a161-12688c56834d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.905Z","transaction_id":"63a2d02b-2132-41a4-955c-6a9624e75dc8"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.921Z","transaction_id":"63a2d02b-2132-41a4-955c-6a9624e75dc8"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.933Z","transaction_id":"0d98ac9a-e856-4de6-b716-678f2c4d5bb0"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.948Z","transaction_id":"0d98ac9a-e856-4de6-b716-678f2c4d5bb0"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.959Z","transaction_id":"5bd88c09-7757-41a0-a8af-5f75005dc16f"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:05.978Z","transaction_id":"5bd88c09-7757-41a0-a8af-5f75005dc16f"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:05.989Z","transaction_id":"9a9b309c-3f51-4a80-89c6-e0f44d6a4eef"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.009Z","transaction_id":"9a9b309c-3f51-4a80-89c6-e0f44d6a4eef"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.023Z","transaction_id":"1b5d62c9-fe0c-4ca4-ae91-882bfb091fdb"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.040Z","transaction_id":"1b5d62c9-fe0c-4ca4-ae91-882bfb091fdb"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.052Z","transaction_id":"26b83b22-8a06-4c00-8a38-040995907277"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.069Z","transaction_id":"26b83b22-8a06-4c00-8a38-040995907277"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.080Z","transaction_id":"00d88cf6-1730-4ccf-b914-f0e07a24e99e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.098Z","transaction_id":"00d88cf6-1730-4ccf-b914-f0e07a24e99e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.109Z","transaction_id":"e4d284b6-abe2-4247-9e98-c289b78837db"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.134Z","transaction_id":"e4d284b6-abe2-4247-9e98-c289b78837db"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.147Z","transaction_id":"b3410303-64e7-4cf7-a240-5498a7ea0dee"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.165Z","transaction_id":"b3410303-64e7-4cf7-a240-5498a7ea0dee"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.176Z","transaction_id":"c9e71da4-6e5b-4c34-bfe2-f9ac04c7c5fe"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.192Z","transaction_id":"c9e71da4-6e5b-4c34-bfe2-f9ac04c7c5fe"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.203Z","transaction_id":"a9aaeca0-79e2-4c4f-9f07-10dffd446e42"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.221Z","transaction_id":"a9aaeca0-79e2-4c4f-9f07-10dffd446e42"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.232Z","transaction_id":"1b6375ba-f807-448e-b1d6-e38ea2540d8a"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.249Z","transaction_id":"1b6375ba-f807-448e-b1d6-e38ea2540d8a"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.260Z","transaction_id":"10c4a0da-0695-407a-b3a1-83379aa66274"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.278Z","transaction_id":"10c4a0da-0695-407a-b3a1-83379aa66274"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.290Z","transaction_id":"ae8fb4a1-0dfb-4e9d-be66-ce3ee4fec447"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.316Z","transaction_id":"ae8fb4a1-0dfb-4e9d-be66-ce3ee4fec447"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.330Z","transaction_id":"62605f74-a50c-4db0-9db1-7b4ac3c3fee3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.351Z","transaction_id":"62605f74-a50c-4db0-9db1-7b4ac3c3fee3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.366Z","transaction_id":"30ad9e5d-a0f6-41f9-b1f7-f0f9a05c6f86"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.382Z","transaction_id":"30ad9e5d-a0f6-41f9-b1f7-f0f9a05c6f86"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.393Z","transaction_id":"e3b81b43-3f8b-4a76-88ee-214d99788890"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.410Z","transaction_id":"e3b81b43-3f8b-4a76-88ee-214d99788890"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.420Z","transaction_id":"25022a8e-a83f-45cc-a28f-6ed5de747b1c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.439Z","transaction_id":"25022a8e-a83f-45cc-a28f-6ed5de747b1c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.451Z","transaction_id":"e8ca34b3-3664-47c2-82a9-015275be11e5"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.469Z","transaction_id":"e8ca34b3-3664-47c2-82a9-015275be11e5"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.481Z","transaction_id":"900203a3-4801-44c5-8b40-071238c9e526"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.498Z","transaction_id":"900203a3-4801-44c5-8b40-071238c9e526"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.508Z","transaction_id":"26ec0290-980f-4596-86db-37ca2e2f90dd"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.529Z","transaction_id":"26ec0290-980f-4596-86db-37ca2e2f90dd"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.541Z","transaction_id":"5347c9d1-7405-45e6-a409-09b37f1bee14"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.556Z","transaction_id":"5347c9d1-7405-45e6-a409-09b37f1bee14"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.568Z","transaction_id":"cfd6015a-9431-4e8d-9273-59963d2a094d"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.583Z","transaction_id":"cfd6015a-9431-4e8d-9273-59963d2a094d"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.594Z","transaction_id":"829f2f38-880b-4139-9b98-5cb948eb5cae"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.611Z","transaction_id":"829f2f38-880b-4139-9b98-5cb948eb5cae"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.623Z","transaction_id":"45c5fa58-b60e-4551-8c37-08f81d0f16e4"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.641Z","transaction_id":"45c5fa58-b60e-4551-8c37-08f81d0f16e4"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.652Z","transaction_id":"912ab9b9-14b0-4fb8-8e2e-78be46744949"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.671Z","transaction_id":"912ab9b9-14b0-4fb8-8e2e-78be46744949"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.682Z","transaction_id":"dd830528-d46d-4ac4-b918-fa80c014957b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.701Z","transaction_id":"dd830528-d46d-4ac4-b918-fa80c014957b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.714Z","transaction_id":"a01f2be8-35d6-42b2-8855-21803240bc86"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.731Z","transaction_id":"a01f2be8-35d6-42b2-8855-21803240bc86"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.741Z","transaction_id":"1c876124-9db9-468c-9b54-b1a819ddb1f3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.759Z","transaction_id":"1c876124-9db9-468c-9b54-b1a819ddb1f3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.772Z","transaction_id":"ba83841d-2671-4740-bb45-1dc691be7167"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.791Z","transaction_id":"ba83841d-2671-4740-bb45-1dc691be7167"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.804Z","transaction_id":"8ac0f605-f535-45fb-bb9c-74fbb21b03a3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.823Z","transaction_id":"8ac0f605-f535-45fb-bb9c-74fbb21b03a3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.835Z","transaction_id":"250f902d-5fee-43b3-b527-acfb077837d4"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.851Z","transaction_id":"250f902d-5fee-43b3-b527-acfb077837d4"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.864Z","transaction_id":"5a7a7884-19b1-45be-b945-0a5882eb5c2e"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.879Z","transaction_id":"5a7a7884-19b1-45be-b945-0a5882eb5c2e"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.889Z","transaction_id":"76095bbf-41ae-4fb9-bf21-64d404a3fe3c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.906Z","transaction_id":"76095bbf-41ae-4fb9-bf21-64d404a3fe3c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.919Z","transaction_id":"3298797e-a80a-4709-b1d1-8fd4cc29cac9"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.937Z","transaction_id":"3298797e-a80a-4709-b1d1-8fd4cc29cac9"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.949Z","transaction_id":"06858ec3-2e05-4ae1-981b-de76f162248f"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.967Z","transaction_id":"06858ec3-2e05-4ae1-981b-de76f162248f"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:06.978Z","transaction_id":"7cabe26c-0689-4220-861b-d64dd8e05fc3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:06.997Z","transaction_id":"7cabe26c-0689-4220-861b-d64dd8e05fc3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.009Z","transaction_id":"e035dad9-6e4e-4c16-b275-544a116884b7"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.025Z","transaction_id":"e035dad9-6e4e-4c16-b275-544a116884b7"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.037Z","transaction_id":"c4b638c1-f960-4da5-a932-3a38ecd47310"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.054Z","transaction_id":"c4b638c1-f960-4da5-a932-3a38ecd47310"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.066Z","transaction_id":"a0383843-c7bc-4990-8a1d-25bd7b4332fe"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.084Z","transaction_id":"a0383843-c7bc-4990-8a1d-25bd7b4332fe"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.095Z","transaction_id":"a21de8d7-b91e-4627-9a5b-96af8e655a9b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.112Z","transaction_id":"a21de8d7-b91e-4627-9a5b-96af8e655a9b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.122Z","transaction_id":"5c2b3eed-4d70-4ead-aa5a-f53980e18f72"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.142Z","transaction_id":"5c2b3eed-4d70-4ead-aa5a-f53980e18f72"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.154Z","transaction_id":"e8945228-9d36-4240-9293-ab9da310bbe3"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.171Z","transaction_id":"e8945228-9d36-4240-9293-ab9da310bbe3"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.184Z","transaction_id":"a18e47ad-ab79-465c-a20d-a986e71b8efe"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.201Z","transaction_id":"a18e47ad-ab79-465c-a20d-a986e71b8efe"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.214Z","transaction_id":"7fba24c7-22dd-4bb9-aab2-14828b8fb956"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.232Z","transaction_id":"7fba24c7-22dd-4bb9-aab2-14828b8fb956"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.242Z","transaction_id":"3b20d6d2-ab30-4366-82ff-67b5c2c04125"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.261Z","transaction_id":"3b20d6d2-ab30-4366-82ff-67b5c2c04125"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.271Z","transaction_id":"624826c4-cab1-44bb-8bde-97842e7e4652"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.288Z","transaction_id":"624826c4-cab1-44bb-8bde-97842e7e4652"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.299Z","transaction_id":"2f8924eb-667b-469d-805e-c6d46f6bfebf"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.313Z","transaction_id":"2f8924eb-667b-469d-805e-c6d46f6bfebf"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.324Z","transaction_id":"4a62ea04-fc4f-46c7-86f1-d4776d4c3e11"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.340Z","transaction_id":"4a62ea04-fc4f-46c7-86f1-d4776d4c3e11"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.352Z","transaction_id":"ca894028-8e6e-4b52-a7e2-fbc70eee55eb"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.372Z","transaction_id":"ca894028-8e6e-4b52-a7e2-fbc70eee55eb"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.384Z","transaction_id":"e3e7d93f-97cd-4c7e-b515-6a5c9599e734"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.399Z","transaction_id":"e3e7d93f-97cd-4c7e-b515-6a5c9599e734"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.410Z","transaction_id":"9d66e191-c54c-4d76-883a-d9be6b4f8882"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.431Z","transaction_id":"9d66e191-c54c-4d76-883a-d9be6b4f8882"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.443Z","transaction_id":"2a2556cb-a49c-49c4-af74-d4c8e1d7ab8c"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.464Z","transaction_id":"2a2556cb-a49c-49c4-af74-d4c8e1d7ab8c"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.475Z","transaction_id":"80107e3c-5783-47db-b100-61ee20be2a71"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.492Z","transaction_id":"80107e3c-5783-47db-b100-61ee20be2a71"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.502Z","transaction_id":"ba00851b-2033-4703-a55d-66f0e8e25c57"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.527Z","transaction_id":"ba00851b-2033-4703-a55d-66f0e8e25c57"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.539Z","transaction_id":"fe8c1d1d-98e8-4459-b7aa-3499ce0da08b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.560Z","transaction_id":"fe8c1d1d-98e8-4459-b7aa-3499ce0da08b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.572Z","transaction_id":"999aea25-614f-4914-882d-510e5ad4ba9b"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.596Z","transaction_id":"999aea25-614f-4914-882d-510e5ad4ba9b"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.607Z","transaction_id":"c0c38ce2-91aa-4606-a8a7-241cea303b28"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.629Z","transaction_id":"c0c38ce2-91aa-4606-a8a7-241cea303b28"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.641Z","transaction_id":"ceb7c1e5-1e95-4390-82b7-8617ad2ec988"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.665Z","transaction_id":"ceb7c1e5-1e95-4390-82b7-8617ad2ec988"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.677Z","transaction_id":"c700c48e-591c-4d6e-9667-2ee3575ceda6"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.698Z","transaction_id":"c700c48e-591c-4d6e-9667-2ee3575ceda6"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.711Z","transaction_id":"7873a3a2-a0c5-4524-b3a3-f48640288a69"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.729Z","transaction_id":"7873a3a2-a0c5-4524-b3a3-f48640288a69"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.738Z","transaction_id":"576bb159-3e20-4ec0-9cbb-653b9d8b9ae6"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.758Z","transaction_id":"576bb159-3e20-4ec0-9cbb-653b9d8b9ae6"}
+{"level":"info","message":"Transaction items already exist, skipping","timestamp":"2026-01-27T16:12:07.772Z","transaction_id":"17f9a418-dd4c-4a9b-b208-f3dee25ec251"}
+{"level":"info","message":"Payments already exist, skipping","timestamp":"2026-01-27T16:12:07.792Z","transaction_id":"17f9a418-dd4c-4a9b-b208-f3dee25ec251"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T16:13:00.365Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T16:13:00.928Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T16:14:00.476Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T16:14:01.114Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T17:43:00.133Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T17:43:00.664Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T17:44:00.242Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T17:44:00.846Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T17:45:00.411Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T17:45:01.685Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T17:46:00.356Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T17:46:00.660Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-01-27T17:47:00.473Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-01-27T17:47:01.325Z"}

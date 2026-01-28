@@ -137,7 +137,7 @@ parseApiDateTime(dateTimeStr) {
 
       if (value !== undefined && value !== null) tx[m.pvfm_source_field] = value;
     }
-console.log('Mapped transaction', { transaction_id: tx.transaction_id, mapped_fields: tx });
+// console.log('Mapped transaction', { transaction_id: tx.transaction_id, mapped_fields: tx });
 
  
     return tx;
