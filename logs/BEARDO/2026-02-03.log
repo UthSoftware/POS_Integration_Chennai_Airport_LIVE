@@ -1,0 +1,192 @@
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:04:00.222Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:04:00.532Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:07:00.225Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:07:00.689Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:10:00.248Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:10:00.549Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:11:00.225Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:11:00.446Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:20:00.200Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:20:00.515Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:21:00.207Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:21:00.375Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:22:00.213Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:22:00.398Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:23:00.194Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:23:00.313Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:24:00.206Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:24:00.552Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:25:00.215Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:25:00.378Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:25:00.439Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:26:00.835Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:26:01.043Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:26:01.092Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:31:28.685Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:31:29.359Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:31:29.367Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:31:29.381Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:31:29.447Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:31:29.520Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:31:29.558Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:31:29.574Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:31:29.584Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:31:29.619Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:31:29.636Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:31:29.648Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:33:36.817Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:33:37.138Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:33:37.193Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:34:17.120Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:34:17.280Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:34:17.339Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:35:16.521Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:35:16.833Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:35:16.899Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:36:09.045Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:36:09.209Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:36:09.269Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:37:14.094Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:37:14.722Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:37:14.781Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:38:13.023Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:38:13.174Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:38:13.218Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:39:04.216Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:39:04.420Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:39:04.464Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:40:13.230Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:40:13.480Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:40:13.539Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:41:14.593Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:41:14.800Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:41:14.847Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:42:16.487Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:42:16.822Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:42:16.873Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:43:14.621Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:43:15.091Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:43:15.213Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:44:19.522Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:44:19.747Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:44:19.796Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:45:04.882Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:45:05.030Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:45:05.084Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:46:15.994Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:46:16.146Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:46:16.208Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:47:18.135Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:47:18.318Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:47:18.356Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:48:03.939Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:48:04.068Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:48:04.126Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:49:18.777Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:49:19.009Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:49:19.067Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:50:13.632Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:50:13.756Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:50:13.846Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:51:02.944Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:51:03.152Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:51:03.213Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:52:00.619Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:52:00.750Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:52:00.792Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:53:15.932Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:53:16.109Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:53:16.159Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:54:16.866Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:54:17.165Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:54:17.217Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:55:07.071Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:55:07.212Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:55:07.261Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:56:31.862Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:56:32.250Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:56:32.291Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:57:22.290Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:57:22.412Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:57:22.453Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:58:35.213Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:58:35.452Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:58:35.542Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T08:59:24.784Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T08:59:24.936Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T08:59:25.058Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:00:18.952Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:00:19.142Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:00:19.219Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:01:27.784Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:01:27.991Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:01:28.048Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:02:22.033Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:02:22.217Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:02:22.262Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:03:24.521Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:03:24.711Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:03:24.765Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:04:27.162Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:04:27.402Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:04:27.475Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:05:24.150Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:05:24.776Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:05:25.070Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:06:31.339Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:06:31.529Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:06:31.567Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:07:17.573Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:07:17.725Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:07:17.774Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:08:37.226Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:08:37.414Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:08:37.460Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:09:24.398Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:09:24.549Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:09:24.615Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:10:23.076Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:10:23.302Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:10:23.354Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:11:14.752Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:11:14.870Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:11:14.913Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:12:10.727Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:12:11.018Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:12:11.417Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:13:22.471Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:13:22.694Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:13:22.746Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:14:21.255Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:14:21.631Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:14:21.690Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:15:21.253Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:15:21.457Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:15:21.504Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:16:25.086Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:16:25.793Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:16:25.949Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:17:05.419Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:17:05.646Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:17:05.683Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:18:23.089Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:18:23.302Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:18:23.351Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:19:05.079Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:19:05.304Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:19:05.346Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:20:27.130Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:20:27.397Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:20:27.446Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:21:19.994Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:21:20.152Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:21:20.215Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:22:28.263Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:22:28.464Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:22:28.529Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:23:18.235Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:23:18.416Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:23:18.464Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-03T09:24:31.404Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-03T09:24:31.645Z"}
+{"config":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","error":"Request failed with status code 417","level":"error","message":"Data fetch failed","timestamp":"2026-02-03T09:24:31.712Z"}

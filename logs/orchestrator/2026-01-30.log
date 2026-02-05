@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T11:14:00.040Z"}
 {"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T11:14:00.042Z"}
 {"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-30T11:14:00.110Z"}
@@ -119,3 +120,257 @@
 {"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T14:03:03.163Z","transactionCount":10}
 {"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","errors":0,"level":"info","message":"Configuration processed successfully","records":10,"skipped":0,"timestamp":"2026-01-30T14:03:03.487Z"}
 {"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T14:03:03.488Z"}
+=======
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:05:00.060Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:05:00.065Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:05:00.102Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:05:00.131Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:05:03.639Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:05:04.100Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:05:06.871Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:05:06.875Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:05:07.861Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:05:07.863Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:05:08.679Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:05:08.681Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":7,"timestamp":"2026-01-30T06:05:10.799Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:05:10.834Z","transactionCount":7}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":3,"skipped":4,"timestamp":"2026-01-30T06:05:11.282Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:05:11.284Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:05:13.432Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:05:13.480Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":2,"skipped":1,"timestamp":"2026-01-30T06:05:13.752Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:05:13.754Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:06:00.060Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:06:00.064Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:06:00.154Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:06:00.157Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:06:03.565Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:06:03.901Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:06:07.372Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:06:07.374Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:06:08.281Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:06:08.283Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:06:09.097Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:06:09.098Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:06:09.307Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:06:09.342Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:06:09.446Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:06:09.448Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:06:09.648Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:06:09.677Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:06:09.773Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:06:09.776Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:07:00.063Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:07:00.067Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:07:00.137Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:07:00.140Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:07:03.482Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:07:03.794Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:07:06.388Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:07:06.391Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:07:07.262Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:07:07.264Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:07:08.288Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:07:08.290Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:07:08.497Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:07:08.528Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:07:08.596Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:07:08.599Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:07:08.772Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:07:08.804Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:07:08.898Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:07:08.900Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:08:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:08:00.055Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:08:00.119Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:08:00.126Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:08:03.652Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:08:03.841Z","transactionCount":191}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:09:00.062Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:09:00.073Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:09:00.188Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:09:00.191Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:09:03.028Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:09:03.660Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:09:07.161Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:09:07.164Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:09:08.095Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:09:08.097Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:09:09.117Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:09:09.119Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:09:09.363Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:09:09.396Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:09:09.492Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:09:09.495Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:09:09.795Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:09:09.827Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:09:09.936Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:09:09.939Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:10:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:10:00.060Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:10:00.183Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:10:00.187Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:10:03.628Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:10:03.809Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:10:06.762Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:10:06.765Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:10:07.589Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:10:07.591Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:10:08.612Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:10:08.614Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:10:08.789Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:10:08.835Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:10:08.912Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:10:08.914Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:10:09.128Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:10:09.155Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:10:09.252Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:10:09.254Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:11:00.060Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:11:00.064Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:11:00.140Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:11:00.142Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:11:03.861Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:11:04.330Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:11:07.548Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:11:07.550Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:11:08.415Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:11:08.417Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:11:09.336Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:11:09.338Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:11:09.527Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:11:09.555Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:11:09.651Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:11:09.653Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:11:09.836Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:11:09.864Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:11:09.979Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:11:09.981Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:12:00.054Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:12:00.059Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:12:00.132Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:12:00.146Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:12:03.505Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:12:03.830Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:12:06.794Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:12:06.797Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:12:07.808Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:12:07.810Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:12:08.729Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:12:08.731Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:12:08.962Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:12:08.996Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:12:09.094Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:12:09.096Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:12:09.270Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:12:09.303Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:12:09.409Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:12:09.411Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:13:00.064Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:13:00.067Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:13:00.138Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:13:00.140Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:13:03.270Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:13:03.547Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:13:06.134Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:13:06.136Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:13:07.098Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:13:07.100Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:13:08.122Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:13:08.124Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:13:08.289Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:13:08.327Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:13:08.397Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:13:08.399Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:13:08.584Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:13:08.606Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:13:08.685Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:13:08.687Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:14:00.074Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:14:00.077Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:14:00.171Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:14:00.173Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:14:03.524Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:14:03.873Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:14:06.757Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:14:06.758Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:14:07.619Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:14:07.623Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:14:08.436Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:14:08.438Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:14:08.612Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:14:08.651Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:14:08.745Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:14:08.747Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:14:08.948Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:14:08.977Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:14:09.089Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:14:09.091Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:15:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:15:00.055Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:15:00.122Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:15:00.125Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:15:03.714Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:15:04.045Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:15:06.665Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:15:06.667Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:15:07.625Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:15:07.626Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:15:08.648Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:15:08.650Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:15:08.833Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:15:08.862Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:15:08.931Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:15:08.933Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:15:09.110Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:15:09.134Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:15:09.216Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:15:09.219Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:16:00.065Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:16:00.070Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:16:00.146Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:16:00.148Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:16:03.596Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:16:04.150Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:16:07.003Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:16:07.006Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:16:07.937Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:16:07.937Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:16:08.663Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:16:08.665Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:16:08.823Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:16:08.841Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:16:08.912Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:16:08.913Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:16:09.061Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:16:09.078Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:16:09.174Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:16:09.175Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:17:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:17:00.055Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:17:00.126Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:17:00.127Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:17:03.574Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:17:04.018Z","transactionCount":191}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":191,"timestamp":"2026-01-30T06:17:06.603Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:17:06.605Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:17:07.433Z"}
+{"CUSTOMERID":"VVC00046","URL":"https://api.giva.co/pos/posTransactions?","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:17:07.435Z","vendor":"INDIEJEWEL FASHIONS PVT LTD"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6819","level":"warn","message":"No data fetched","timestamp":"2026-01-30T06:17:08.361Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-30T06:17:08.362Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":2,"timestamp":"2026-01-30T06:17:08.536Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:17:08.558Z","transactionCount":2}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-01-30T06:17:08.632Z"}
+{"CUSTOMERID":"VVC00040","URL":"http://198.38.89.30:9018//api/App","configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","level":"info","message":"Processing configuration","outlet":"DOMESTIC 4","sourceType":"multiapi","timestamp":"2026-01-30T06:17:08.634Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":3,"timestamp":"2026-01-30T06:17:08.804Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:17:08.836Z","transactionCount":3}
+{"configId":"444bebaf-82cb-4a83-87ea-8f3eda029fe9","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":3,"timestamp":"2026-01-30T06:17:08.921Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-30T06:17:08.923Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-30T06:18:00.067Z"}
+{"error":"ENOENT: no such file or directory, open 'C:\\workplace\\New Web Report\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-30T06:18:00.071Z"}
+{"level":"info","message":"Found 5 active configurations","timestamp":"2026-01-30T06:18:00.145Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-30T06:18:00.147Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-30T06:18:03.627Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-30T06:18:04.083Z","transactionCount":191}
+>>>>>>> Stashed changes

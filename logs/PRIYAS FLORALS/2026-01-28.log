@@ -1,0 +1,3 @@
+{"config":"0587ad21-a72b-49a7-acc0-efba44cb9703","error":"[SOAP:TransactionSegment] connect ETIMEDOUT 10.40.71.54:6021","level":"error","message":"Data fetch failed","timestamp":"2026-01-28T11:30:24.086Z"}
+{"config":"0587ad21-a72b-49a7-acc0-efba44cb9703","error":"[SOAP:TransactionSegment] connect ETIMEDOUT 10.40.71.54:6021","level":"error","message":"Data fetch failed","timestamp":"2026-01-28T12:00:23.341Z"}
+{"config":"0587ad21-a72b-49a7-acc0-efba44cb9703","error":"[SOAP:TransactionSegment] connect ETIMEDOUT 10.40.71.54:6021","level":"error","message":"Data fetch failed","timestamp":"2026-01-28T12:30:22.834Z"}

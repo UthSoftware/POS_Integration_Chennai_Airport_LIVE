@@ -1,2 +1,27 @@
+<<<<<<< Updated upstream
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T17:44:49.930Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T17:44:49.949Z"}
+=======
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:12:25.468Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:12:25.502Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:13:02.540Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:13:02.557Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:13:10.198Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:13:10.215Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:13:53.804Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:13:53.818Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:14:02.989Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:14:03.007Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:15:22.769Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:15:22.785Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T11:15:33.446Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T11:15:33.466Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T12:13:13.100Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T12:13:13.121Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T12:35:50.998Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T12:35:51.012Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T12:37:19.871Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T12:37:19.884Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-28T12:44:01.715Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-28T12:44:01.785Z"}
+>>>>>>> Stashed changes

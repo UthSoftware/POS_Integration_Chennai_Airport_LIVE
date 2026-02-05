@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-30T11:13:20.521Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-30T11:13:20.531Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-30T11:22:45.823Z"}
@@ -16,3 +17,9 @@
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-30T13:58:24.454Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-30T14:02:34.602Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-30T14:02:34.627Z"}
+=======
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-30T06:04:44.275Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-30T06:04:44.310Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-30T06:08:17.195Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-30T06:08:17.209Z"}
+>>>>>>> Stashed changes

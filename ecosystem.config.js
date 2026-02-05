@@ -16,6 +16,8 @@ module.exports = {
       merge_logs: true
     },
     {
+
+
       name: 'pos-api',
       script: './src/api/index.js',
       instances: 1,

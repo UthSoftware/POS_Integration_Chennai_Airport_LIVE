@@ -1,0 +1,12 @@
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:PaymentSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:22:44.874Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:22:44.913Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:23:35.829Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:23:35.927Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:PaymentSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:24:33.905Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:24:33.965Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:25:35.559Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:25:35.614Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:PaymentSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:26:32.056Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:26:32.199Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:27:33.904Z"}
+{"config":"5d07b8c3-20c9-47fd-9029-d7c4982cca62","error":"Unknown source type: undefined","level":"error","message":"Data fetch failed","timestamp":"2026-01-31T11:27:33.955Z"}

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:33:51.624Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:33:51.649Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:36:02.001Z"}
@@ -30,3 +31,29 @@
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T14:18:17.147Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T14:20:42.596Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T14:20:42.645Z"}
+=======
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T11:21:10.995Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T11:21:11.023Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:17:02.894Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:17:02.915Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:19:52.664Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:19:52.684Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:20:04.504Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:20:04.547Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:26:01.841Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:26:01.857Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:31:05.983Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:31:05.999Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T13:33:21.624Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T13:33:21.641Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T14:21:32.208Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T14:21:32.232Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T14:39:03.508Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T14:39:03.524Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T16:14:11.776Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T16:14:11.793Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T16:17:51.045Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T16:17:51.063Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-01-31T16:39:41.110Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-01-31T16:39:41.125Z"}
+>>>>>>> Stashed changes

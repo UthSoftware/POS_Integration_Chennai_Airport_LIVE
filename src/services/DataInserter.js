@@ -23,7 +23,7 @@ class DataInserter {
         try {
           // 🔹 Check if transaction already exists
           const exists = await this.checkTransactionExists(client, transaction);
-          
+
           if (exists) {
             skippedCount++;
             this.logger.info('Transaction already exists, skipping', {
@@ -37,11 +37,11 @@ class DataInserter {
           successCount++;
         } catch (error) {
           errorCount++;
-          this.logger.error('Transaction insert failed', { 
-            error: error.message, 
-            transaction_id: transaction.transaction_id 
+          this.logger.error('Transaction insert failed', {
+            error: error.message,
+            transaction_id: transaction.transaction_id
           });
-          
+
           await this.logException(client, {
             transaction_id: transaction.transaction_id,
             brand_id: transaction.brand_id,
@@ -59,12 +59,12 @@ class DataInserter {
       }
 
       await client.query('COMMIT');
-      this.logger.info('Batch insert completed', { 
-        successCount, 
-        errorCount, 
-        skippedCount 
+      this.logger.info('Batch insert completed', {
+        successCount,
+        errorCount,
+        skippedCount
       });
-      
+
       return { successCount, errorCount, skippedCount };
     } catch (error) {
       await client.query('ROLLBACK');
@@ -79,7 +79,7 @@ class DataInserter {
    * Check if a transaction already exists in the database
    */
   async checkTransactionExists(client, transaction) {
-    
+
     const query = `
       SELECT 1 FROM raw_transactions
       WHERE invoice_no = $1 and brand_name=$2 AND outlet_name=$3
@@ -188,8 +188,8 @@ class DataInserter {
     if (!items || items.length === 0) return;
 
     // 🔹 Check if items already exist
-    const itemsExist = await this.checkItemsExist(client, transaction.invoice_no,transaction.brand_name,transaction.outlet_name);
-    
+    const itemsExist = await this.checkItemsExist(client, transaction.invoice_no, transaction.brand_name, transaction.outlet_name);
+
     if (itemsExist) {
       this.logger.info('Transaction items already exist, skipping', {
         transaction_id: transaction.transaction_id
@@ -222,29 +222,29 @@ class DataInserter {
       // line_tax: items.map(() => null),
       quantity: items.map(i => Number(i.quantity ?? 1)),
 
-unit_price: items.map(i =>
-  i.unit_price === undefined || i.unit_price === null
-    ? null
-    : Number(i.unit_price)
-),
+      unit_price: items.map(i =>
+        i.unit_price === undefined || i.unit_price === null
+          ? null
+          : Number(i.unit_price)
+      ),
 
-line_total: items.map(i =>
-  i.line_total === undefined || i.line_total === null
-    ? null
-    : Number(i.line_total)
-),
+      line_total: items.map(i =>
+        i.line_total === undefined || i.line_total === null
+          ? null
+          : Number(i.line_total)
+      ),
 
-line_discount: items.map(i =>
-  i.line_discount === undefined || i.line_discount === null
-    ? null
-    : Number(i.line_discount)
-),
+      line_discount: items.map(i =>
+        i.line_discount === undefined || i.line_discount === null
+          ? null
+          : Number(i.line_discount)
+      ),
 
-line_tax: items.map(i =>
-  i.line_tax === undefined || i.line_tax === null
-    ? null
-    : Number(i.line_tax)
-),
+      line_tax: items.map(i =>
+        i.line_tax === undefined || i.line_tax === null
+          ? null
+          : Number(i.line_tax)
+      ),
 
       hsncode: items.map(i => i.hsncode || null),
       cess: items.map(i => i.cess || 0),
@@ -314,20 +314,20 @@ line_tax: items.map(i =>
     ];
 
     // this.logger.info('Inserting aggregated items', {
-      
-      // values: values
+
+    // values: values
     // });
 
 
     await client.query(query, values);
   }
 
-  async insertPayments(client, payments,transaction) {
+  async insertPayments(client, payments, transaction) {
     if (!payments || payments.length === 0) return;
 
     // 🔹 Check if payments already exist
-    const paymentsExist = await this.checkPaymentsExist(client, transaction.invoice_no,transaction.brand_name,transaction.outlet_name);
-    
+    const paymentsExist = await this.checkPaymentsExist(client, transaction.invoice_no, transaction.brand_name, transaction.outlet_name);
+
     if (paymentsExist) {
       this.logger.info('Payments already exist, skipping', {
         transaction_id: payments[0].transaction_id
@@ -374,7 +374,7 @@ line_tax: items.map(i =>
         payment.shiftdate,
         payment.transtype
       ];
-// console.log('Inserting payment', { payment_id: values });
+      // console.log('Inserting payment', { payment_id: values });
       await client.query(query, values);
     }
   }

@@ -1,4 +1,4 @@
-vendor:DC BOOKS
-outletname:DOMESTIC 2
+vendor:BEARDO
+outletname:DOMESTIC 1
 outletid:
-Terminal:TERMINAL 2
+Terminal:TERMINAL 1

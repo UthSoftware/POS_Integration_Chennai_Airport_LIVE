@@ -50,7 +50,6 @@ class DataFetcher {
   }
 
   async getAllSegments(fromDate, toDate) {
-    console.log('Fetching all segments from SOAP API for dates:', fromDate, toDate);
     const [
       transactionSegment,
       itemSegment,
@@ -279,7 +278,7 @@ class DataFetcher {
       .replace(/\/+$/, '');
 
     this.logger.info('Fetching multi-API data', { baseUrl });
-    this.logger.info('params', {Fromdate, Todate});
+    console.log('params', Fromdate, Todate);
 
     const results = { items: [], payments: [], transactions: [] };
 
@@ -310,7 +309,7 @@ class DataFetcher {
       results.transactions
     );
   }
-  
+  c
 
 
   groupByReceiptmultiapi(items, payments, transactions) {
@@ -383,11 +382,6 @@ class DataFetcher {
         // console.log('Fetching multi-API data for dates:', maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
         return await this.getCombinedDetails((this.buildRuntimeContext(maxDate).FROM_DATE), (this.buildRuntimeContext(maxDate).TO_DATE));
       }
-      else if (sourceType == 'multiapizoho') {//KADASAM CUSTOMER..
-        //  return await this.getCombinedDetails(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
-        // console.log('Fetching multi-API data for dates:', maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
-        return await this.getCombinedDetailszoho((this.buildRuntimeContext(maxDate).FROM_DATE), (this.buildRuntimeContext(maxDate).TO_DATE));
-      }
       else if (sourceType === 'soap') {
         // return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
         return await this.getAllSegments((this.buildRuntimeContext(maxDate).FROM_DATE), this.buildRuntimeContext(maxDate).TO_DATE);
@@ -404,138 +398,6 @@ class DataFetcher {
       throw error;
     }
   }
-
-  groupByReceiptmultiapizoho(items, payments, transactions,billnoKey) {
-  const grouped = {};
-
-  // 🔹 Transactions
-  transactions.forEach(txn => {
-    const billNo = txn[billnoKey];
-    if (!billNo) return;
-
-    if (!grouped[billNo]) {
-      grouped[billNo] = {
-        billNumber: billNo,
-        transaction: null,
-        items: [],
-        payments: []
-      };
-    }
-    grouped[billNo].transaction = txn;
-  });
-
-  // 🔹 Items
-  items.forEach(item => {
-    const billNo = item.billNumber;
-    if (!billNo) return;
-
-    if (!grouped[billNo]) {
-      grouped[billNo] = {
-        billNumber: billNo,
-        transaction: null,
-        items: [],
-        payments: []
-      };
-    }
-    grouped[billNo].items.push(item);
-  });
-
-  // 🔹 Payments
-  payments.forEach(pay => {
-    const billNo = pay.billNumber;
-    if (!billNo) return;
-
-    if (!grouped[billNo]) {
-      grouped[billNo] = {
-        billNumber: billNo,
-        transaction: null,
-        items: [],
-        payments: []
-      };
-    }
-    grouped[billNo].payments.push(pay);
-  });
-
-  return Object.values(grouped);
-}
-
-
- async getCombinedDetailszoho(Fromdate, Todate) {
-
-  let apis = this.config.cac_multiple_apis;
-  if (typeof apis === 'string') {
-    apis = JSON.parse(apis).cac_multiple_apis;
-  }
-
-  const baseUrl = this.config.cac_api_url
-    .replace(/\s+/g, '')   // 🔥 CRITICAL
-    .replace(/\/+$/, '');
-
-  const results = {
-    transactions: [],
-    items: [],
-    payments: []
-  };
-
-  for (const api of apis) {
-    try {
-      const url = `${baseUrl}/${api.path}`;
-
-      this.logger.info('Calling Zoho API', {
-        url,
-        params: {
-          dFrmDate: this.formatDate(Fromdate, 'DD-MMM-YYYY'),
-          dToDate: this.formatDate(Todate, 'DD-MMM-YYYY'),
-          publickey: api.public_key
-        }
-      });
-
-      const res = await axios.get(url, {
-        params: {
-          // dFrmDate: this.formatDate(Fromdate, 'DD-MMM-YYYY'), // 🔥 Zoho format
-          // dToDate: this.formatDate(Todate, 'DD-MMM-YYYY'),
-          dFrmDate:'01-Feb-2026',
-          dToDate:'03-Feb-2026',
-          publickey: api.public_key
-        }
-      });
-
-      results[api.api_name] = this.normalizeZohoResponse(res.data);
-      //  console.log(
-      // `Zoho ${api.api_name} records count:`,
-      // results[api.api_name].length
-    // );
-
-    } catch (err) {
-      this.logger.error(`❌ ${api.api_name} failed`, {
-        error: err.response?.data || err.message
-      });
-    }
-  }
-
-  return this.groupByReceiptmultiapizoho(
-    results.items,
-    results.payments,
-    results.transactions,'billNumber'
-  );
-}
-
-  normalizeZohoResponse(res) {
-  if (!res) return [];
-
-  // ✅ ZOHO CREATOR FORMAT
-  if (Array.isArray(res?.result?.Data)) {
-    return res.result.Data;
-  }
-
-  // fallback safety
-  if (Array.isArray(res)) return res;
-
-  return [];
-}
-
-
-
 
   /* =========================
     TOKEN CHECK
@@ -665,7 +527,6 @@ class DataFetcher {
       }
       // console.log('Max transaction date from DB:', dateFormat);
       return new Date(date);
-      return this.formatDate(date, dateFormat);
 
     } catch (error) {
       this.logger.error('Failed to get max transaction date', { error: error.message });
@@ -724,13 +585,13 @@ class DataFetcher {
 
     // console.log('API request headers:', body);
     //  this.logger.info('Calling API', {
-      //  url: cac_api_url,
+    //  url: cac_api_url,
 
-      //  method: cac_http_method || 'POST',
-       
-      //  headers: Object.keys(headers) ,
-      //  params: Object.keys(params)
-       
+    //  method: cac_http_method || 'POST',
+
+    //  headers: Object.keys(headers) ,
+    //  params: Object.keys(params)
+
     //  });
 
 
@@ -747,8 +608,8 @@ class DataFetcher {
     });
 
     // console.log(
-      // 'API response status:',
-      // JSON.stringify(response.data, null, 2)
+    // 'API response status:',
+    // JSON.stringify(response.data, null, 2)
     // );
 
     return response.data;
@@ -769,13 +630,13 @@ class DataFetcher {
   buildRuntimeContext(maxDate) {
     const today = new Date();
     const fromEpochMs = maxDate.getTime();
-  const toEpochMs = today.getTime();
+    const toEpochMs = today.getTime();
     // console.log('format date :',this.config.dateformat);  
     const context = {
-      FROM_DATE: this.formatDate(maxDate, this.config.dateformat || 'YYYY-MM-DD'),
-       // milliseconds (default)
-    FROM_EPOCH: fromEpochMs,
-    TO_EPOCH: toEpochMs,
+      FROM_DATE: maxDate,
+      // milliseconds (default)
+      FROM_EPOCH: fromEpochMs,
+      TO_EPOCH: toEpochMs,
 
       TO_DATE: this.formatDate(today, this.config.dateformat || 'YYYY-MM-DD'),
       TRANS_DATE: this.formatDate(today, this.config.dateformat || 'YYYY-MM-DD'),
@@ -784,12 +645,12 @@ class DataFetcher {
       // .reverse()
       // .join('/'),
 
-     
- FROM_EPOCHCRAFT: Math.floor(fromEpochMs / 1000),
-    TO_EPOCHCRAFT: Math.floor(toEpochMs / 1000) ,
+
+      FROM_EPOCHCRAFT: Math.floor(fromEpochMs / 1000),
+      TO_EPOCHCRAFT: Math.floor(toEpochMs / 1000),
       LOCATION_CODE: this.config.cac_outlet_id
     };
- console.log('format date :',maxDate);
+    console.log('format date :', maxDate);
     // 🔥 GIVA ONLY → epoch millis
     if (this.isGivaVendor()) {
       context.FROM_EPOCH = new Date(maxDate).getTime();
