@@ -1,0 +1,933 @@
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:09:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:09:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:09:00.077Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:09:00.082Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:09:06.362Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T03:09:06.685Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T03:09:07.129Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:09:07.130Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:36:00.056Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:36:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:36:00.243Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:36:00.245Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:36:04.220Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T03:36:04.509Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":167,"skipped":0,"timestamp":"2026-01-29T03:36:09.525Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:36:09.527Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:38:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:38:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:38:00.319Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:38:00.321Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:38:01.654Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:38:01.673Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:38:01.697Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:39:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:39:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:39:00.203Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:39:00.204Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:39:01.039Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:39:01.129Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:39:01.153Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:40:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:40:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:40:00.230Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:40:00.231Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:40:00.928Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:40:00.938Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:40:00.951Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:41:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:41:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:41:00.271Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:41:00.272Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:41:00.821Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:41:00.839Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:41:00.857Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:42:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:42:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:42:00.313Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:42:00.314Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:42:01.043Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:42:01.060Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:42:01.077Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:43:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:43:00.038Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:43:00.151Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:43:00.152Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:43:00.702Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:43:00.708Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:43:00.726Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:44:00.054Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:44:00.059Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:44:00.341Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:44:00.342Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:44:01.057Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:44:01.073Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:44:01.091Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:45:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:45:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:45:00.298Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:45:00.298Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:45:01.497Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:45:01.505Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:45:01.521Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:46:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:46:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:46:00.338Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:46:00.340Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:46:01.380Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:46:01.398Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:46:01.427Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:47:00.060Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:47:00.062Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:47:00.401Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:47:00.401Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:47:01.178Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:47:01.191Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:47:01.216Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:48:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:48:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:48:00.266Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:48:00.267Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:48:01.594Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:48:01.614Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:48:01.640Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:49:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:49:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:49:00.270Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:49:00.271Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:49:01.086Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:68:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:49:01.100Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:49:01.124Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:50:00.069Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:50:00.072Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:51:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:51:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:51:00.285Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:51:00.287Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:51:01.116Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:71:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:51:01.130Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:51:01.153Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:54:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:54:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:54:00.064Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:54:00.069Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:54:01.239Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:71:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:54:01.252Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:54:01.276Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:55:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:55:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:55:00.059Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:55:00.063Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:55:00.939Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:71:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:55:00.954Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:55:00.980Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T03:56:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T03:56:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T03:56:00.051Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T03:56:00.055Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T03:56:00.947Z"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"No transaction records found","level":"error","message":"Configuration processing failed","stack":"Error: No transaction records found\n    at FieldMapper.mapTransactions (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\FieldMapper.js:71:11)\n    at IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:134:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T03:56:00.963Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T03:56:00.989Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T04:00:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T04:00:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T04:00:00.057Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T04:00:00.061Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T04:00:00.995Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T04:00:01.114Z","transactionCount":21}
+{"error":"date/time field value out of range: \"062954\"","level":"error","message":"Transaction insert failed","stack":"error: date/time field value out of range: \"062954\"\n    at D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataInserter.insertTransaction (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataInserter.js:184:5)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:167:13)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T04:00:01.138Z","transactionId":"b3eed4af-9d65-4740-a969-2b73ec824559"}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","error":"current transaction is aborted, commands ignored until end of transaction block","level":"error","message":"Configuration processing failed","stack":"error: current transaction is aborted, commands ignored until end of transaction block\n    at D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataInserter.logException (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataInserter.js:405:5)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:189:13)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T04:00:01.144Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T04:00:01.363Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T04:16:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T04:16:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T04:16:00.057Z"}
+{"CUSTOMERID":"VVC00115","URL":"https://er4uenterpriseplus.in/er4u/giftiny/api_sale_billwise_detail3.php","configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T04:16:00.061Z","vendor":" GIFTINY"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T04:16:01.277Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T04:16:01.345Z","transactionCount":21}
+{"configId":"9b3dda74-94f0-4122-8bf5-5e7f870add64","errors":0,"level":"info","message":"Configuration processed successfully","records":21,"skipped":0,"timestamp":"2026-01-29T04:16:02.298Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T04:16:02.300Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:52:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:52:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:52:00.065Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:52:00.070Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:52:05.193Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:52:05.383Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":167,"skipped":0,"timestamp":"2026-01-29T09:52:09.832Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:52:09.833Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:53:00.079Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:53:00.082Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:53:00.271Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:53:00.272Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:53:03.382Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:53:03.692Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:53:04.149Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:53:04.150Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:54:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:54:00.038Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:54:00.261Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:54:00.262Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:54:02.498Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:54:02.801Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:54:03.089Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:54:03.090Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:55:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:55:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:55:00.272Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:55:00.273Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:55:03.014Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:55:03.276Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:55:03.659Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:55:03.661Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:56:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:56:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:56:00.262Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:56:00.263Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:56:04.487Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:56:04.762Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:56:05.080Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:56:05.081Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:57:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:57:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:57:00.259Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:57:00.260Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:57:02.625Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:57:02.842Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:57:03.223Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:57:03.224Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:58:00.072Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:58:00.075Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:58:00.317Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:58:00.318Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:58:03.775Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:58:04.099Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:58:04.388Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:58:04.388Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T09:59:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T09:59:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T09:59:00.236Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T09:59:00.236Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T09:59:03.590Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T09:59:03.940Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T09:59:04.275Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T09:59:04.276Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:00:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:00:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:00:00.191Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T10:00:00.191Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T10:00:04.235Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T10:00:04.443Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T10:00:04.857Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:00:04.858Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:01:00.065Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:01:00.067Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:01:00.395Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T10:01:00.396Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T10:01:05.982Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T10:01:06.201Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T10:01:06.559Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:01:06.560Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:02:00.079Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:02:00.081Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:02:00.376Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-29T10:02:00.378Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-29T10:02:05.250Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-29T10:02:05.488Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-29T10:02:05.802Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:02:05.802Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:03:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:03:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:03:00.069Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:03:00.074Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:03:02.143Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:03:02.144Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:04:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:04:00.056Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:04:00.371Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:04:00.372Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:04:00.934Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:04:00.935Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:22:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:22:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:22:00.246Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:22:00.249Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:22:00.785Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:22:00.787Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:23:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:23:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:23:00.378Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:23:00.380Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:23:00.678Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:23:00.679Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:24:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:24:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:24:00.061Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:24:00.065Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:24:00.531Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:24:00.532Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:25:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:25:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:25:00.066Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:25:00.071Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:25:00.549Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:25:00.550Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:26:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:26:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:26:00.239Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:26:00.240Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:26:00.595Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:26:00.596Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:27:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:27:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:27:00.061Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:27:00.065Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:27:00.611Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:27:00.612Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T10:28:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T10:28:00.056Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T10:28:00.273Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T10:28:00.274Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T10:28:00.780Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T10:28:00.782Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T11:59:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T11:59:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T11:59:00.123Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T11:59:00.124Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T11:59:05.524Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T11:59:05.526Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:00:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:00:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:00:00.133Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:00:00.135Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:00:00.540Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:00:00.542Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:01:00.023Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:01:00.024Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:01:00.105Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:01:00.105Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:01:03.823Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:01:03.824Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:02:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:02:00.028Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:02:00.100Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:02:00.100Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:02:01.429Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:02:01.429Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:03:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:03:00.037Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:03:00.221Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:03:00.222Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:03:00.577Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:03:00.578Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:05:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:05:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:05:00.050Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:05:00.052Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:05:00.332Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:05:00.333Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:06:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:06:00.027Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:06:00.105Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:06:00.106Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:06:01.521Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:06:01.521Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:07:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:07:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:07:00.093Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:07:00.093Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:07:00.760Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:07:00.761Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:08:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:08:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:08:00.119Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:08:00.120Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:08:00.778Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:08:00.779Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:09:00.035Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:09:00.038Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:09:00.118Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:09:00.119Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:09:00.612Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:09:00.613Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:10:00.023Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:10:00.024Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:10:00.098Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:10:00.098Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:10:00.720Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:10:00.721Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:11:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:11:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:11:00.102Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:11:00.103Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:11:00.684Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:11:00.685Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:12:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:12:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:12:00.115Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:12:00.115Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:12:01.003Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:12:01.003Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:13:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:13:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:13:00.119Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:13:00.119Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:13:00.490Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:13:00.490Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:14:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:14:00.033Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:14:00.097Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:14:00.097Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:14:00.826Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:14:00.827Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:15:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:15:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:15:00.199Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:15:00.200Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:15:01.980Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:15:01.982Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:16:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:16:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:16:00.038Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:16:00.039Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":366,"timestamp":"2026-01-29T12:16:01.337Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T12:16:01.542Z","transactionCount":366}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":366,"timestamp":"2026-01-29T12:16:01.719Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:16:01.720Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:18:00.053Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:18:00.057Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:18:00.068Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:18:00.072Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:18:03.662Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:18:03.663Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:19:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:19:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:19:00.117Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:19:00.117Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:19:00.500Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:19:00.500Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:20:00.032Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:20:00.034Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:20:00.107Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:20:00.107Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:20:00.868Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:20:00.869Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:21:00.022Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:21:00.023Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:21:00.084Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:21:00.084Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:21:00.550Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:21:00.550Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:22:00.012Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:22:00.013Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:22:00.083Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:22:00.083Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:22:00.463Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:22:00.463Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:23:00.018Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:23:00.018Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:23:00.086Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:23:00.086Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:23:00.565Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:23:00.566Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:24:00.024Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:24:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:24:00.091Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:24:00.092Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:24:00.497Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:24:00.498Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:25:00.032Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:25:00.034Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:25:00.112Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:25:00.113Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:25:01.181Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:25:01.182Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:26:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:26:00.033Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:26:00.103Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:26:00.104Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:26:00.542Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:26:00.543Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:27:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:27:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:27:00.083Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:27:00.083Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:27:00.449Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:27:00.449Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:28:00.014Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:28:00.015Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:28:00.078Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:28:00.079Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:28:00.315Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:28:00.315Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:29:00.022Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:29:00.023Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:29:00.088Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:29:00.088Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:29:00.321Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:29:00.322Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:30:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:30:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:30:00.130Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:30:00.130Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:30:00.485Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:30:00.487Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:31:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:31:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:31:00.141Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:31:00.142Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:31:00.412Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:31:00.414Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:32:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:32:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:32:00.113Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:32:00.114Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:32:00.398Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:32:00.399Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:33:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:33:00.036Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:33:00.113Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:33:00.113Z","vendor":"KADAKSHAM"}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"warn","message":"No data fetched","timestamp":"2026-01-29T12:33:00.491Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:33:00.492Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:34:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:34:00.028Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:34:00.033Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:34:00.035Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":366,"timestamp":"2026-01-29T12:34:01.714Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T12:34:01.912Z","transactionCount":366}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":366,"timestamp":"2026-01-29T12:34:02.084Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:34:02.085Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T12:57:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T12:57:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T12:57:00.114Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T12:57:00.115Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":366,"timestamp":"2026-01-29T12:57:01.156Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T12:57:01.401Z","transactionCount":366}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":366,"timestamp":"2026-01-29T12:57:01.572Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T12:57:01.573Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T13:08:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T13:08:00.032Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T13:08:00.109Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T13:08:00.111Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":366,"timestamp":"2026-01-29T13:08:01.223Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T13:08:01.593Z","transactionCount":366}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":366,"timestamp":"2026-01-29T13:08:01.818Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T13:08:01.819Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T13:09:00.023Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T13:09:00.025Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T13:09:00.124Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-01-29T13:09:00.125Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":366,"timestamp":"2026-01-29T13:09:01.125Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-01-29T13:09:01.494Z","transactionCount":366}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":366,"timestamp":"2026-01-29T13:09:01.806Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T13:09:01.807Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:52:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:52:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:52:00.058Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:52:00.060Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:53:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:53:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:53:00.305Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:53:00.306Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:54:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:54:00.032Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:54:00.187Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:54:00.187Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:55:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:55:00.051Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:55:00.286Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:55:00.287Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:56:00.018Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:56:00.019Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:56:00.241Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:56:00.242Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:58:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:58:00.040Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:58:00.249Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:58:00.249Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T15:59:00.062Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T15:59:00.065Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T15:59:00.310Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T15:59:00.311Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:00:00.124Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:00:00.126Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:00:00.270Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:00:00.271Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:01:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:01:00.047Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:01:00.279Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:01:00.280Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:02:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:02:00.029Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:02:00.270Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:02:00.271Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:03:00.035Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:03:00.037Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:03:00.266Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:03:00.267Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:04:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:04:00.053Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:04:00.349Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:04:00.350Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:05:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:05:00.044Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:05:00.295Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:05:00.296Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:06:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:06:00.039Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:06:00.350Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:06:00.351Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:07:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:07:00.045Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:07:00.351Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:07:00.351Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:08:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:08:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:08:00.273Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:08:00.274Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:09:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:09:00.038Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:09:00.260Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:09:00.260Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:10:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:10:00.050Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:10:00.288Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:10:00.288Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:11:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:11:00.052Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:11:00.298Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:11:00.298Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:12:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:12:00.058Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:12:00.286Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:12:00.287Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:13:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:13:00.027Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:13:00.234Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:13:00.234Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:14:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:14:00.030Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:14:00.255Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:14:00.256Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:15:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:15:00.044Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:15:00.281Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:15:00.282Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:16:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:16:00.031Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:16:00.222Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:16:00.223Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:17:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:17:00.044Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:17:00.274Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:17:00.275Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:18:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:18:00.043Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:18:00.286Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:18:00.287Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:19:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:19:00.049Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:19:00.273Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:19:00.274Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:20:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:20:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:20:00.276Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:20:00.277Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:21:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:21:00.035Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:21:00.234Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:21:00.235Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:22:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:22:00.028Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:22:00.241Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:22:00.242Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:23:00.056Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:23:00.057Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:23:00.272Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:23:00.273Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:24:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:24:00.049Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:24:00.274Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:24:00.275Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:25:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:25:00.061Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:25:00.367Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:25:00.371Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:26:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:26:00.045Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:26:00.270Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:26:00.271Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:27:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:27:00.054Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:27:00.382Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:27:00.383Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:28:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:28:00.035Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:28:00.266Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:28:00.267Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:29:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:29:00.049Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:29:00.273Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:29:00.274Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:30:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:30:00.061Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:30:00.291Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:30:00.292Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:31:00.032Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:31:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:31:00.323Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:31:00.324Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:32:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:32:00.038Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:32:00.246Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:32:00.247Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:33:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:33:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:33:00.265Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:33:00.266Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:34:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:34:00.049Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:34:00.375Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:34:00.376Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:35:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:35:00.039Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:35:00.335Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:35:00.336Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:36:00.053Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:36:00.055Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:36:00.283Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:36:00.284Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:37:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:37:00.036Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:37:00.239Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:37:00.240Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:38:00.054Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:38:00.056Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:38:00.254Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:38:00.255Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:39:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:39:00.052Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:39:00.288Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:39:00.288Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:40:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:40:00.037Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:40:00.258Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:40:00.258Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:41:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:41:00.042Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:41:00.276Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:41:00.277Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:42:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:42:00.047Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:42:00.271Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:42:00.272Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:43:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:43:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:43:00.275Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:43:00.276Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:44:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:44:00.033Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:44:00.287Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:44:00.287Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:45:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:45:00.032Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:45:00.268Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:45:00.268Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:46:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:46:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:46:00.247Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:46:00.248Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:47:00.024Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:47:00.025Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:47:00.166Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:47:00.167Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:48:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:48:00.049Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:48:00.242Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:48:00.242Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:49:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:49:00.044Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:49:00.241Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:49:00.241Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:50:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:50:00.042Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:50:00.223Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:50:00.224Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:51:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:51:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:51:00.260Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:51:00.261Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:52:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:52:00.045Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:52:00.257Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:52:00.257Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:53:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:53:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:53:00.267Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:53:00.268Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:54:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:54:00.045Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:54:00.276Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:54:00.277Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:55:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:55:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:55:00.282Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:55:00.282Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:56:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:56:00.046Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:56:00.281Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:56:00.282Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:57:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:57:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:57:00.270Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:57:00.271Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:58:00.023Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:58:00.024Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:58:00.265Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:58:00.265Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T16:59:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T16:59:00.042Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T16:59:00.275Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T16:59:00.275Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:00:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:00:00.044Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:00:00.213Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:00:00.214Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:01:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:01:00.032Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:01:00.251Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:01:00.252Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:02:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:02:00.050Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:02:00.301Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:02:00.303Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:03:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:03:00.057Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:03:00.366Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:03:00.368Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:05:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:05:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:05:00.221Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:05:00.222Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:06:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:06:00.040Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:06:00.289Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:06:00.290Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:07:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:07:00.041Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:07:00.251Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:07:00.252Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:08:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:08:00.053Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:08:00.246Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:08:00.246Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:09:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:09:00.038Z"}
+{"level":"info","message":"Found 0 active configurations","timestamp":"2026-01-29T17:09:00.290Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:09:00.291Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:10:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:10:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:10:00.199Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:10:00.202Z","vendor":null}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:10:01.695Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:10:01.712Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:11:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:11:00.032Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:11:00.242Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:11:00.243Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:11:00.909Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:11:00.928Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:12:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:12:00.031Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:12:00.254Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:12:00.255Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:12:00.969Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:12:00.981Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:13:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:13:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:13:00.282Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:13:00.283Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:13:02.102Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:13:02.124Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:14:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:14:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:14:00.166Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:14:00.167Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:14:01.183Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:14:01.204Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:15:00.092Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:15:00.094Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:15:00.293Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:15:00.294Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:15:00.955Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:15:00.972Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:16:00.054Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:16:00.056Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:16:00.372Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:16:00.373Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:16:01.453Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:16:01.470Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:17:00.076Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:17:00.084Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:17:00.329Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:17:00.331Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:17:01.043Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:17:01.061Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:18:00.032Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:18:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:18:00.169Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:18:00.170Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:18:00.742Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:18:00.750Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:19:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:19:00.030Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:19:00.203Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:19:00.206Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"bodyKeys is not defined","level":"error","message":"Configuration processing failed","stack":"ReferenceError: bodyKeys is not defined\n    at DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:591:18)\n    at DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:19:00.239Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:19:00.262Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:20:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:20:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:20:00.338Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:20:00.339Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"bodyKeys is not defined","level":"error","message":"Configuration processing failed","stack":"ReferenceError: bodyKeys is not defined\n    at DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:591:18)\n    at DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:20:00.367Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:20:00.385Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:21:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:21:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:21:00.066Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:21:00.070Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:21:01.119Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:21:01.139Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:22:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:22:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:22:00.273Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:22:00.274Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:22:00.912Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:22:00.935Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:35:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:35:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:35:00.060Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:35:00.065Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:35:00.901Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:35:00.917Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:36:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:36:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:36:00.248Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:36:00.249Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:36:01.220Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:36:01.243Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:37:00.017Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:37:00.019Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:37:00.208Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:37:00.209Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 401","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 401\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:37:00.809Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:37:00.830Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:52:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:52:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:52:00.244Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:52:00.246Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 422","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 422\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:52:03.375Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:52:03.391Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-29T17:53:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-29T17:53:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-29T17:53:00.325Z"}
+{"CUSTOMERID":"VVC00095","URL":"https://portal-pos.paytm.com/api/branch/1843712856/transactiondetail","configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"api","timestamp":"2026-01-29T17:53:00.325Z","vendor":"CRAFTSLANE"}
+{"configId":"74a92223-0e1c-4b50-83c0-1eb6a6563b7b","error":"Request failed with status code 422","level":"error","message":"Configuration processing failed","stack":"AxiosError: Request failed with status code 422\n    at settle (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:2106:12)\n    at IncomingMessage.handleStreamEnd (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3491:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:597:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:375:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-01-29T17:53:01.328Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-29T17:53:01.347Z"}

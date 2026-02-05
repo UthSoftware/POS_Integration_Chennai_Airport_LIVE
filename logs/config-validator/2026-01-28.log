@@ -1,0 +1,2 @@
+{"level":"info","message":"Starting configuration validation...","timestamp":"2026-01-28T17:44:49.953Z"}
+{"customer_api_configs":46,"customer_outlet_mapping":66,"level":"info","message":"Configuration validation passed","pos_vendor_field_mapping":1645,"pos_vendor_master":60,"timestamp":"2026-01-28T17:44:50.126Z"}

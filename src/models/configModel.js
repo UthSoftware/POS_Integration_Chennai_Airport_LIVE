@@ -21,6 +21,7 @@ class ConfigModel {
         ON cac.cac_customer_id = pvm.vendor_id::text
       WHERE cac.cac_is_active = true 
       and com.com_is_active = true
+      AND cac.cac_jsonordb IS NOT NULL
         
     `;
     // AND com.com_is_active = true

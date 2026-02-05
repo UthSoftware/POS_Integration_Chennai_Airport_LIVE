@@ -130,7 +130,7 @@ let transactions = [];
         ...allMappings.raw_transaction_items,
         ...allMappings.raw_payment
       ]);
-      
+      console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
        transactions = await mapper.mapTransactions(rawData);
 
       this.logger.info('Data mapped successfully', {
