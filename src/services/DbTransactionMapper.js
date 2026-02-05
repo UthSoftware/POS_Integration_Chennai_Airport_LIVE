@@ -9,46 +9,46 @@ class DbTransactionMapper {
 
   /* ========================= PUBLIC ========================== */
   mapTransactions(dbRows) {
-    
+
     let rows = dbRows;
 
-  if (!Array.isArray(rows)) {
-    if (dbRows?.AllData && Array.isArray(dbRows.AllData)) {
-      rows = dbRows.AllData;
-    } else {
-      console.error('❌ Invalid DB response shape', dbRows);
-      return [];
-    }
-  }
-
-  // console.log('Mapping DB transactions, total rows:', rows.length);
-  if (!rows.length) return [];
-
-  const invoiceMapping = this.getInvoiceMapping();
-  if (!invoiceMapping) {
-    throw new Error('Invoice number mapping not found');
-  }
-
-  // 🔹 Group rows using mapping (DB / JSON safe)
-  const grouped = {};
-
-  for (const row of rows) {
-    const invoiceNo = this.applyMapping(row, invoiceMapping);
-
-    if (!invoiceNo) continue;
-
-    if (!grouped[invoiceNo]) {
-      grouped[invoiceNo] = [];
+    if (!Array.isArray(rows)) {
+      if (dbRows?.AllData && Array.isArray(dbRows.AllData)) {
+        rows = dbRows.AllData;
+      } else {
+        console.error('❌ Invalid DB response shape', dbRows);
+        return [];
+      }
     }
 
-    grouped[invoiceNo].push(row);
-  }
+    // console.log('Mapping DB transactions, total rows:', rows.length);
+    if (!rows.length) return [];
 
-  const result = [];
+    const invoiceMapping = this.getInvoiceMapping();
+    if (!invoiceMapping) {
+      throw new Error('Invoice number mapping not found');
+    }
 
-  for (const invoiceNo of Object.keys(grouped)) {
-    const rows = grouped[invoiceNo];
-    const headerRow = rows[0];
+    // 🔹 Group rows using mapping (DB / JSON safe)
+    const grouped = {};
+
+    for (const row of rows) {
+      const invoiceNo = this.applyMapping(row, invoiceMapping);
+
+      if (!invoiceNo) continue;
+
+      if (!grouped[invoiceNo]) {
+        grouped[invoiceNo] = [];
+      }
+
+      grouped[invoiceNo].push(row);
+    }
+
+    const result = [];
+
+    for (const invoiceNo of Object.keys(grouped)) {
+      const rows = grouped[invoiceNo];
+      const headerRow = rows[0];
 
       // 1️⃣ Build HEADER (canonical)
       const tx = this.mapTransactionHeader(headerRow);
@@ -90,7 +90,7 @@ class DbTransactionMapper {
         tx[m.pvfm_source_field] = value; // canonical assignment
       }
     }
-console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
+    console.log('Mapped transaction', { invoice_no: tx.invoice_no, tx });
     return tx;
   }
 
@@ -196,6 +196,15 @@ console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
     // 🔹 Transform
     if (mapping.pvfm_transform_rule && value != null) {
       value = this.applyTransformation(value, mapping.pvfm_transform_rule);
+
+    }
+
+    if (typeof value === 'string') {
+      if (/^\d{2}\/\d{2}\/\d{4} \d{2}:\d{2}:\d{2} (AM|PM)$/i.test(value)) {
+        value = this.normalizeVendorDateTime(value);
+      } else if (/^\d{2}\/\d{2}\/\d{4}$/.test(value)) {
+        value = this.normalizeVendorDate(value);
+      }
     }
 
     return value;
@@ -207,83 +216,117 @@ console.log('Mapped transaction', {invoice_no: tx.invoice_no,tx});
     // return new Date(`${date}T${time}`);
     if (!date || !time) return null;
 
-  // Handle DD/MM/YYYY
-  const [day, month, year] = date.split('/').map(Number);
+    // Handle DD/MM/YYYY
+    const [day, month, year] = date.split('/').map(Number);
 
-  // Handle HH:MM:SS AM/PM
-  const [timePart, meridian] = time.split(' ');
-  let [hours, minutes, seconds] = timePart.split(':').map(Number);
+    // Handle HH:MM:SS AM/PM
+    const [timePart, meridian] = time.split(' ');
+    let [hours, minutes, seconds] = timePart.split(':').map(Number);
 
-  if (meridian === 'PM' && hours !== 12) hours += 12;
-  if (meridian === 'AM' && hours === 12) hours = 0;
+    if (meridian === 'PM' && hours !== 12) hours += 12;
+    if (meridian === 'AM' && hours === 12) hours = 0;
 
-  // ✅ Return ISO-safe value
-  return new Date(
-    year,
-    month - 1,
-    day,
-    hours,
-    minutes,
-    seconds
-  ).toISOString();
+    // ✅ Return ISO-safe value
+    return new Date(
+      year,
+      month - 1,
+      day,
+      hours,
+      minutes,
+      seconds
+    ).toISOString();
+  }
+
+
+  parseApiDateTime(dateTimeStr) {
+    if (!dateTimeStr) return null;
+
+    // Handles "01/01/2026 03:08:08 PM" (DD/MM/YYYY hh:mm:ss A)
+    const dt = dayjs(dateTimeStr, 'DD/MM/YYYY hh:mm:ss A', true);
+
+    if (!dt.isValid()) {
+      this.logger.warn('Invalid API datetime', { dateTimeStr });
+      return null;
+    }
+
+    // Convert to IST timezone explicitly (same as your DB)
+    // return dt.tz('Asia/Kolkata').toDate(); // JS Date object
+    // return dt
+    // .tz('Asia/Kolkata')
+    // .format('YYYY-MM-DD HH:mm:ss');
+
+    return dt(
+      year,
+      month - 1,
+      day,
+      hh,
+      mm,
+      ss
+    ).toISOString();
   }
 
   /* ========================= TRANSFORM ========================== */
   applyTransformation(value, rule) {
     try {
- if (rule.includes('normalizeVendorDate'))
-      return this.normalizeVendorDate(value);
+      if (rule.includes('normalizeVendorDate'))
+        return this.normalizeVendorDate(value);
 
       if (rule.includes('normalizeVendorDateTime'))
-      return this.normalizeVendorDateTime(value);
+        return this.normalizeVendorDateTime(value);
 
       if (rule.includes('toUpperCase')) return String(value).toUpperCase();
       if (rule.includes('toLowerCase')) return String(value).toLowerCase();
       if (rule.includes('parseFloat')) return parseFloat(value);
       if (rule.includes('parseInt')) return parseInt(value);
       if (rule.includes('toISOString')) return new Date(value).toISOString();
+      if (rule.includes('parseDateTime')) return this.parseApiDateTime(value);
+      // 🛡️ Absolute safety: never send vendor dates to DB
+
+      // console.log('value', value);
       return value;
     } catch {
       return value;
     }
   }
 
-normalizeVendorDateTime(value) {
-  if (!value || typeof value !== 'string') return value;
+  normalizeVendorDateTime(value) {
+    if (!value || typeof value !== 'string') return value;
 
-  // Match: DD/MM/YYYY HH:MM:SS AM|PM
-  const match = value.match(
-    /^(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2}):(\d{2}) (AM|PM)$/i
-  );
+    // Match: DD/MM/YYYY HH:MM:SS AM|PM
+    const match = value.match(
+      /^(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2}):(\d{2}) (AM|PM)$/i
+    );
 
-  if (!match) return value; // not a datetime
+    if (!match) return value; // not a datetime
 
-  let [, day, month, year, hh, mm, ss, meridian] = match;
+    let [, day, month, year, hh, mm, ss, meridian] = match;
 
-  hh = parseInt(hh, 10);
-  if (meridian.toUpperCase() === 'PM' && hh !== 12) hh += 12;
-  if (meridian.toUpperCase() === 'AM' && hh === 12) hh = 0;
+    hh = parseInt(hh, 10);
+    if (meridian.toUpperCase() === 'PM' && hh !== 12) hh += 12;
+    if (meridian.toUpperCase() === 'AM' && hh === 12) hh = 0;
 
-  return new Date(
-    year,
-    month - 1,
-    day,
-    hh,
-    mm,
-    ss
-  ).toISOString();
-}
+    return new Date(
+      year,
+      month - 1,
+      day,
+      hh,
+      mm,
+      ss
+    ).toISOString();
+    // return dayjs(value, 'DD/MM/YYYY hh:mm:ss A')
+    // .format('YYYY-MM-DD HH:mm:ss');
+  }
 
-normalizeVendorDate(value) {
-  if (!value || typeof value !== 'string') return value;
+  normalizeVendorDate(value) {
+    if (!value || typeof value !== 'string') return value;
 
-  // Match DD/MM/YYYY
-  const match = value.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
-  if (!match) return value;
+    // Match DD/MM/YYYY
+    const match = value.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+    if (!match) return value;
 
-  const [, day, month, year] = match;
-  return `${year}-${month}-${day}`; // ISO date
-}
+    const [, day, month, year] = match;
+    return `${year}-${month}-${day}`; // ISO date
+  }
 
   /* ========================= JSON PATH ========================== */
   extractByJsonPath(obj, path) {
@@ -291,12 +334,12 @@ normalizeVendorDate(value) {
   }
 
   getInvoiceMapping() {
-  return this.fieldMappings.find(
-    m =>
-      m.pvfm_tablename === 'raw_transactions' &&
-      m.pvfm_source_field === 'invoice_no'
-  );
-}
+    return this.fieldMappings.find(
+      m =>
+        m.pvfm_tablename === 'raw_transactions' &&
+        m.pvfm_source_field === 'invoice_no'
+    );
+  }
 }
 
 

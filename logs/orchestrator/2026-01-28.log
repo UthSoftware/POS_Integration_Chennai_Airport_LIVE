@@ -1,0 +1,8 @@
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-01-28T17:45:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-01-28T17:45:00.053Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-01-28T17:45:00.069Z"}
+{"CUSTOMERID":"BBC00001","URL":"https://api.massistcrm.com/API/v2/employee/SaleReportData","configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"API","timestamp":"2026-01-28T17:45:00.083Z","vendor":"BEARDO"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-01-28T17:45:03.778Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-01-28T17:45:03.968Z","transactionCount":167}
+{"configId":"a70434ea-3e05-4b22-a59c-3d5640c8f70d","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":167,"timestamp":"2026-01-28T17:45:04.384Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-01-28T17:45:04.385Z"}

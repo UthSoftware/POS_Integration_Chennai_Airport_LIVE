@@ -1,0 +1,1036 @@
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T12:30:00.091Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T12:30:00.097Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T12:30:00.125Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T12:30:00.135Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T12:30:01.512Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T12:30:01.676Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T12:30:01.872Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T12:30:01.874Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T12:31:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T12:31:00.061Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T12:31:00.331Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T12:31:00.332Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T12:31:01.430Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T12:31:01.549Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T12:31:01.900Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T12:31:01.901Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T12:32:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T12:32:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T12:32:00.370Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T12:32:00.371Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T12:32:01.451Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T12:32:01.570Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T12:32:01.961Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T12:32:01.963Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T12:33:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T12:33:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T12:33:00.320Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T12:33:00.321Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T12:33:01.471Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T12:33:01.601Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T12:33:01.866Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T12:33:01.868Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T12:34:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T12:34:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T12:34:00.372Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T12:34:00.373Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T12:34:01.401Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T12:34:01.497Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T12:34:01.754Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T12:34:01.755Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:34:00.053Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:34:00.057Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:34:00.074Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:34:00.079Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:34:01.254Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:34:01.345Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:34:01.565Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:34:01.566Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:35:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:35:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:35:00.256Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:35:00.257Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:35:01.274Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:35:01.368Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:35:01.606Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:35:01.606Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:36:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:36:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:36:00.061Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:36:00.064Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:36:01.278Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:36:01.652Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:36:01.842Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:36:01.843Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:37:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:37:00.059Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:37:00.420Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:37:00.422Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:37:01.390Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:37:01.601Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:37:01.859Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:37:01.860Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:38:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:38:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:38:00.272Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:38:00.273Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:38:01.216Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:38:01.396Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:38:01.662Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:38:01.663Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:39:00.031Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:39:00.033Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:39:00.250Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:39:00.251Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:39:01.290Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:39:01.466Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:39:01.822Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:39:01.823Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:40:00.062Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:40:00.064Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:40:00.308Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:40:00.310Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:40:01.302Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:40:01.486Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:40:01.811Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:40:01.812Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:41:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:41:00.061Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:41:00.335Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:41:00.336Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:41:01.309Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:41:01.492Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:41:01.752Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:41:01.753Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:42:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:42:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:42:00.224Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:42:00.225Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:42:01.213Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:42:01.384Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:42:01.700Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:42:01.702Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:43:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:43:00.054Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:43:00.260Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:43:00.261Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:43:01.315Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:43:01.460Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:43:01.680Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:43:01.681Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:44:00.055Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:44:00.058Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:44:00.372Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:44:00.382Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:44:01.227Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:44:01.447Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:44:01.649Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:44:01.649Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:45:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:45:00.053Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:45:00.241Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:45:00.241Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:45:01.016Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:45:01.175Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:45:01.412Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:45:01.413Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:46:00.063Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:46:00.064Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:46:00.236Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:46:00.236Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:46:01.000Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:46:01.147Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:46:01.357Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:46:01.358Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:47:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:47:00.053Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:47:00.228Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:47:00.228Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:47:01.286Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:47:01.506Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:47:01.682Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:47:01.683Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:48:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:48:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:48:00.274Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:48:00.275Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:48:01.253Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:48:01.361Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:48:01.540Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:48:01.541Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:49:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:49:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:49:00.266Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:49:00.267Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:49:01.154Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:49:01.297Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:49:01.548Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:49:01.549Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:50:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:50:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:50:00.219Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:50:00.220Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:50:01.094Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:50:01.243Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:50:01.483Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:50:01.484Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:51:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:51:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:51:00.220Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:51:00.221Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:51:01.377Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:51:01.588Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:51:01.908Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:51:01.909Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:52:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:52:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:52:00.224Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:52:00.225Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:52:01.074Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:52:01.224Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:52:01.439Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:52:01.439Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:53:00.086Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:53:00.089Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:53:00.387Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:53:00.388Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:53:01.285Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:53:01.486Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:53:01.803Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:53:01.804Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:54:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:54:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:54:00.219Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:54:00.220Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:54:00.814Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:54:00.980Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:54:01.227Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:54:01.228Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:55:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:55:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:55:00.218Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:55:00.218Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:55:01.194Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:55:01.329Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:55:01.537Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:55:01.537Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:56:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:56:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:56:00.314Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:56:00.314Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:56:01.083Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:56:01.227Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:56:01.447Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:56:01.448Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:57:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:57:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:57:00.251Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:57:00.252Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:57:01.203Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:57:01.423Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:57:01.595Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:57:01.596Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:58:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:58:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:58:00.226Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:58:00.227Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:58:00.855Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:58:01.003Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:58:01.293Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:58:01.294Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T14:59:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T14:59:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T14:59:00.210Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T14:59:00.211Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T14:59:00.985Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T14:59:01.275Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T14:59:01.459Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T14:59:01.460Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:00:00.035Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:00:00.037Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:00:00.306Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:00:00.307Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:00:00.974Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:00:01.116Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:00:01.342Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:00:01.342Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:01:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:01:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:01:00.222Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:01:00.223Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:01:01.030Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:01:01.295Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:01:01.473Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:01:01.474Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:02:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:02:00.027Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:02:00.096Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:02:00.097Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:02:00.933Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:02:00.988Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:02:01.068Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:02:01.068Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:03:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:03:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:03:00.109Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:03:00.109Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:03:00.805Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:03:00.943Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:03:01.156Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:03:01.156Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:04:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:04:00.028Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:04:00.086Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:04:00.086Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:04:00.817Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:04:00.924Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:04:01.025Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:04:01.025Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:05:00.024Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:05:00.025Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:05:00.088Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:05:00.089Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:05:00.919Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:05:01.052Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:05:01.258Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:05:01.258Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:06:00.016Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:06:00.017Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:06:00.076Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:06:00.077Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:06:00.731Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:06:00.831Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:06:00.912Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:06:00.913Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:07:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:07:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:07:00.217Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:07:00.217Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:07:00.906Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:07:00.999Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:07:01.083Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:07:01.083Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:08:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:08:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:08:00.108Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:08:00.109Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:08:01.070Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:08:01.144Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:08:01.218Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:08:01.218Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:09:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:09:00.059Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:09:00.145Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:09:00.146Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:09:00.802Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:09:00.917Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:09:00.988Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:09:00.989Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:10:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:10:00.031Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:10:00.113Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:10:00.114Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:10:01.049Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:10:01.114Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:10:01.185Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:10:01.185Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:11:00.074Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:11:00.076Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:11:00.165Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:11:00.166Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:11:00.863Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:11:01.036Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:11:01.225Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:11:01.225Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:12:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:12:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:12:00.128Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:12:00.128Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:12:00.815Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:12:00.950Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:12:01.025Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:12:01.025Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:13:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:13:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:13:00.131Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:13:00.132Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:13:01.002Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:13:01.092Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:13:01.157Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:13:01.157Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:14:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:14:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:14:00.135Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:14:00.135Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:14:00.933Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:14:01.029Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:14:01.109Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:14:01.109Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:15:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:15:00.031Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:15:00.096Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:15:00.096Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:15:00.829Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:15:00.931Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:15:01.007Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:15:01.008Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:16:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:16:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:16:00.266Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:16:00.266Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:16:00.843Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:16:00.957Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:16:01.173Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:16:01.174Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:17:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:17:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:17:00.115Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:17:00.115Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:17:01.111Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:17:01.201Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:17:01.274Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:17:01.275Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:18:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:18:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:18:00.111Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:18:00.112Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:18:01.044Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:18:01.157Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:18:01.235Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:18:01.236Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:19:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:19:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:19:00.099Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:19:00.099Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:19:00.823Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:19:00.932Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:19:01.125Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:19:01.125Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:20:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:20:00.030Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:20:00.096Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:20:00.097Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:20:00.793Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:20:00.894Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:20:00.972Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:20:00.972Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:21:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:21:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:21:00.123Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:21:00.123Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:21:00.738Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:21:00.821Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:21:00.901Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:21:00.902Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:22:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:22:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:22:00.243Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:22:00.243Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:22:01.017Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:22:01.121Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:22:01.224Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:22:01.224Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:23:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:23:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:23:00.250Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:23:00.251Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:23:01.085Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:23:01.184Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:23:01.267Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:23:01.268Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:24:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:24:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:24:00.135Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:24:00.135Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:24:00.911Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:24:00.998Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:24:01.201Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:24:01.201Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:25:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:25:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:25:00.101Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:25:00.102Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:25:00.953Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:25:01.034Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:25:01.255Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:25:01.255Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:26:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:26:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:26:00.244Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:26:00.245Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:26:00.955Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:26:01.088Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:26:01.156Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:26:01.156Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:27:00.058Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:27:00.059Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:27:00.273Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:27:00.274Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:27:01.131Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:27:01.220Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:27:01.305Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:27:01.305Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:28:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:28:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:28:00.123Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:28:00.123Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:28:00.891Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:28:00.997Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:28:01.069Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:28:01.069Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:29:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:29:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:29:00.127Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:29:00.128Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:29:01.056Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:29:01.149Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:29:01.225Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:29:01.225Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:30:00.024Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:30:00.025Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:30:00.095Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:30:00.095Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:30:00.874Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:30:01.027Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:30:01.101Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:30:01.102Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:31:00.058Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:31:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:31:00.148Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:31:00.148Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:31:01.157Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:31:01.254Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:31:01.322Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:31:01.322Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:32:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:32:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:32:00.127Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:32:00.127Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:32:00.889Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:32:01.003Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:32:01.084Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:32:01.084Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:33:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:33:00.027Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:33:00.100Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:33:00.101Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:33:00.807Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:33:00.949Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:33:01.165Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:33:01.165Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:34:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:34:00.036Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:34:00.115Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:34:00.115Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:34:00.963Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:34:01.031Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:34:01.102Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:34:01.102Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:35:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:35:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:35:00.123Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:35:00.124Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:35:00.822Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:35:00.928Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:35:01.005Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:35:01.005Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:36:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:36:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:36:00.259Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:36:00.260Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:36:00.951Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:36:01.054Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:36:01.136Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:36:01.136Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:37:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:37:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:37:00.108Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:37:00.108Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:37:00.964Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:37:01.078Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:37:01.146Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:37:01.147Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:38:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:38:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:38:00.130Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:38:00.130Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:38:00.794Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:38:00.867Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:38:00.937Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:38:00.937Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:39:00.060Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:39:00.061Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:39:00.258Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:39:00.259Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:39:00.969Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:39:01.085Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:39:01.159Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:39:01.160Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:40:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:40:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:40:00.127Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:40:00.127Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:40:00.773Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:40:00.891Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:40:00.973Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:40:00.974Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:41:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:41:00.030Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:41:00.116Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:41:00.116Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:41:00.795Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:41:00.964Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:41:01.038Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:41:01.038Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:42:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:42:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:42:00.086Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:42:00.086Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:42:00.860Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:42:00.973Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:42:01.063Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:42:01.064Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:43:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:43:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:43:00.130Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:43:00.130Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:43:00.810Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:43:00.929Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:43:00.996Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:43:00.997Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:44:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:44:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:44:00.132Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:44:00.133Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:44:01.083Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:44:01.202Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:44:01.440Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:44:01.441Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:45:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:45:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:45:00.128Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:45:00.128Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:45:00.841Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:45:00.922Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:45:01.003Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:45:01.003Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:46:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:46:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:46:00.120Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:46:00.120Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:46:00.825Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:46:00.876Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:46:01.079Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:46:01.079Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:47:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:47:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:47:00.141Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:47:00.141Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:47:00.885Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:47:00.998Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:47:01.205Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:47:01.205Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:48:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:48:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:48:00.101Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:48:00.101Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:48:00.750Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:48:00.882Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:48:00.981Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:48:00.982Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:49:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:49:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:49:00.117Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:49:00.118Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:49:00.835Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:49:00.960Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:49:01.043Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:49:01.043Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:50:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:50:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:50:00.128Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:50:00.129Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:50:00.721Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:50:00.828Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:50:00.909Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:50:00.909Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:51:00.074Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:51:00.075Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:51:00.157Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:51:00.157Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:51:00.713Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:51:00.817Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:51:00.893Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:51:00.893Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:52:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:52:00.031Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:52:00.096Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:52:00.096Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:52:00.789Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:52:00.851Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:52:00.953Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:52:00.953Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:53:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:53:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:53:00.120Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:53:00.120Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:53:00.725Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:53:00.781Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:53:00.868Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:53:00.869Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:54:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:54:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:54:00.144Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:54:00.145Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:54:00.843Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:54:00.939Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:54:01.015Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:54:01.016Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:55:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:55:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:55:00.132Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:55:00.132Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:55:00.789Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:55:00.884Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:55:00.957Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:55:00.958Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:56:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:56:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:56:00.134Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:56:00.135Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:56:00.877Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:56:00.935Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:56:01.033Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:56:01.033Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:57:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:57:00.027Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:57:00.096Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:57:00.097Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:57:00.957Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:57:01.049Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:57:01.124Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:57:01.124Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:58:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:58:00.027Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:58:00.094Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:58:00.094Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:58:01.077Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:58:01.175Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:58:01.256Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:58:01.256Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T15:59:00.058Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T15:59:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T15:59:00.132Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T15:59:00.133Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T15:59:00.866Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T15:59:00.902Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T15:59:00.971Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T15:59:00.972Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:00:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:00:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:00:00.122Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:00:00.123Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:00:00.721Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:00:00.860Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:00:00.948Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:00:00.948Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:01:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:01:00.061Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:01:00.136Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:01:00.137Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:01:00.887Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:01:00.964Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:01:01.029Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:01:01.029Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:02:00.027Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:02:00.028Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:02:00.087Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:02:00.087Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:02:00.804Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:02:00.854Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:02:00.931Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:02:00.932Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:03:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:03:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:03:00.112Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:03:00.112Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:03:00.816Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:03:00.886Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:03:00.978Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:03:00.978Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:04:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:04:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:04:00.130Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:04:00.130Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:04:00.915Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:04:01.025Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:04:01.254Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:04:01.254Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:05:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:05:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:05:00.128Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:05:00.128Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:05:00.812Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:05:00.885Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:05:00.964Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:05:00.964Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:06:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:06:00.054Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:06:00.142Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:06:00.142Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:06:00.868Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:06:00.969Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:06:01.061Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:06:01.062Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:07:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:07:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:07:00.116Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:07:00.116Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:07:00.762Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:07:00.802Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:07:00.880Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:07:00.881Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:08:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:08:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:08:00.111Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:08:00.111Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:08:01.045Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:08:01.114Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:08:01.206Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:08:01.207Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:09:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:09:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:09:00.118Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:09:00.118Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:09:00.981Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:09:01.106Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:09:01.177Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:09:01.177Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:10:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:10:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:10:00.127Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:10:00.127Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:10:00.816Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:10:00.936Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:10:01.142Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:10:01.143Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:11:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:11:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:11:00.129Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:11:00.129Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:11:00.921Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:11:01.043Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:11:01.127Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:11:01.128Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:12:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:12:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:12:00.234Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:12:00.234Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:12:01.015Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:12:01.288Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:12:01.456Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:12:01.457Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:13:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:13:00.058Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:13:00.231Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:13:00.232Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:13:01.186Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:13:01.338Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:13:01.555Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:13:01.556Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:14:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:14:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:14:00.244Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:14:00.245Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:14:01.147Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:14:01.429Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:14:01.579Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:14:01.579Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:15:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:15:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:15:00.224Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:15:00.225Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:15:00.941Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:15:01.077Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:15:01.295Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:15:01.296Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:16:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:16:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:16:00.294Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:16:00.295Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:16:01.104Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:16:01.285Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:16:01.469Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:16:01.471Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:17:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:17:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:17:00.265Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:17:00.266Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:17:01.043Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:17:01.207Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:17:01.528Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:17:01.529Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:18:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:18:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:18:00.180Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:18:00.180Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:18:01.020Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:18:01.186Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:18:01.468Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:18:01.469Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:19:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:19:00.048Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:19:00.225Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:19:00.226Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:19:00.936Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:19:01.116Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:19:01.385Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:19:01.386Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:20:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:20:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:20:00.223Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:20:00.224Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:20:01.031Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:20:01.177Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:20:01.405Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:20:01.406Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:21:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:21:00.052Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:21:00.275Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:21:00.275Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:21:01.245Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:21:01.421Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:21:01.683Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:21:01.684Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:22:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:22:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:22:00.494Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:22:00.496Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:22:01.490Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:22:01.719Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:22:02.019Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:22:02.020Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:23:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:23:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:23:00.185Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:23:00.185Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:23:00.908Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:23:01.135Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:23:01.321Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:23:01.323Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:24:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:24:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:24:00.388Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:24:00.389Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:24:01.033Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:24:01.257Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:24:01.426Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:24:01.427Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:25:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:25:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:25:00.177Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:25:00.178Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:25:00.847Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:25:00.987Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:25:01.160Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:25:01.160Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:26:00.033Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:26:00.035Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:26:00.263Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:26:00.264Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:26:01.105Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:26:01.307Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:26:01.560Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:26:01.561Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:27:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:27:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:27:00.180Z"}
+{"CUSTOMERID":"VVC00077","URL":"https://www.zohoapis.in/creator/custom/rayhan\n","configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","level":"info","message":"Processing configuration","outlet":"BUS LOUNGE","sourceType":"multiapizoho","timestamp":"2026-02-04T16:27:00.181Z","vendor":"MYOP(MAKE YOUR OWN PERFUME)"}
+{"level":"info","message":"Data fetched successfully","recordCount":34,"timestamp":"2026-02-04T16:27:00.976Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:27:01.186Z","transactionCount":34}
+{"configId":"d1b31091-169a-4edc-99c8-8ee78674bfce","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":34,"timestamp":"2026-02-04T16:27:01.362Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:27:01.364Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:28:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:28:00.054Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:28:00.068Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:28:00.072Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"[SOAP:ItemSegment] <?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Server was unable to read request. ---&gt; There is an error in XML document (11, 91). ---&gt; The string 'Mon Jan 26 2026 00:00:00 GMT+0530 (India Standard Time)' is not a valid AllXsd value.</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>","level":"error","message":"Configuration processing failed","stack":"Error: [SOAP:ItemSegment] <?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Server was unable to read request. ---&gt; There is an error in XML document (11, 91). ---&gt; The string 'Mon Jan 26 2026 00:00:00 GMT+0530 (India Standard Time)' is not a valid AllXsd value.</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>\n    at DataFetcher.callSoapMethod (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:109:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Promise.all (index 1)\n    at async DataFetcher.getAllSegments (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:57:9)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:392:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-02-04T16:28:00.434Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:28:00.451Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:29:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:29:00.055Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:29:00.071Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:29:00.093Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","error":"[SOAP:TransactionSegment] <?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Server was unable to read request. ---&gt; There is an error in XML document (11, 91). ---&gt; The string 'Mon Jan 26 2026 00:00:00 GMT+0530 (India Standard Time)' is not a valid AllXsd value.</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>","level":"error","message":"Configuration processing failed","stack":"Error: [SOAP:TransactionSegment] <?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Server was unable to read request. ---&gt; There is an error in XML document (11, 91). ---&gt; The string 'Mon Jan 26 2026 00:00:00 GMT+0530 (India Standard Time)' is not a valid AllXsd value.</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>\n    at DataFetcher.callSoapMethod (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:110:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Promise.all (index 0)\n    at async DataFetcher.getAllSegments (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:58:9)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:393:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-02-04T16:29:00.512Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:29:00.525Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:32:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:32:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:32:00.251Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:32:00.253Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":389,"timestamp":"2026-02-04T16:32:01.566Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:32:03.222Z","transactionCount":389}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":346,"skipped":43,"timestamp":"2026-02-04T16:32:10.579Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:32:10.580Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:37:00.068Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:37:00.073Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:37:00.376Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:37:00.381Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:37:01.267Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:37:01.411Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:37:01.643Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:37:01.645Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:38:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:38:00.037Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:38:00.221Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:38:00.221Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:38:00.484Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:38:00.648Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:38:00.873Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:38:00.874Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:39:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:39:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:39:00.297Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:39:00.298Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:39:00.575Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:39:00.776Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:39:00.953Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:39:00.954Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:40:00.059Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:40:00.062Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:40:00.296Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:40:00.296Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:40:00.524Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:40:00.705Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:40:00.956Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:40:00.957Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:41:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:41:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:41:00.300Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:41:00.301Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:41:00.557Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:41:00.716Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:41:00.940Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:41:00.941Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T16:42:00.046Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T16:42:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T16:42:00.375Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-04T16:42:00.376Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":33,"timestamp":"2026-02-04T16:42:00.664Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T16:42:00.935Z","transactionCount":33}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":33,"timestamp":"2026-02-04T16:42:01.228Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T16:42:01.229Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T17:45:00.073Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T17:45:00.086Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T17:45:00.320Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-02-04T17:45:00.324Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":15,"timestamp":"2026-02-04T17:45:00.805Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T17:45:00.904Z","transactionCount":15}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":15,"timestamp":"2026-02-04T17:45:01.255Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T17:45:01.257Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-04T17:53:00.038Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-04T17:53:00.040Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-04T17:53:00.048Z"}
+{"CUSTOMERID":"VVC00048","URL":"http://198.38.89.30:9020//api/App               ","configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","level":"info","message":"Processing configuration","outlet":"DOMESTIC 2","sourceType":"multiapi","timestamp":"2026-02-04T17:53:00.051Z","vendor":"KADAKSHAM"}
+{"level":"info","message":"Data fetched successfully","recordCount":15,"timestamp":"2026-02-04T17:53:00.227Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-04T17:53:00.248Z","transactionCount":15}
+{"configId":"74d15eed-2b7b-4672-8875-c1e0afc84757","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":15,"timestamp":"2026-02-04T17:53:00.439Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-04T17:53:00.440Z"}

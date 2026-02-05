@@ -30,7 +30,10 @@ parseApiDateTime(dateTimeStr) {
     }
 
     // Convert to IST timezone explicitly (same as your DB)
-    return dt.tz('Asia/Kolkata').toDate(); // JS Date object
+    // return dt.tz('Asia/Kolkata').toDate(); // JS Date object
+    return dt
+    .tz('Asia/Kolkata')
+    .format('YYYY-MM-DD HH:mm:ss');
   }
 
 
@@ -53,7 +56,7 @@ parseApiDateTime(dateTimeStr) {
   const rowRoot = txMappings[0]?.pvfm_row_root_json_path||null;
 
 
-// console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
+
 
   let records;
   if (rowRoot) {
@@ -62,7 +65,10 @@ parseApiDateTime(dateTimeStr) {
     // If no row root → rawData itself is transaction list
     records = rawData;
   }
-
+console.log(
+  'TX ROOT RESULT:',
+  this.extractByJsonPath(rawData, 'Response.Transactions.Transaction[*]')
+);
 
   if (!records) {
     throw new Error('No transaction records found');
@@ -475,6 +481,13 @@ console.log('Applied mapping 1 ', { mapping, value });
 
   applyTransformation(value, rule) {
     try {
+      if (rule.includes('epochToDate')) {
+      return dayjs.unix(Number(value)).tz('Asia/Kolkata').format('YYYY-MM-DD');
+    }
+
+    if (rule.includes('epochToTimestamp')) {
+      return dayjs.unix(Number(value)).tz('Asia/Kolkata').toDate();
+    }
       if (rule.includes('toUpperCase')) return String(value).toUpperCase();
       if (rule.includes('toLowerCase')) return String(value).toLowerCase();
       if (rule.includes('parseFloat')) return parseFloat(value);
