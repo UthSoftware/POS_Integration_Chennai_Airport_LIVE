@@ -6,6 +6,7 @@ const createLogger = require('../config/logger');
 const xml2js = require('xml2js');
 const { Pool } = require('pg');
 const pool = require('../config/database');
+const { parseSoapResponse } = require('../services/xmlParser');
 
 class DataFetcher {
   constructor(config) {
@@ -50,7 +51,7 @@ class DataFetcher {
   }
 
   async getAllSegments(fromDate, toDate) {
-    console.log('Fetching all segments from SOAP API for dates:', fromDate, toDate);
+    // console.log('Fetching all segments from SOAP API for dates:', fromDate, toDate);
     const [
       transactionSegment,
       itemSegment,
@@ -78,6 +79,7 @@ class DataFetcher {
 
       const response = await axios.post(
         this.config.cac_api_url,
+        // 'https://hidesign.eshopaid.com/ADSR/eShopaidservices.asmx',
         soapEnvelope,
         {
           headers: {
@@ -88,6 +90,7 @@ class DataFetcher {
           responseType: 'text'
         }
       );
+      // console.log(`SOAP response for ${methodName}:`, response.data);
 
       // Optional logging
       if (this.config.cac_log_soap) {
@@ -101,10 +104,12 @@ class DataFetcher {
       // Parse SOAP XML → JSON
       const parser = new xml2js.Parser({ explicitArray: false });
       const parsed = await parser.parseStringPromise(response.data);
+return await parseSoapResponse(response.data);
+      
       // console.log('Parsed SOAP response for method', methodName, JSON.stringify(parsed, null, 2));
 
 
-      return parsed;
+      // return parsed;
 
     } catch (error) {
       throw new Error(`[SOAP:${methodName}] ${error.response?.data || error.message}`);
@@ -278,8 +283,8 @@ class DataFetcher {
       .trim()
       .replace(/\/+$/, '');
 
-    this.logger.info('Fetching multi-API data', { baseUrl });
-    this.logger.info('params', {Fromdate, Todate});
+    // this.logger.info('Fetching multi-API data', { baseUrl });
+    // this.logger.info('params', {Fromdate, Todate});
 
     const results = { items: [], payments: [], transactions: [] };
 
@@ -389,8 +394,8 @@ class DataFetcher {
         return await this.getCombinedDetailszoho((this.buildRuntimeContext(maxDate).FROM_DATE), (this.buildRuntimeContext(maxDate).TO_DATE));
       }
       else if (sourceType === 'soap') {
-        // return await this.getAllSegments(maxDate, this.buildRuntimeContext(maxDate).TO_DATE);
-        return await this.getAllSegments((this.buildRuntimeContext(maxDate).FROM_DATE), this.buildRuntimeContext(maxDate).TO_DATE);
+        return await this.getAllSegments('2025-02-01', this.buildRuntimeContext(maxDate).TO_DATE);
+        // return await this.getAllSegments((this.buildRuntimeContext(maxDate).FROM_DATE), this.buildRuntimeContext(maxDate).TO_DATE);
       }
       else if (sourceType === 'xml') {
         return await this.fetchFromXMLAPI(maxDate);
@@ -421,6 +426,7 @@ class DataFetcher {
         payments: []
       };
     }
+    // console.log('Mapping transaction for bill no:', billNo, txn);
     grouped[billNo].transaction = txn;
   });
 
@@ -456,6 +462,7 @@ class DataFetcher {
     grouped[billNo].payments.push(pay);
   });
 
+  // console.log('Grouped multi-API Zoho data by bill number:', Object.values(grouped));
   return Object.values(grouped);
 }
 
@@ -476,7 +483,7 @@ class DataFetcher {
     items: [],
     payments: []
   };
-
+// console.log('APIs to call:', apis);
   for (const api of apis) {
     try {
       const url = `${baseUrl}/${api.path}`;
@@ -495,7 +502,7 @@ class DataFetcher {
           // dFrmDate: this.formatDate(Fromdate, 'DD-MMM-YYYY'), // 🔥 Zoho format
           // dToDate: this.formatDate(Todate, 'DD-MMM-YYYY'),
           dFrmDate:'01-Feb-2026',
-          dToDate:'03-Feb-2026',
+          dToDate:'01-Feb-2026',
           publickey: api.public_key
         }
       });
@@ -582,7 +589,7 @@ class DataFetcher {
       data = rawBody;
     }
 
-    console.log('Auth token request headers:', rawBody);
+    // console.log('Auth token request headers:', rawBody);
 
     // 🔹 Replace placeholders
     const context = this.buildRuntimeContext(maxDate);
@@ -734,9 +741,10 @@ class DataFetcher {
     //  });
 
 
-    console.log('API request body after placeholder replacement:', params);
-    console.log('API request body after placeholder replacement:', headers);
+    // console.log('API request body after placeholder replacement:', params);
+    // console.log('API request body after placeholder replacement:', headers);
 
+    // console.log('API request body after placeholder replacement:',  cac_http_method || 'POST', body);
     const response = await axios({
       method: cac_http_method || 'POST',
       url: cac_api_url,
@@ -750,6 +758,15 @@ class DataFetcher {
       // 'API response status:',
       // JSON.stringify(response.data, null, 2)
     // );
+
+    const contentType = response.headers['content-type'] || '';
+
+if (typeof response.data === 'string' && contentType.includes('xml')) {
+  const parser = new xml2js.Parser({ explicitArray: false });
+  const parsedXml = await parser.parseStringPromise(response.data);
+  console.log('Parsed XML API response:', JSON.stringify(parsedXml, null, 2));
+  return parsedXml;
+}
 
     return response.data;
   }
@@ -789,7 +806,7 @@ class DataFetcher {
     TO_EPOCHCRAFT: Math.floor(toEpochMs / 1000) ,
       LOCATION_CODE: this.config.cac_outlet_id
     };
- console.log('format date :',maxDate);
+//  console.log('format date :',maxDate);
     // 🔥 GIVA ONLY → epoch millis
     if (this.isGivaVendor()) {
       context.FROM_EPOCH = new Date(maxDate).getTime();
@@ -873,7 +890,8 @@ class DataFetcher {
     if (body) body = this.replacePlaceholders(body, context);
 
 
-
+console.log('Final XML API request body:', params);
+console.log('Final XML API request headers:', headers);
 
 
     const response = await axios({
@@ -886,7 +904,7 @@ class DataFetcher {
       timeout: 30000,
       responseType: 'text'
     });
-    // console.log('Parsed XML/SOAP response:', JSON.stringify(response.data, null, 2));
+    console.log('Parsed XML/SOAP response:', JSON.stringify(response.data, null, 2));
     // Parse XML to JSON
     const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
     const result = await parser.parseStringPromise(response.data);

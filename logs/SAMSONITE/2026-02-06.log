@@ -1,0 +1,10 @@
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:PaymentSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T10:58:43.961Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:PaymentSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T10:59:27.644Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:00:28.870Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:01:27.988Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:02:27.774Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:03:27.631Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:04:27.257Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:05:28.431Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:TransactionSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:06:27.447Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-06T11:07:27.459Z"}

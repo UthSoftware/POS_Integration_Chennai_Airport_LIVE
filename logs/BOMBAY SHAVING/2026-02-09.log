@@ -1,0 +1,71 @@
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:31:00.274Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 502","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:31:12.305Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:32:00.270Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 503","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:32:00.376Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:33:00.415Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:33:00.579Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:33:00.628Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:34:00.325Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:34:00.460Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:34:00.501Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:35:00.304Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:35:00.439Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:35:00.474Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:36:00.380Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:36:00.505Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:36:00.543Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:37:00.318Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:37:03.482Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:37:03.521Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:38:00.319Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:38:00.431Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:38:00.463Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:39:00.410Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:39:00.613Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:39:00.658Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:40:00.233Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:40:00.341Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:40:00.378Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:41:00.319Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:41:00.453Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:41:00.489Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:42:00.143Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:42:00.416Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:42:00.480Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:43:00.334Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:43:00.583Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:43:00.631Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:44:00.307Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:44:00.423Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:44:00.461Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:45:00.354Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:45:00.468Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:45:00.508Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:46:00.329Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:46:00.441Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:46:00.483Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:47:00.246Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:47:00.382Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:47:00.424Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:48:00.330Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:48:00.461Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:48:00.504Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:49:00.344Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:49:00.469Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:49:00.505Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:50:00.190Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:50:00.293Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:50:00.325Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:51:00.312Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:51:00.486Z"}
+{"config":"25b69973-5181-48fc-9eac-cfa4ef3a6363","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-09T17:51:00.578Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:52:00.274Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:52:00.562Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:53:00.135Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:53:00.248Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:54:00.219Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:54:00.377Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:55:00.168Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:55:00.297Z"}
+{"level":"info","message":"Fetching auth token","timestamp":"2026-02-09T17:56:00.228Z"}
+{"level":"info","message":"Auth token retrieved successfully","timestamp":"2026-02-09T17:56:00.346Z"}

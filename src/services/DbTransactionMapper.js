@@ -13,15 +13,23 @@ class DbTransactionMapper {
     let rows = dbRows;
 
     if (!Array.isArray(rows)) {
-      if (dbRows?.AllData && Array.isArray(dbRows.AllData)) {
-        rows = dbRows.AllData;
-      } else {
-        console.error('❌ Invalid DB response shape', dbRows);
-        return [];
-      }
-    }
 
-    // console.log('Mapping DB transactions, total rows:', rows.length);
+  if (dbRows?.Table && Array.isArray(dbRows.Table)) {
+    rows = dbRows.Table;
+
+  } else if (dbRows?.AllData && Array.isArray(dbRows.AllData)) {
+    rows = dbRows.AllData;
+
+  } else if (dbRows?.data && Array.isArray(dbRows.data)) {
+    rows = dbRows.data;
+
+  } else {
+    console.error('❌ Invalid DB response shape', dbRows);
+    return [];
+  }
+}
+
+    console.log('Mapping DB transactions, total rows:', rows.length);
     if (!rows.length) return [];
 
     const invoiceMapping = this.getInvoiceMapping();
@@ -53,6 +61,13 @@ class DbTransactionMapper {
       // 1️⃣ Build HEADER (canonical)
       const tx = this.mapTransactionHeader(headerRow);
 
+      console.log("calculate_totals_from_items:", this.config.cac_calculate_totals_from_items, typeof this.config.calculate_totals_from_items);
+
+      if (this.config.cac_calculate_totals_from_items === true) {
+  const totals = this.calculateTransactionTotals(rows);
+  Object.assign(tx, totals);
+}
+
       // 2️⃣ Build ITEMS (read ONLY from header)
       tx.items = rows.map(row => this.mapItem(row, tx));
 
@@ -64,6 +79,27 @@ class DbTransactionMapper {
 
     return result;
   }
+
+
+  calculateTransactionTotals(rows) {
+  return rows.reduce(
+    (acc, r) => {
+      acc.net_amount += parseFloat(r.GrossAmount) || 0;
+     acc.gross_amount=acc.net_amount;
+      acc.discount_amount += parseFloat(r.TotalDisc) || 0;
+      acc.tax_amount += parseFloat(r.GST_VALUE) || 0;
+
+      return acc;
+    },
+    {
+      net_amount: 0,
+      gross_amount: 0,
+      discount_amount: 0,
+      tax_amount: 0
+    }
+  );
+}
+
 
   /* ========================= HEADER ========================== */
   mapTransactionHeader(row) {

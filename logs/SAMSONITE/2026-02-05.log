@@ -1,0 +1,2 @@
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-05T19:18:17.498Z"}
+{"config":"67f06e34-c346-4e80-9773-0c6e0c54b9aa","error":"[SOAP:ItemSegment] connect ECONNREFUSED 3.109.140.79:9009","level":"error","message":"Data fetch failed","timestamp":"2026-02-05T19:19:06.720Z"}

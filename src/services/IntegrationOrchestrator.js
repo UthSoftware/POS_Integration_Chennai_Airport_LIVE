@@ -86,6 +86,13 @@ class IntegrationOrchestrator {
     // ? Object.keys(rawData)
     // : 'NOT_OBJECT'
 // });
+// console.log('RAW API RESPONSE STRUCTURE', {
+  // type: typeof rawData,
+  // isArray: Array.isArray(rawData),
+  // topKeys: rawData && typeof rawData === 'object'
+    // ? Object.keys(rawData)
+    // : 'NOT_OBJECT'
+// });
 
 
       if (!rawData || (Array.isArray(rawData) && rawData.length === 0)) {
@@ -130,7 +137,7 @@ let transactions = [];
         ...allMappings.raw_transaction_items,
         ...allMappings.raw_payment
       ]);
-      console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
+      // console.log('Raw data to be mapped:', JSON.stringify(rawData, null, 2));
        transactions = await mapper.mapTransactions(rawData);
 
       this.logger.info('Data mapped successfully', {

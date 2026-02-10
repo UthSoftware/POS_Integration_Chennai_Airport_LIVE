@@ -1,0 +1,4 @@
+{"fromDate":"2026-02-04T18:30:00.000Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-05T19:18:29.388Z","url":"http://myitworld.biz:8082/fapi/apps/bafrest.php/POS_DATA_INTERFACE/REST?hiInstanceId=2"}
+{"level":"info","message":"XML/SOAP data fetched and parsed successfully","timestamp":"2026-02-05T19:18:30.882Z"}
+{"fromDate":"2026-02-04T18:30:00.000Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-05T19:19:12.370Z","url":"http://myitworld.biz:8082/fapi/apps/bafrest.php/POS_DATA_INTERFACE/REST?hiInstanceId=2"}
+{"level":"info","message":"XML/SOAP data fetched and parsed successfully","timestamp":"2026-02-05T19:19:12.500Z"}

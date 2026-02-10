@@ -65,10 +65,10 @@ parseApiDateTime(dateTimeStr) {
     // If no row root → rawData itself is transaction list
     records = rawData;
   }
-console.log(
-  'TX ROOT RESULT:',
-  this.extractByJsonPath(rawData, 'Response.Transactions.Transaction[*]')
-);
+// console.log(
+  // 'TX ROOT RESULT:',
+  // this.extractByJsonPath(rawData, 'Response.Transaction')
+// );
 
   if (!records) {
     throw new Error('No transaction records found');
@@ -108,6 +108,10 @@ console.log(
 
   /* ========================= TRANSACTION ========================== */
   mapSingleTransaction(record) {
+    // console.log(
+  // 'TX RECORD KEYS:',
+  // Object.keys(record)
+// );
     const mappings = this.getMappings('raw_transactions');
 
     const tx = {
@@ -144,6 +148,7 @@ console.log(
       if (value !== undefined && value !== null) tx[m.pvfm_source_field] = value;
     }
 // console.log('Mapped transaction', { transaction_id: tx.transaction_id, mapped_fields: tx });
+
 
  
     return tx;
@@ -241,11 +246,11 @@ let rows;
         }
       }
 
-  // console.log('Mapped row', {
-    // table: tableName,
-    // transaction_id: transactionId,
-    // mapped_fields: mapped // log all mapped fields
-  // });
+  console.log('Mapped row', {
+    table: tableName,
+    transaction_id: transactionId,
+    mapped_fields: mapped // log all mapped fields
+  });
       return mapped;
     });
   }
@@ -355,30 +360,50 @@ let rows;
     return this.buildTimestamp(record, mapping);
   }
   
-  if (['api','json','xml','soap','multiapi'].includes(this.sourceType)) {
+  if (['api','json','xml','soap','multiapi','multiapizoho'].includes(this.sourceType)) {
        // ITEM / PAYMENT TABLES
     if (
       mapping.pvfm_tablename !== 'raw_transactions' &&
       mapping.pvfm_row_root_json_path
     ) {
 
-      // 1️⃣ Try direct field first
-      value = record?.[mapping.pvfm_json_path];
+      // FIRST try inside current row (ITEM)
+  if (!mapping.pvfm_json_path.includes('.')) {
+    value = record?.[mapping.pvfm_json_path];
+    console.log('Trying flat path for item/payment', {
+      mapping,
+      value
+    });
+  }
 
-      // 2️⃣ If undefined AND nested path exists → resolve nested
-      if (
-        value === undefined &&
-        mapping.pvfm_json_path?.includes('.')
-      ) {
-        value = this.extractByJsonPath(record, mapping.pvfm_json_path);
-      }
+  // If not found, try parent transaction
+  if (value === undefined) {
+    value = this.extractByJsonPath(record, mapping.pvfm_json_path);
+    console.log('Trying flat path for item/payment11', {
+      mapping,
+      value
+    });
+  }
 
     // TRANSACTION HEADER
     } else {
 
       if (mapping.pvfm_tablename === 'raw_transactions' && !mapping.pvfm_row_root_json_path) {
-        // console.log('Mapping transaction field without row root', mapping.pvfm_json_path)
+
+        if (
+    mapping.pvfm_json_path &&
+    !mapping.pvfm_json_path.includes('.')
+  ) {
+    // flat field like "billNumber"
     value = record?.[mapping.pvfm_json_path];
+  } else {
+    // nested field like "transaction.billValue"
+    value = this.extractByJsonPath(record, mapping.pvfm_json_path);
+  }
+        
+    // value = record?.[mapping.pvfm_json_path];
+    
+
       } else {
       
       value = mapping.pvfm_json_path
@@ -411,8 +436,15 @@ let rows;
 buildTimestamp(record, mapping) {
   const [dateKey, timeKey] = mapping.pvfm_json_path.split('|');
 
-  const dt = record?.[dateKey];
-  const tm = record?.[timeKey];
+ const dt = dateKey.includes('.')
+    ? this.extractByJsonPath(record, dateKey)
+    : record?.[dateKey];
+
+  const tm = timeKey.includes('.')
+    ? this.extractByJsonPath(record, timeKey)
+    : record?.[timeKey];
+
+  console.log('Building timestamp', { dateKey, timeKey, dt, tm });
 
   if (!dt || !tm) return null;
 
@@ -428,7 +460,9 @@ buildTimestamp(record, mapping) {
   } else if (/^\d{4}-\d{2}-\d{2}$/.test(dt)) {
     // YYYY-MM-DD
     datePart = dt;
-  } else {
+  } 
+  
+else {
     this.logger.warn(`Invalid date format: ${dt}`);
     return null;
   }
@@ -442,7 +476,16 @@ buildTimestamp(record, mapping) {
   } else if (/^\d{2}:\d{2}:\d{2}/.test(tm)) {
     // HH:mm:ss or HH:mm:ss.micro
     timePart = tm.slice(0, 8);
-  } else {
+  }  else if (/^\d{1,2}:\d{1,2}:\d{1,2}$/.test(tm)) {
+  const [h, m, s] = tm.split(':');
+  timePart = `${h.padStart(2, '0')}:${m.padStart(2, '0')}:${s.padStart(2, '0')}`;
+}
+else if (/^\d{1,2}:\d{2}$/.test(tm)) {
+  // HH:mm → convert to HH:mm:00
+  const [h, m] = tm.split(':');
+  timePart = `${h.padStart(2, '0')}:${m.padStart(2, '0')}:00`;
+}
+  else {
     this.logger.warn(`Invalid time format: ${tm}`);
     return null;
   }
@@ -455,7 +498,7 @@ buildTimestamp(record, mapping) {
   if (mapping.pvfm_transform_rule) {
     value = this.applyTransformation(value, mapping.pvfm_transform_rule);
   }
-
+console.log('Built timestamp', { dateKey, timeKey, datePart, timePart, value });
   return value;
 }
 

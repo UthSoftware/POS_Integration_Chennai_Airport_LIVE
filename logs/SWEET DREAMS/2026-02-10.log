@@ -1,0 +1,32 @@
+{"fromDate":"2026-02-09T11:03:00.069Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:03:00.069Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:03:00.482Z"}
+{"fromDate":"2026-02-09T11:04:00.148Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:04:00.148Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:04:00.564Z"}
+{"fromDate":"2026-02-09T11:05:00.274Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:05:00.274Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:05:00.658Z"}
+{"fromDate":"2026-02-09T11:06:00.153Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:06:00.153Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:06:00.559Z"}
+{"fromDate":"2026-02-09T11:07:00.173Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:07:00.173Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:07:00.552Z"}
+{"fromDate":"2026-02-09T11:08:00.125Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:08:00.125Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:08:00.503Z"}
+{"fromDate":"2026-02-09T11:09:00.130Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:09:00.130Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:09:00.487Z"}
+{"fromDate":"2026-02-09T11:10:00.098Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:10:00.098Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:10:00.466Z"}
+{"fromDate":"2026-02-09T11:11:00.131Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:11:00.131Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:11:00.562Z"}
+{"fromDate":"2026-02-09T11:12:00.125Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:12:00.126Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:12:00.549Z"}
+{"fromDate":"2026-02-09T11:13:00.067Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:13:00.067Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:13:00.455Z"}
+{"fromDate":"2026-02-09T11:14:00.115Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:14:00.115Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:14:00.492Z"}
+{"fromDate":"2026-02-09T11:15:00.086Z","level":"info","message":"Fetching XML/SOAP data from API","timestamp":"2026-02-10T11:15:00.086Z","url":"http://95.111.227.149:5239/api/SalesData"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"Request failed with status code 401","level":"error","message":"Data fetch failed","timestamp":"2026-02-10T11:15:00.470Z"}
+{"level":"warn","message":"Invalid time format: 11:10","timestamp":"2026-02-10T13:03:01.152Z"}
+{"level":"warn","message":"Invalid time format: 21:03","timestamp":"2026-02-10T13:03:01.156Z"}
+{"level":"warn","message":"Invalid time format: 11:10","timestamp":"2026-02-10T13:07:01.416Z"}
+{"level":"warn","message":"Invalid time format: 21:03","timestamp":"2026-02-10T13:07:01.421Z"}
+{"level":"warn","message":"Invalid time format: 11:10","timestamp":"2026-02-10T13:08:01.325Z"}
+{"level":"warn","message":"Invalid time format: 21:03","timestamp":"2026-02-10T13:08:01.329Z"}
