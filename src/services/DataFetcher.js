@@ -25,6 +25,12 @@ class DataFetcher {
     const yyyy = d.getFullYear();
     const yy = String(yyyy).slice(-2);
 
+// ⭐ ADD TIME PARTS
+    const HH = String(d.getHours()).padStart(2, '0');
+    const min = String(d.getMinutes()).padStart(2, '0');
+    const ss = String(d.getSeconds()).padStart(2, '0');
+  
+    
     const monthNames = [
       'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
       'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'
