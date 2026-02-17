@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"level":"info","message":"Starting configuration validation...","timestamp":"2026-02-05T14:35:26.732Z"}
 {"customer_api_configs":47,"customer_outlet_mapping":67,"level":"info","message":"Configuration validation passed","pos_vendor_field_mapping":1703,"pos_vendor_master":61,"timestamp":"2026-02-05T14:35:26.819Z"}
 {"level":"info","message":"Starting configuration validation...","timestamp":"2026-02-05T14:38:23.188Z"}
@@ -44,3 +45,11 @@
 {"customer_api_configs":66,"customer_outlet_mapping":79,"level":"info","message":"Configuration validation passed","pos_vendor_field_mapping":2987,"pos_vendor_master":74,"timestamp":"2026-02-05T19:34:27.309Z"}
 {"level":"info","message":"Starting configuration validation...","timestamp":"2026-02-05T19:34:39.234Z"}
 {"customer_api_configs":66,"customer_outlet_mapping":79,"level":"info","message":"Configuration validation passed","pos_vendor_field_mapping":2987,"pos_vendor_master":74,"timestamp":"2026-02-05T19:34:39.488Z"}
+=======
+{"level":"info","message":"Starting configuration validation...","timestamp":"2026-02-05T15:59:39.740Z"}
+{"error":"","level":"error","message":"Failed to check table pos_vendor_master","timestamp":"2026-02-05T15:59:39.773Z"}
+{"error":"Failed to check table pos_vendor_master: ","level":"error","message":"Configuration validation error","stack":"Error: Failed to check table pos_vendor_master: \n    at ConfigValidator.checkTable (C:\\workplace\\New Web Report\\POSIntegration\\src\\services\\Configvalidator.js:111:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async ConfigValidator.validateRequiredTables (C:\\workplace\\New Web Report\\POSIntegration\\src\\services\\Configvalidator.js:20:27)\n    at async startup (C:\\workplace\\New Web Report\\POSIntegration\\index.js:51:22)","timestamp":"2026-02-05T15:59:39.776Z"}
+{"level":"info","message":"Starting configuration validation...","timestamp":"2026-02-05T16:00:03.101Z"}
+{"error":"","level":"error","message":"Failed to check table pos_vendor_master","timestamp":"2026-02-05T16:00:03.122Z"}
+{"error":"Failed to check table pos_vendor_master: ","level":"error","message":"Configuration validation error","stack":"Error: Failed to check table pos_vendor_master: \n    at ConfigValidator.checkTable (C:\\workplace\\New Web Report\\POSIntegration\\src\\services\\Configvalidator.js:111:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async ConfigValidator.validateRequiredTables (C:\\workplace\\New Web Report\\POSIntegration\\src\\services\\Configvalidator.js:20:27)\n    at async startup (C:\\workplace\\New Web Report\\POSIntegration\\index.js:51:22)","timestamp":"2026-02-05T16:00:03.123Z"}
+>>>>>>> 4fdb4db9b5f3167e890761cc54ff0316715cfff9

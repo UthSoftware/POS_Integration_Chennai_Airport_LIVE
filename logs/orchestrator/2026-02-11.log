@@ -1,0 +1,426 @@
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:49:00.026Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:49:00.028Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:49:00.036Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:49:00.039Z","vendor":"OPIUM"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T11:49:03.909Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T11:49:04.011Z","transactionCount":10}
+{"configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","errors":0,"level":"info","message":"Configuration processed successfully","records":7,"skipped":3,"timestamp":"2026-02-11T11:49:04.481Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T11:49:04.482Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:50:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:50:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:50:00.226Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:50:00.227Z","vendor":"OPIUM"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T11:50:01.624Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T11:50:01.715Z","transactionCount":10}
+{"configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","errors":0,"level":"info","message":"Configuration processed successfully","records":9,"skipped":1,"timestamp":"2026-02-11T11:50:02.238Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T11:50:02.239Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:51:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:51:00.055Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:51:00.318Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:51:00.319Z","vendor":"OPIUM"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T11:51:03.492Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T11:51:03.524Z","transactionCount":2}
+{"configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T11:51:03.703Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T11:51:03.704Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:52:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:52:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:52:00.195Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:52:00.196Z","vendor":"OPIUM"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T11:52:00.449Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T11:52:00.463Z","transactionCount":2}
+{"configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T11:52:00.631Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T11:52:00.632Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:53:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:53:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:53:00.240Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:53:00.241Z","vendor":"OPIUM"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T11:53:00.737Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T11:53:00.759Z","transactionCount":2}
+{"configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T11:53:00.944Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T11:53:00.945Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T11:54:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T11:54:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T11:54:00.336Z"}
+{"CUSTOMERID":"VVC00139","URL":"https://as1.sellerware.in/BringOrderResponse","configId":"fb2a725f-a9a6-46f2-bf1f-77f420778ddc","level":"info","message":"Processing configuration","outlet":"TERMINAL 2","sourceType":"API","timestamp":"2026-02-11T11:54:00.337Z","vendor":"OPIUM"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:30:00.056Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:30:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:30:00.315Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:30:00.318Z","vendor":"SWEET DREAMS"}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","error":"timeout of 30000ms exceeded","level":"error","message":"Configuration processing failed","stack":"AxiosError: timeout of 30000ms exceeded\n    at RedirectableRequest.handleRequestTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3552:15)\n    at RedirectableRequest.emit (node:events:518:28)\n    at Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\follow-redirects\\index.js:221:12)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:748:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:383:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-02-11T12:30:30.396Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:30:30.623Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:31:00.081Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:31:00.087Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:31:00.119Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:31:00.121Z","vendor":"SWEET DREAMS"}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","error":"timeout of 30000ms exceeded","level":"error","message":"Configuration processing failed","stack":"AxiosError: timeout of 30000ms exceeded\n    at RedirectableRequest.handleRequestTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3552:15)\n    at RedirectableRequest.emit (node:events:518:28)\n    at Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\follow-redirects\\index.js:221:12)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:748:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:383:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-02-11T12:31:30.173Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:31:30.490Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:32:00.075Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:32:00.083Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:32:00.123Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:32:00.129Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:32:05.658Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:32:05.672Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:32:05.951Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:32:05.953Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:33:00.036Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:33:00.037Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:33:00.213Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:33:00.213Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:33:01.632Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:33:01.647Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:33:01.835Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:33:01.836Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:34:00.029Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:34:00.031Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:34:00.198Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:34:00.199Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:34:02.229Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:34:02.246Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:34:02.428Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:34:02.429Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:35:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:35:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:35:00.236Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:35:00.237Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:35:01.651Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:35:01.665Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:35:01.849Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:35:01.850Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:36:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:36:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:36:00.294Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:36:00.295Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:36:02.039Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:36:02.059Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:36:02.376Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:36:02.378Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:37:00.056Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:37:00.058Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:37:00.255Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:37:00.256Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:37:02.864Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:37:02.879Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:37:03.084Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:37:03.085Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:38:00.055Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:38:00.057Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:38:00.358Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:38:00.359Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:38:04.493Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:38:04.501Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:38:04.691Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:38:04.692Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:39:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:39:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:39:00.216Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:39:00.217Z","vendor":"SWEET DREAMS"}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","error":"read ECONNRESET","level":"error","message":"Configuration processing failed","stack":"Error: read ECONNRESET\n    at AxiosError.from (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:914:14)\n    at RedirectableRequest.handleRequestError (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:3515:25)\n    at RedirectableRequest.emit (node:events:530:35)\n    at eventHandlers.<computed> (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\follow-redirects\\index.js:49:24)\n    at ClientRequest.emit (node:events:518:28)\n    at emitErrorEvent (node:_http_client:104:11)\n    at Socket.socketErrorListener (node:_http_client:518:5)\n    at Socket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at Axios.request (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\axios\\dist\\node\\axios.cjs:4731:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async DataFetcher.fetchFromAPI (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:748:22)\n    at async DataFetcher.fetchData (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\DataFetcher.js:383:16)\n    at async IntegrationOrchestrator.processConfig (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:80:23)\n    at async IntegrationOrchestrator.executeIngestion (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\src\\services\\IntegrationOrchestrator.js:28:9)\n    at async D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\index.js:62:7\n    at async Timeout._onTimeout (D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)","timestamp":"2026-02-11T12:39:11.190Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:39:11.206Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:40:00.063Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:40:00.065Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:40:00.324Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:40:00.325Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:40:01.717Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:40:01.743Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:40:01.986Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:40:01.987Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:41:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:41:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:41:00.266Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:41:00.267Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:41:02.872Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:41:02.890Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:41:03.128Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:41:03.129Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:42:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:42:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:42:00.325Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:42:00.326Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:42:01.690Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:42:01.717Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:42:02.035Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:42:02.036Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:43:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:43:00.055Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:43:00.380Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:43:00.381Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:43:01.872Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:43:01.888Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:43:02.068Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:43:02.069Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:44:00.035Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:44:00.037Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:44:00.220Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:44:00.220Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:44:01.569Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:44:01.586Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:44:01.831Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:44:01.832Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:45:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:45:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:45:00.213Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:45:00.213Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:45:02.541Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:45:02.555Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:45:02.769Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:45:02.771Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T12:46:00.066Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T12:46:00.068Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T12:46:00.284Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T12:46:00.285Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T12:46:01.613Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T12:46:01.621Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T12:46:01.756Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T12:46:01.757Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:20:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:20:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:20:00.208Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:20:00.209Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:20:01.372Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:20:01.380Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:20:01.480Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:20:01.481Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:21:00.058Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:21:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:21:00.380Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:21:00.380Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:21:01.719Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:21:01.734Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:21:01.964Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:21:01.965Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:22:00.048Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:22:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:22:00.234Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:22:00.235Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:22:02.237Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:22:02.251Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:22:02.452Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:22:02.452Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:23:00.030Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:23:00.032Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:23:00.306Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:23:00.307Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:23:01.724Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:23:01.737Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:23:01.925Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:23:01.926Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:24:00.054Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:24:00.056Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:24:00.306Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:24:00.307Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:24:02.249Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:24:02.293Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:24:02.508Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:24:02.509Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:25:00.028Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:25:00.029Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:25:00.178Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:25:00.179Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:25:01.615Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:25:01.645Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:25:01.884Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:25:01.885Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:26:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:26:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:26:00.318Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:26:00.320Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:26:01.587Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:26:01.595Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:26:01.698Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:26:01.699Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:27:00.045Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:27:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:27:00.250Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:27:00.251Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:27:01.652Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:27:01.664Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:27:01.876Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:27:01.877Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:28:00.057Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:28:00.059Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:28:00.246Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:28:00.247Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:28:01.730Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:28:01.752Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:28:01.953Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:28:01.954Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:29:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:29:00.041Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:29:00.201Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:29:00.201Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:29:01.495Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:29:01.509Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:29:01.743Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:29:01.744Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:30:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:30:00.049Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:30:00.305Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:30:00.306Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:30:01.568Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:30:01.583Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:30:01.772Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:30:01.773Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:31:00.021Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:31:00.022Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:31:00.186Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:31:00.187Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:31:01.574Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:31:01.599Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:31:01.918Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:31:01.919Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:32:00.043Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:32:00.045Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:32:00.223Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:32:00.223Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:32:01.683Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:32:01.695Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:32:01.883Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:32:01.884Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:33:00.040Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:33:00.042Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:33:00.254Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:33:00.255Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:33:01.485Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:33:01.500Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:33:01.716Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:33:01.716Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:34:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:34:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:34:00.217Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:34:00.217Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:34:01.900Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:34:01.915Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:34:02.105Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:34:02.106Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:35:00.037Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:35:00.039Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:35:00.222Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:35:00.223Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:35:01.749Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:35:01.761Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:35:01.938Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:35:01.938Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:36:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:36:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:36:00.203Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:36:00.203Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:36:02.498Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:36:02.508Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:36:02.709Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:36:02.709Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:37:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:37:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:37:00.207Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:37:00.208Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:37:02.101Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:37:02.117Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:37:02.342Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:37:02.343Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:38:00.041Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:38:00.043Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:38:00.252Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:38:00.253Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:38:01.825Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:38:01.841Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:38:02.109Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:38:02.110Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:39:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:39:00.046Z"}
+{"level":"info","message":"Found 2 active configurations","timestamp":"2026-02-11T16:39:00.223Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-11T16:39:00.224Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"warn","message":"No data fetched","timestamp":"2026-02-11T16:39:00.954Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T16:39:00.955Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:39:02.143Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:39:02.152Z","transactionCount":2}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":2,"timestamp":"2026-02-11T16:39:02.308Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:39:02.308Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:40:00.047Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:40:00.050Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:40:00.063Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-11T16:40:00.067Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"warn","message":"No data fetched","timestamp":"2026-02-11T16:40:03.054Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:40:03.056Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:41:00.051Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:41:00.055Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:41:00.343Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-11T16:41:00.345Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"warn","message":"No data fetched","timestamp":"2026-02-11T16:41:00.751Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:41:00.752Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:42:00.034Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:42:00.036Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:42:00.199Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-11T16:42:00.200Z","vendor":"ACCESSORIES LONDON"}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"warn","message":"No data fetched","timestamp":"2026-02-11T16:42:00.520Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:42:00.522Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:43:00.039Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:43:00.044Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:43:00.062Z"}
+{"CUSTOMERID":"VVC00096","URL":"https://accessorize.eshopaid.com/accessorizeMallInt/eShopaidServices.asmx","configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","level":"info","message":"Processing configuration","outlet":"DOMESTIC 1","sourceType":"SOAP","timestamp":"2026-02-11T16:43:00.067Z","vendor":"ACCESSORIES LONDON"}
+{"level":"info","message":"Data fetched successfully","recordCount":304,"timestamp":"2026-02-11T16:43:01.221Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T16:43:10.693Z","transactionCount":304}
+{"configId":"5836e259-a2d5-4dfb-8d7f-0336956f6818","errors":0,"level":"info","message":"Configuration processed successfully","records":271,"skipped":33,"timestamp":"2026-02-11T16:43:14.825Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:43:14.826Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:51:00.042Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:51:00.046Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:51:00.237Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T16:51:00.240Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:51:01.315Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T16:51:01.331Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T16:51:01.688Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:51:01.688Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T16:52:00.049Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T16:52:00.051Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T16:52:00.220Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T16:52:00.221Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T16:52:01.442Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T16:52:01.451Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T16:52:01.648Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T16:52:01.649Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:04:00.050Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:04:00.053Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:04:00.064Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T17:04:00.068Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:04:02.699Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T17:04:02.708Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T17:04:02.918Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:04:02.919Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:05:00.052Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:05:00.053Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:05:00.218Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T17:05:00.218Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:05:03.003Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T17:05:03.012Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T17:05:03.202Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:05:03.203Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:09:00.044Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:09:00.047Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:09:00.062Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T17:09:00.067Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:09:01.399Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T17:09:01.407Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T17:09:01.584Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:09:01.585Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:10:00.058Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:10:00.060Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:10:00.326Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T17:10:00.328Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:10:00.908Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T17:10:00.920Z","transactionCount":0}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":0,"skipped":0,"timestamp":"2026-02-11T17:10:01.259Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:10:01.260Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:11:00.062Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:11:00.066Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:11:00.085Z"}
+{"CUSTOMERID":"VVC00130","URL":"https://api.massistcrm.com/api/v2/Employee/APIForReportData","configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","level":"info","message":"Processing configuration","outlet":"TERMINAL 1","sourceType":"API","timestamp":"2026-02-11T17:11:00.090Z","vendor":"BOMBAY SHAVING"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:11:02.588Z"}
+{"level":"info","message":"DB Data mapped successfully","timestamp":"2026-02-11T17:11:02.724Z","transactionCount":32}
+{"configId":"25b69973-5181-48fc-9eac-cfa4ef3a6363","errors":0,"level":"info","message":"Configuration processed successfully","records":32,"skipped":0,"timestamp":"2026-02-11T17:11:03.934Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:11:03.937Z"}
+{"level":"info","message":"Starting data ingestion cycle","timestamp":"2026-02-11T17:37:00.025Z"}
+{"error":"ENOENT: no such file or directory, open 'D:\\Puvi\\VIDVEDAA_PROJECT\\POSIntegration\\vendordetails.txt'","level":"warn","message":"Could not load vendor filter","timestamp":"2026-02-11T17:37:00.026Z"}
+{"level":"info","message":"Found 1 active configurations","timestamp":"2026-02-11T17:37:00.084Z"}
+{"CUSTOMERID":"VVC00079","URL":"http://95.111.227.149:5239/api/SalesData","configId":"cd93b071-e770-47d1-8607-03ba3899b894","level":"info","message":"Processing configuration","outlet":"TERMINAL 4","sourceType":"API","timestamp":"2026-02-11T17:37:00.085Z","vendor":"SWEET DREAMS"}
+{"level":"info","message":"Data fetched successfully","recordCount":1,"timestamp":"2026-02-11T17:37:02.687Z"}
+{"level":"info","message":"Data mapped successfully","timestamp":"2026-02-11T17:37:02.802Z","transactionCount":123}
+{"configId":"cd93b071-e770-47d1-8607-03ba3899b894","errors":0,"level":"info","message":"Configuration processed successfully","records":121,"skipped":2,"timestamp":"2026-02-11T17:37:02.988Z"}
+{"level":"info","message":"Data ingestion cycle completed","timestamp":"2026-02-11T17:37:02.989Z"}

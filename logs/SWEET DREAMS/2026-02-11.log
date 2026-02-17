@@ -1,0 +1,3 @@
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"timeout of 30000ms exceeded","level":"error","message":"Data fetch failed","timestamp":"2026-02-11T12:30:30.394Z"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"timeout of 30000ms exceeded","level":"error","message":"Data fetch failed","timestamp":"2026-02-11T12:31:30.171Z"}
+{"config":"cd93b071-e770-47d1-8607-03ba3899b894","error":"read ECONNRESET","level":"error","message":"Data fetch failed","timestamp":"2026-02-11T12:39:11.189Z"}

@@ -44,11 +44,99 @@ class DataFetcher {
         return `${mm}/${dd}/${yyyy}`;
       case 'YYYY/DD/MM':
         return `${yyyy}/${dd}/${mm}`;  // 2025/12/10
+
+       // ⭐ NEW CASE FOR UNIQUE COLORS
+      case 'YYYY-MM-DD HH:mm:ss':
+        return `${yyyy}-${mm}-${dd} ${HH}:${min}:${ss}`;  
       case 'YYYY-MM-DD':
       default:
         return `${yyyy}-${mm}-${dd}`;    // 2025-12-10
     }
   }
+
+  /* =========================
+   VIDVEDA SOAP CALL
+========================= */
+async getMyJOSoap(fromDate, toDate) {
+  const url = "https://wizapp.in/mirrorservice/Service.asmx";
+
+  const soapBody = `<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+               xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <GetSaleDataForMall_V1 xmlns="http://tempuri.org/">
+      <cGrpCode>BJ@WZBJ000001</cGrpCode>
+      <cUserId>ONLINE</cUserId>
+      <cPassword>123</cPassword>
+      <cStoreCode>${this.config.cac_db_name}</cStoreCode>
+      <cFromDt>${fromDate}</cFromDt>
+      <ToDt>${toDate}</ToDt>
+    </GetSaleDataForMall_V1>
+  </soap:Body>
+</soap:Envelope>`;
+
+  const headers = {
+    "Content-Type": "text/xml",
+    "SOAPAction": "http://tempuri.org/GetSaleDataForMall_V1",
+    "Accept": "*/*" // IMPORTANT: allow JSON or XML
+  };
+
+  try {
+    const response = await axios.post(url, soapBody, {
+      headers,
+      timeout: 15000,
+      transformResponse: res => res // prevent axios auto parsing
+    });
+
+    const raw = response.data.trim();
+
+    let tRecordJson;
+
+    // 🧠 CASE 1: Server returned JSON directly
+    if (raw.startsWith("{")) {
+      tRecordJson = JSON.parse(raw);
+    }
+    // 🧠 CASE 2: Server returned SOAP XML
+    else if (raw.startsWith("<")) {
+      const parsed = await xml2js.parseStringPromise(raw, {
+        explicitArray: false
+      });
+
+      const body =
+        parsed["soap:Envelope"]["soap:Body"]["GetSaleDataForMall_V1Response"];
+
+      const result = body["GetSaleDataForMall_V1Result"];
+      tRecordJson = JSON.parse(result);
+    }
+    else {
+      throw new Error("Unknown response format from POS API");
+    }
+
+    // 🧾 Convert header-row array → objects
+    const headerRow = tRecordJson.tRecord[0];
+    const rows = tRecordJson.tRecord.slice(1);
+
+    const sales = rows.map(row => {
+      const obj = {};
+      headerRow.forEach((key, index) => {
+        obj[key.replace(/\s+/g, "_")] = row[index];
+      });
+      return obj;
+    });
+
+    return sales;
+
+  } catch (err) {
+    console.error("❌ POS API Error");
+    console.error("Message:", err.message);
+    throw err;
+  }
+}
+
+
+
+
 
   async getAllSegments(fromDate, toDate) {
     // console.log('Fetching all segments from SOAP API for dates:', fromDate, toDate);
@@ -75,7 +163,9 @@ class DataFetcher {
   ========================= */
   async callSoapMethod(methodName, fromDate, toDate) {
     try {
-      const soapEnvelope = this.buildSoapEnvelope(methodName, fromDate, toDate);
+      
+       const soapEnvelope = this.buildSoapEnvelope(methodName, fromDate, toDate);
+       
 
       const response = await axios.post(
         this.config.cac_api_url,
@@ -104,12 +194,13 @@ class DataFetcher {
       // Parse SOAP XML → JSON
       const parser = new xml2js.Parser({ explicitArray: false });
       const parsed = await parser.parseStringPromise(response.data);
+
 return await parseSoapResponse(response.data);
       
-      // console.log('Parsed SOAP response for method', methodName, JSON.stringify(parsed, null, 2));
+     
+//  console.log('Parsed SOAP response for method', methodName, JSON.stringify(parsed, null, 2));
 
-
-      // return parsed;
+      
 
     } catch (error) {
       throw new Error(`[SOAP:${methodName}] ${error.response?.data || error.message}`);
@@ -169,6 +260,10 @@ return await parseSoapResponse(response.data);
       grouped[receipt].payments.push(pay);
     }
     // console.log('Grouped SOAP data by receipt no:', Object.values(grouped));
+    console.log(
+  'Grouped SOAP data by receipt no:\n',
+  JSON.stringify(Object.values(grouped), null, 2)
+);
     return Object.values(grouped);
   }
 
@@ -217,10 +312,13 @@ return await parseSoapResponse(response.data);
   xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
   xmlns:esh="http://eshopaid.in">
 
+  
+
   <soapenv:Header>
     <esh:eShopaidSoapHeader>
       <esh:UserName>${this.config.cac_db_username}</esh:UserName>
       <esh:Password>${this.config.cac_db_password}</esh:Password>
+      
       <esh:MethodName>${methodName}</esh:MethodName>
       <esh:FromDate>${fromDate}</esh:FromDate>
       <esh:ToDate>${toDate}</esh:ToDate>
@@ -234,6 +332,25 @@ return await parseSoapResponse(response.data);
 
 </soapenv:Envelope>`;
   }
+
+
+ buildSoapEnvelopemyjo(methodName, fromDate, toDate, optionalData = '') {
+    return `<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+               xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <GetSaleDataForMall_V1 xmlns="http://tempuri.org/">
+      <cGrpCode>BJ@WZBJ000001</cGrpCode>
+      <cUserId>ONLINE</cUserId>
+      <cPassword>123</cPassword>
+      <cStoreCode>M3</cStoreCode>
+      <cFromDt>2026-02-01</cFromDt>
+      <cToDt>2026-02-07</cToDt>
+    </GetSaleDataForMall_V1>
+  </soap:Body>
+</soap:Envelope>`;
+  } 
 
 
   async fetchThreeApisInLoop(maxDate) {
@@ -394,9 +511,15 @@ return await parseSoapResponse(response.data);
         return await this.getCombinedDetailszoho((this.buildRuntimeContext(maxDate).FROM_DATE), (this.buildRuntimeContext(maxDate).TO_DATE));
       }
       else if (sourceType === 'soap') {
-        return await this.getAllSegments('2025-02-01', this.buildRuntimeContext(maxDate).TO_DATE);
-        // return await this.getAllSegments((this.buildRuntimeContext(maxDate).FROM_DATE), this.buildRuntimeContext(maxDate).TO_DATE);
+        if (this.config.cac_db_name ){
+           return await this.getMyJOSoap((this.buildRuntimeContext(maxDate).FROM_DATE), (this.buildRuntimeContext(maxDate).TO_DATE));
+         }
+         else{
+        return await this.getAllSegments((this.buildRuntimeContext(maxDate).FROM_DATE), this.buildRuntimeContext(maxDate).TO_DATE);
+        // return await this.getAllSegments('2026-02-14', this.buildRuntimeContext(maxDate).TO_DATE);
+        // }
       }
+    }
       else if (sourceType === 'xml') {
         return await this.fetchFromXMLAPI(maxDate);
         // } else if (sourceType === 'db' || sourceType === 'database') {
@@ -501,8 +624,8 @@ return await parseSoapResponse(response.data);
         params: {
           // dFrmDate: this.formatDate(Fromdate, 'DD-MMM-YYYY'), // 🔥 Zoho format
           // dToDate: this.formatDate(Todate, 'DD-MMM-YYYY'),
-          dFrmDate:'01-Feb-2026',
-          dToDate:'01-Feb-2026',
+          dFrmDate: this.formatDate(Fromdate, 'DD-MMM-YYYY'),
+          dToDate: this.formatDate(Todate, 'DD-MMM-YYYY'),
           publickey: api.public_key
         }
       });
@@ -729,7 +852,7 @@ return await parseSoapResponse(response.data);
 
     // 🔹 Token logic (ONLY if configured)
 
-    // console.log('API request headers:', body);
+    console.log('API request headers:', body);
     //  this.logger.info('Calling API', {
       //  url: cac_api_url,
 
@@ -741,8 +864,8 @@ return await parseSoapResponse(response.data);
     //  });
 
 
-    // console.log('API request body after placeholder replacement:', params);
-    // console.log('API request body after placeholder replacement:', headers);
+    console.log('API request body after placeholder replacement:', params);
+    console.log('API request body after placeholder replacement:', headers);
 
     // console.log('API request body after placeholder replacement:',  cac_http_method || 'POST', body);
     const response = await axios({
@@ -754,10 +877,10 @@ return await parseSoapResponse(response.data);
       timeout: 30000
     });
 
-    // console.log(
-      // 'API response status:',
-      // JSON.stringify(response.data, null, 2)
-    // );
+    console.log(
+      'API response status:',
+      JSON.stringify(response.data, null, 2)
+    );
 
     const contentType = response.headers['content-type'] || '';
 

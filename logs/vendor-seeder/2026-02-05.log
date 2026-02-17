@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-02-05T14:35:26.720Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-02-05T14:35:26.730Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-02-05T14:38:23.173Z"}
@@ -44,3 +45,9 @@
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-02-05T19:34:27.094Z"}
 {"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-02-05T19:34:39.202Z"}
 {"level":"warn","message":"No vendor data found in file","timestamp":"2026-02-05T19:34:39.231Z"}
+=======
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-02-05T15:59:39.716Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-02-05T15:59:39.737Z"}
+{"level":"info","message":"Starting vendor data seeding process","timestamp":"2026-02-05T16:00:03.080Z"}
+{"level":"warn","message":"No vendor data found in file","timestamp":"2026-02-05T16:00:03.098Z"}
+>>>>>>> 4fdb4db9b5f3167e890761cc54ff0316715cfff9

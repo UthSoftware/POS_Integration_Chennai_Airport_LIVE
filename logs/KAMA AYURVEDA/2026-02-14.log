@@ -1,0 +1,7 @@
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"[SOAP:TransactionSegment] connect EHOSTUNREACH 103.25.172.69:6001","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T07:03:00.195Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:03:01.708Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:04:01.406Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:05:00.354Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:06:00.474Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:07:00.555Z"}
+{"config":"4dc49225-631b-4c05-8859-5dffa41cde6d","error":"Unknown response format from POS API","level":"error","message":"Data fetch failed","timestamp":"2026-02-14T17:08:01.074Z"}

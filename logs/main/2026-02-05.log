@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T14:35:26.723Z"}
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T14:38:23.180Z"}
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T14:39:41.483Z"}
@@ -21,3 +22,7 @@
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T19:34:24.142Z"}
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T19:34:27.078Z"}
 {"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T19:34:39.214Z"}
+=======
+{"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T15:59:39.723Z"}
+{"level":"info","message":"HTTP server started on port 3001","timestamp":"2026-02-05T16:00:03.088Z"}
+>>>>>>> 4fdb4db9b5f3167e890761cc54ff0316715cfff9
