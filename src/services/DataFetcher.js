@@ -829,7 +829,7 @@ return await parseSoapResponse(response.data);
     let body = null
     let headers = {};
     let params = {};
-
+let data; 
 
     // console.log('API request headers before placeholder replacement:', cac_xmlbody);
     if (cac_xmlbody) {
@@ -869,9 +869,28 @@ return await parseSoapResponse(response.data);
        
     //  });
 
+    // 🔥 NEW: Handle x-www-form-urlencoded for vendors with no token
+    const noTokenBodyType = (this.config.auth_body_type_no_token || '').toLowerCase();
 
-    console.log('API request body after placeholder replacement:', params);
-    console.log('API request body after placeholder replacement:', headers);
+    if (noTokenBodyType === 'x-www-form-urlencoded') {
+      headers['Content-Type'] = 'application/x-www-form-urlencoded';
+      const form = new URLSearchParams();
+      if (body && typeof body === 'object') {
+        Object.entries(body).forEach(([k, v]) => {
+          if (v !== undefined && v !== null) {
+            form.append(k, v);
+          }
+        });
+      }
+      data = form.toString();
+    } else {
+      data = body;
+    }
+
+
+
+    // console.log('API request body after placeholder replacement:', params);
+    // console.log('API request body after placeholder replacement:', headers);
 
     // console.log('API request body after placeholder replacement:',  cac_http_method || 'POST', body);
     const response = await axios({
@@ -879,7 +898,8 @@ return await parseSoapResponse(response.data);
       url: cac_api_url,
       headers,
       params,
-      data: body,
+      // data: body,
+      data:data,
       timeout: 30000
     });
 
